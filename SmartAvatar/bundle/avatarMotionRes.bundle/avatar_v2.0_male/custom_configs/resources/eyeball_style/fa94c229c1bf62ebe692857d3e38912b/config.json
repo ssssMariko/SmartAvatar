@@ -1,0 +1,12 @@
+{
+    "action": "changeTexture",
+    "category": "eyeball_style",
+    "entityName": "left_eyeball,right_eyeball",
+    "id": "fa94c229c1bf62ebe692857d3e38912b",
+    "value": {
+        "key": "baseColorMap",
+        "switchKey": "baseColorEnableTexture",
+        "switchValue": true,
+        "value": "custom_configs/resources/eyeball_style/fa94c229c1bf62ebe692857d3e38912b/eyeball_tex_4.png"
+    }
+}

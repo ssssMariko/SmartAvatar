@@ -1,0 +1,12 @@
+{
+    "action": "changeTexture",
+    "category": "beard_makeup",
+    "entityName": "face_main",
+    "id": "62f91064c7415259fbb16ace4e55c341",
+    "value": {
+        "key": "baseBeardMap",
+        "switchKey": "baseBeardEnableTexture",
+        "switchValue": true,
+        "value": "custom_configs/resources/beard_makeup/62f91064c7415259fbb16ace4e55c341/facialhair_tex_1.png"
+    }
+}

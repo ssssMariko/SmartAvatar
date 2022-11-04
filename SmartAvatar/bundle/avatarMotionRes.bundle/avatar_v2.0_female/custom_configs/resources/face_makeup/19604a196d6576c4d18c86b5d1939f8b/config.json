@@ -1,0 +1,12 @@
+{
+    "action": "changeTexture",
+    "category": "face_makeup",
+    "entityName": "face_main",
+    "id": "19604a196d6576c4d18c86b5d1939f8b",
+    "value": {
+        "key": "faceMakeupMap",
+        "switchKey": "faceMakeupEnableTexture",
+        "switchValue": true,
+        "value": "custom_configs/resources/face_makeup/19604a196d6576c4d18c86b5d1939f8b/freckles_tex_1.png"
+    }
+}

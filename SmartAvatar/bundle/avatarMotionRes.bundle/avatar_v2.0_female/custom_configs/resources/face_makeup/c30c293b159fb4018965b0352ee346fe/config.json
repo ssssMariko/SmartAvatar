@@ -1,0 +1,12 @@
+{
+    "action": "changeTexture",
+    "category": "face_makeup",
+    "entityName": "face_main",
+    "id": "c30c293b159fb4018965b0352ee346fe",
+    "value": {
+        "key": "faceMakeupMap",
+        "switchKey": "faceMakeupEnableTexture",
+        "switchValue": true,
+        "value": "custom_configs/resources/face_makeup/c30c293b159fb4018965b0352ee346fe/blush_tex_3.png"
+    }
+}

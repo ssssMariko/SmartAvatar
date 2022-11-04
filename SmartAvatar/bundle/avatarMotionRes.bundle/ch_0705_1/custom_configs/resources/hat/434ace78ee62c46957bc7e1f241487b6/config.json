@@ -1,0 +1,31 @@
+{
+    "action": "replace",
+    "category": "hat",
+    "entityName": "Wolf3D_Headwear",
+    "id": "434ace78ee62c46957bc7e1f241487b6",
+    "value": {
+        "meshResourceKey": "custom_configs/resources/hat/434ace78ee62c46957bc7e1f241487b6/Wolf3D_Headwear.fmesh",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "subMeshConfigs": [
+            {
+                "materialResourceKeys": [
+                    "custom_configs/resources/hat/434ace78ee62c46957bc7e1f241487b6/Wolf3D_Headwear.fmaterial"
+                ]
+            }
+        ]
+    }
+}

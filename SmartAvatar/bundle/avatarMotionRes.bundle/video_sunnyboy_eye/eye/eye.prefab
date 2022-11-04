@@ -1,0 +1,296 @@
+{
+ "initialized": true,
+ "object_tree_root": {
+  "children": [
+   {
+    "children": [
+     {
+      "children": [
+       {
+        "children": [],
+        "components": [
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "needReload": true,
+          "objectEnabled": true,
+          "paused": false,
+          "position": {
+           "x": -0.04188324883580208,
+           "y": 1.0738751888275146,
+           "z": 0.030770767480134964
+          },
+          "rotation": {
+           "w": 1,
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "scale": {
+           "x": 1,
+           "y": 1,
+           "z": 1
+          },
+          "skipUpdate": false,
+          "type": "BasicTransform",
+          "visible": true,
+          "eEuler": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          }
+         },
+         {
+          "castShadow": true,
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "frustumCulling": true,
+          "meshResourceKey": "78a7b6a1-94af-4907-8138-fb474f792eeb",
+          "needReload": true,
+          "paused": false,
+          "priority": 4,
+          "receiveShadow": true,
+          "skinInfoResourceKey": "",
+          "subMeshConfigs": [
+           {
+            "materialResourceKeys": [
+             "2780d475-14b2-42d1-bbfe-7723ef2b8e95"
+            ]
+           }
+          ],
+          "type": "MeshRenderer3DComponentV3"
+         },
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "layers": 1,
+          "needReload": true,
+          "paused": false,
+          "type": "LayerSetComponent"
+         },
+         {
+          "guid": "64d0aeb2-3c5e-4188-9291-ee84de6eb0e4",
+          "type": "PrefabEntityShadow",
+          "enabled": true
+         }
+        ],
+        "enabled": true,
+        "forbid": false,
+        "id": 0,
+        "name": "eye_R"
+       },
+       {
+        "children": [],
+        "components": [
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "needReload": true,
+          "objectEnabled": true,
+          "paused": false,
+          "position": {
+           "x": 0.04761064797639847,
+           "y": 1.071596622467041,
+           "z": 0.032597389072179794
+          },
+          "rotation": {
+           "w": 1,
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "scale": {
+           "x": 1,
+           "y": 1,
+           "z": 1
+          },
+          "skipUpdate": false,
+          "type": "BasicTransform",
+          "visible": true,
+          "eEuler": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          }
+         },
+         {
+          "castShadow": true,
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "frustumCulling": true,
+          "meshResourceKey": "259925c2-d6ae-4fe2-917b-42d548a41f41",
+          "needReload": true,
+          "paused": false,
+          "priority": 4,
+          "receiveShadow": true,
+          "skinInfoResourceKey": "",
+          "subMeshConfigs": [
+           {
+            "materialResourceKeys": [
+             "2780d475-14b2-42d1-bbfe-7723ef2b8e95"
+            ]
+           }
+          ],
+          "type": "MeshRenderer3DComponentV3"
+         },
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "layers": 1,
+          "needReload": true,
+          "paused": false,
+          "type": "LayerSetComponent"
+         },
+         {
+          "guid": "af6160bd-d6af-4ff0-9af0-45a1afee8b33",
+          "type": "PrefabEntityShadow",
+          "enabled": true
+         }
+        ],
+        "enabled": true,
+        "forbid": false,
+        "id": 0,
+        "name": "eye_L"
+       }
+      ],
+      "components": [
+       {
+        "componentID": 0,
+        "enabled": true,
+        "entityId": 0,
+        "needReload": true,
+        "objectEnabled": true,
+        "paused": false,
+        "position": {
+         "x": 0,
+         "y": 0,
+         "z": 0
+        },
+        "rotation": {
+         "w": 1,
+         "x": 0,
+         "y": 0,
+         "z": 0
+        },
+        "scale": {
+         "x": 1,
+         "y": 1,
+         "z": 1
+        },
+        "skipUpdate": false,
+        "type": "BasicTransform",
+        "visible": true,
+        "eEuler": {
+         "x": 0,
+         "y": 0,
+         "z": 0
+        }
+       },
+       {
+        "guid": "5aee95c8-e5d5-492c-bc71-56a18da65a3b",
+        "type": "PrefabEntityShadow",
+        "enabled": true
+       }
+      ],
+      "enabled": true,
+      "forbid": false,
+      "id": 0,
+      "name": "Scene"
+     }
+    ],
+    "components": [
+     {
+      "componentID": 0,
+      "enabled": true,
+      "entityId": 0,
+      "needReload": true,
+      "objectEnabled": true,
+      "paused": false,
+      "position": {
+       "x": 0,
+       "y": 0,
+       "z": 0
+      },
+      "rotation": {
+       "w": 1,
+       "x": 0,
+       "y": 0,
+       "z": 0
+      },
+      "scale": {
+       "x": 1,
+       "y": 1,
+       "z": 1
+      },
+      "skipUpdate": false,
+      "type": "BasicTransform",
+      "visible": true,
+      "eEuler": {
+       "x": 0,
+       "y": 0,
+       "z": 0
+      }
+     },
+     {
+      "guid": "d083ecac-aa9e-42d5-9f76-15f3e6536d37",
+      "type": "PrefabEntityShadow",
+      "enabled": true
+     }
+    ],
+    "enabled": true,
+    "forbid": false,
+    "id": 0,
+    "name": "Scenes"
+   }
+  ],
+  "components": [
+   {
+    "componentID": 0,
+    "enabled": true,
+    "entityId": 0,
+    "needReload": true,
+    "objectEnabled": true,
+    "paused": false,
+    "position": {
+     "x": 0,
+     "y": 0,
+     "z": 0
+    },
+    "rotation": {
+     "w": 1,
+     "x": 0,
+     "y": 0,
+     "z": 0
+    },
+    "scale": {
+     "x": 1,
+     "y": 1,
+     "z": 1
+    },
+    "skipUpdate": false,
+    "type": "BasicTransform",
+    "visible": true,
+    "eEuler": {
+     "x": 0,
+     "y": 0,
+     "z": 0
+    }
+   },
+   {
+    "guid": "bcc2cd9e-1318-4b41-ac05-679f00ed23ad",
+    "type": "PrefabEntityShadow",
+    "enabled": true
+   }
+  ],
+  "enabled": true,
+  "forbid": false,
+  "id": 0,
+  "name": "eye(prefab)"
+ }
+}

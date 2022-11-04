@@ -1,0 +1,220 @@
+{
+ "initialized": true,
+ "object_tree_root": {
+  "children": [
+   {
+    "children": [
+     {
+      "children": [
+       {
+        "children": [],
+        "components": [
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "needReload": true,
+          "objectEnabled": true,
+          "paused": false,
+          "position": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "rotation": {
+           "w": 1,
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "scale": {
+           "x": 1,
+           "y": 1,
+           "z": 1
+          },
+          "skipUpdate": false,
+          "type": "BasicTransform",
+          "visible": true,
+          "eEuler": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          }
+         },
+         {
+          "castShadow": true,
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "frustumCulling": true,
+          "meshResourceKey": "206e502e-3880-4159-a86b-76526f60d7f1",
+          "needReload": true,
+          "paused": false,
+          "priority": 4,
+          "receiveShadow": true,
+          "skinInfoResourceKey": "",
+          "subMeshConfigs": [
+           {
+            "materialResourceKeys": [
+             "bbb9d222-0e0b-439d-aba5-92a6ded49d63"
+            ]
+           }
+          ],
+          "type": "MeshRenderer3DComponentV3"
+         },
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "layers": 1,
+          "needReload": true,
+          "paused": false,
+          "type": "LayerSetComponent"
+         },
+         {
+          "guid": "d4a5260f-1b44-4897-8947-f7a31bc71a35",
+          "type": "PrefabEntityShadow",
+          "enabled": true
+         }
+        ],
+        "enabled": true,
+        "forbid": false,
+        "id": 0,
+        "name": "plane"
+       }
+      ],
+      "components": [
+       {
+        "componentID": 0,
+        "enabled": true,
+        "entityId": 0,
+        "needReload": true,
+        "objectEnabled": true,
+        "paused": false,
+        "position": {
+         "x": 0,
+         "y": 0,
+         "z": 0
+        },
+        "rotation": {
+         "w": 1,
+         "x": 0,
+         "y": 0,
+         "z": 0
+        },
+        "scale": {
+         "x": 1,
+         "y": 1,
+         "z": 1
+        },
+        "skipUpdate": false,
+        "type": "BasicTransform",
+        "visible": true,
+        "eEuler": {
+         "x": 0,
+         "y": 0,
+         "z": 0
+        }
+       },
+       {
+        "guid": "3e26535c-70a1-47cf-aa15-f040884d6fe8",
+        "type": "PrefabEntityShadow",
+        "enabled": true
+       }
+      ],
+      "enabled": true,
+      "forbid": false,
+      "id": 0,
+      "name": "Scene"
+     }
+    ],
+    "components": [
+     {
+      "componentID": 0,
+      "enabled": true,
+      "entityId": 0,
+      "needReload": true,
+      "objectEnabled": true,
+      "paused": false,
+      "position": {
+       "x": 0,
+       "y": 0,
+       "z": 0
+      },
+      "rotation": {
+       "w": 1,
+       "x": 0,
+       "y": 0,
+       "z": 0
+      },
+      "scale": {
+       "x": 1,
+       "y": 1,
+       "z": 1
+      },
+      "skipUpdate": false,
+      "type": "BasicTransform",
+      "visible": true,
+      "eEuler": {
+       "x": 0,
+       "y": 0,
+       "z": 0
+      }
+     },
+     {
+      "guid": "57eb1851-b6e5-4579-8f2e-6fc470396248",
+      "type": "PrefabEntityShadow",
+      "enabled": true
+     }
+    ],
+    "enabled": true,
+    "forbid": false,
+    "id": 0,
+    "name": "Scenes"
+   }
+  ],
+  "components": [
+   {
+    "componentID": 0,
+    "enabled": true,
+    "entityId": 0,
+    "needReload": true,
+    "objectEnabled": true,
+    "paused": false,
+    "position": {
+     "x": 0,
+     "y": 0,
+     "z": 0
+    },
+    "rotation": {
+     "w": 1,
+     "x": 0,
+     "y": 0,
+     "z": 0
+    },
+    "scale": {
+     "x": 1,
+     "y": 1,
+     "z": 1
+    },
+    "skipUpdate": false,
+    "type": "BasicTransform",
+    "visible": true,
+    "eEuler": {
+     "x": 0,
+     "y": 0,
+     "z": 0
+    }
+   },
+   {
+    "guid": "977b622e-3132-41ec-9a25-601f982b6475",
+    "type": "PrefabEntityShadow",
+    "enabled": true
+   }
+  ],
+  "enabled": true,
+  "forbid": false,
+  "id": 0,
+  "name": "plane(prefab)"
+ }
+}

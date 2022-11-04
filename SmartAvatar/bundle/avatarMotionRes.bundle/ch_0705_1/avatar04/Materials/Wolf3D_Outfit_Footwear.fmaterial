@@ -1,0 +1,92 @@
+{
+  "renderState": {
+    "colorWrite": true,
+    "cullingMode": "BACK",
+    "depthCulling": true,
+    "depthWrite": true,
+    "doubleSided": false,
+    "maskThreshold": 0.5
+  },
+  "shaderResourceKey": "internal:lit_opaque",
+  "values": {
+    "aoEnableTexture": false,
+    "aoSamplingChannel": 0,
+    "aoStrength": 1.0,
+    "baseColorEnableTexture": true,
+    "baseColorFactor": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "baseColorIndex": 0,
+    "baseColorMap": {
+      "uri": "e63346ac-a1f3-4d63-83a2-43037789a000"
+    },
+    "baseColorTexturePremultiplied": false,
+    "baseColorUvMatrix": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "clearCoatEnableTexture": false,
+    "clearCoatFactor": 0.0,
+    "clearCoatNormalEnableTexture": false,
+    "clearCoatNormalScale": 0.0,
+    "clearCoatRoughnessEnableTexture": false,
+    "clearCoatRoughnessFactor": 0.0,
+    "emissiveEnableTexture": false,
+    "emissiveEnableTextureColorMultiply": true,
+    "emissiveFactor": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emissiveStrength": 1.0,
+    "metallicFactor": 0.0,
+    "metallicRoughnessEnableTexture": true,
+    "metallicRoughnessIndex": 0,
+    "metallicRoughnessMap": {
+      "uri": "d5f7214b-e979-4d00-9301-28338b82a1b9"
+    },
+    "metallicRoughnessUvMatrix": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "metallicSamplingChannel": 2,
+    "normalEnableGReverse": false,
+    "normalEnableTexture": true,
+    "normalIndex": 0,
+    "normalMap": {
+      "uri": "b8271bcc-dc11-4b69-893b-0d861546dd92"
+    },
+    "normalScale": 1.0,
+    "normalUvMatrix": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "roughnessFactor": 1.0,
+    "roughnessSamplingChannel": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "data": [
+        {
+            "action": "shapeValue",
+            "category": "eyes_shape_value",
+            "entityName": "face_main,eyelashes",
+            "id": "eyes_shape_value",
+            "value": {
+                "eye_size":0,
+                "eye_place":0,
+                "eye_angle":0,
+                "eye_spacing":0
+            }
+        }
+    ],
+    "type": 1
+}

@@ -1,0 +1,10 @@
+{
+    "action": "changeTexture",
+    "category": "eyes_makeup",
+    "entityName": "face_main",
+    "id": "none",
+    "value": {
+        "switchKey": "eyesMakeupEnableTexture",
+        "switchValue": false
+    }
+}

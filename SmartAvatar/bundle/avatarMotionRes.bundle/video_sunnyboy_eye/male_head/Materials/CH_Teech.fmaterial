@@ -1,0 +1,24 @@
+{
+    "renderState": {
+        "colorWrite": true,
+        "depthWrite": true,
+        "depthCulling": true,
+        "doubleSided": false,
+        "cullingMode": "BACK"
+    },
+    "shaderResourceKey": "internal:unlit_opaque",
+    "values": {
+        "baseColorFactor": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "baseColorEnableTexture": true,
+        "baseColorMap": {
+            "uri": "2e2e8abe-fd8e-4c4b-8a8b-287311dda20c"
+        },
+        "baseColorIndex": 0,
+        "baseColorTexturePremultiplied": false
+    }
+}

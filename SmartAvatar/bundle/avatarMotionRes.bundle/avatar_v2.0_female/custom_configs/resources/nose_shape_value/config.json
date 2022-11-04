@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "action": "shapeValue",
+            "category": "nose_shape_value",
+            "entityName": "face_main",
+            "id": "nose_shape_value",
+            "value": {
+                "nose_place": 0,
+                "nose_size": 0,
+                "nose_tipplace": 0,
+                "nose_width": 0,
+                "nose_wingsize": 0
+            }
+        }
+    ],
+    "type": 1
+}

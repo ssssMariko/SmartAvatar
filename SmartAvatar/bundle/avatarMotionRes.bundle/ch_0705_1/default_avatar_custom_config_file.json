@@ -1,0 +1,191 @@
+{
+    "data": [
+        {
+            "action": "replace",
+            "category": "glass",
+            "entityName": "Wolf3D_Glasses",
+            "id": "07e54faf2648f8f20d16d46e8768acb9",
+            "value": {
+                "meshResourceKey": "custom_configs/resources/glass/07e54faf2648f8f20d16d46e8768acb9/Wolf3D_Glasses.fmesh",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1,
+                    "z": 1
+                },
+                "subMeshConfigs": [
+                    {
+                        "materialResourceKeys": [
+                            "custom_configs/resources/glass/07e54faf2648f8f20d16d46e8768acb9/Wolf3D_Glasses.fmaterial"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "action": "replace",
+            "category": "hat",
+            "entityName": "Wolf3D_Headwear",
+            "id": "434ace78ee62c46957bc7e1f241487b6",
+            "value": {
+                "meshResourceKey": "custom_configs/resources/hat/434ace78ee62c46957bc7e1f241487b6/Wolf3D_Headwear.fmesh",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1,
+                    "z": 1
+                },
+                "subMeshConfigs": [
+                    {
+                        "materialResourceKeys": [
+                            "custom_configs/resources/hat/434ace78ee62c46957bc7e1f241487b6/Wolf3D_Headwear.fmaterial"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "action": "replace",
+            "category": "shoes",
+            "entityName": "Wolf3D_Outfit_Footwear",
+            "id": "5c0443574c321c7a663b5cd4b11dc6fa",
+            "value": {
+                "meshResourceKey": "custom_configs/resources/shoes/5c0443574c321c7a663b5cd4b11dc6fa/Wolf3D_Outfit_Footwear.fmesh",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1,
+                    "z": 1
+                },
+                "subMeshConfigs": [
+                    {
+                        "materialResourceKeys": [
+                            "custom_configs/resources/shoes/5c0443574c321c7a663b5cd4b11dc6fa/Wolf3D_Outfit_Footwear.fmaterial"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "action": "replace",
+            "category": "background_plane",
+            "entityName": "plane",
+            "id": "1549ef04ca0c5110389a684dfe95ad9a",
+            "value": {
+                "meshResourceKey": "custom_configs/resources/background_plane/1549ef04ca0c5110389a684dfe95ad9a/plane.fmesh",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1,
+                    "z": 1
+                },
+                "subMeshConfigs": [
+                    {
+                        "materialResourceKeys": [
+                            "custom_configs/resources/background_plane/1549ef04ca0c5110389a684dfe95ad9a/plane.fmaterial"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "action": "replace",
+            "category": "dress_top",
+            "entityName": "Wolf3D_Outfit_Top",
+            "id": "eb8a97091c86f560852a29a2ec610491",
+            "value": {
+                "meshResourceKey": "custom_configs/resources/dress_top/eb8a97091c86f560852a29a2ec610491/Wolf3D_Outfit_Top.fmesh",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1,
+                    "z": 1
+                },
+                "subMeshConfigs": [
+                    {
+                        "materialResourceKeys": [
+                            "custom_configs/resources/dress_top/eb8a97091c86f560852a29a2ec610491/Wolf3D_Outfit_Top.fmaterial"
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "action": "replace",
+            "category": "dress_bottom",
+            "entityName": "Wolf3D_Outfit_Bottom",
+            "id": "d2165ab4b03f4adb9bb5164c3fc0f659",
+            "value": {
+                "meshResourceKey": "custom_configs/resources/dress_bottom/d2165ab4b03f4adb9bb5164c3fc0f659/Wolf3D_Outfit_Bottom.fmesh",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": {
+                    "x": 1,
+                    "y": 1,
+                    "z": 1
+                },
+                "subMeshConfigs": [
+                    {
+                        "materialResourceKeys": [
+                            "custom_configs/resources/dress_bottom/d2165ab4b03f4adb9bb5164c3fc0f659/Wolf3D_Outfit_Bottom.fmaterial"
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "version": 0
+}

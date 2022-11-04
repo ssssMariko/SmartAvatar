@@ -1,0 +1,31 @@
+{
+    "action": "replace",
+    "category": "dress_bottom",
+    "entityName": "Wolf3D_Outfit_Bottom",
+    "id": "d2165ab4b03f4adb9bb5164c3fc0f659",
+    "value": {
+        "meshResourceKey": "custom_configs/resources/dress_bottom/d2165ab4b03f4adb9bb5164c3fc0f659/Wolf3D_Outfit_Bottom.fmesh",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "subMeshConfigs": [
+            {
+                "materialResourceKeys": [
+                    "custom_configs/resources/dress_bottom/d2165ab4b03f4adb9bb5164c3fc0f659/Wolf3D_Outfit_Bottom.fmaterial"
+                ]
+            }
+        ]
+    }
+}

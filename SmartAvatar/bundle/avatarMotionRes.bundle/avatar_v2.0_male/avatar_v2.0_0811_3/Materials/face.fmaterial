@@ -1,0 +1,54 @@
+{
+    "renderState": {
+        "colorWrite": true,
+        "depthWrite": true,
+        "depthCulling": true,
+        "doubleSided": false,
+        "cullingMode": "BACK",
+        "maskThreshold": 0.4000000059604645
+    },
+    "shaderResourceKey": "37279499-f3fd-4d74-97f1-3a260be5e977",
+    "values": {
+        "baseColorFactor": [
+            0.8666666666666667,
+            0.6509803921568628,
+            0.5529411764705883,
+            1
+        ],
+        "baseColorEnableTexture": true,
+        "baseColorMap": {
+            "uri": "a5ccfdb5-c8e6-4355-8175-2907ef352f49"
+        },
+        "baseColorIndex": 0,
+        "baseColorTexturePremultiplied": false,
+        "eyesMakeupEnableTexture": false,
+        "eyesMakeupMap": {
+            "uri": "82c26561-aad0-4cdb-a658-fa6c2ca60216"
+        },
+        "faceMakeupEnableTexture": true,
+        "faceMakeupMap": {
+            "uri": "5d6489ad-5a1d-4db7-a480-f8f416919d77"
+        },
+        "lipMakeupEnableTexture": false,
+        "lipMakeupMap": {
+            "uri": "1efce906-eb81-4e54-b841-ea74b77b4820"
+        },
+        "baseBeardEnableTexture": false,
+        "baseBeardMap": {
+            "uri": "b270558e-7994-4e8d-9ab4-847e9ae3253b"
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.55,
+        "emissiveFactor": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "emissiveEnableTexture": false,
+        "emissiveMap": "",
+        "emissiveIndex": 0,
+        "emissiveStrength": 1,
+        "emissiveEnableTextureColorMultiply": true
+    }
+}

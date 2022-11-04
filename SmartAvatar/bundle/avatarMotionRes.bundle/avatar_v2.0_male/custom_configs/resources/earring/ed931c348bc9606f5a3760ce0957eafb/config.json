@@ -1,0 +1,31 @@
+{
+    "action": "replace",
+    "category": "earring",
+    "entityName": "earring",
+    "id": "ed931c348bc9606f5a3760ce0957eafb",
+    "value": {
+        "meshResourceKey": "custom_configs/resources/earring/ed931c348bc9606f5a3760ce0957eafb/earring_02.fmesh",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "subMeshConfigs": [
+            {
+                "materialResourceKeys": [
+                    "custom_configs/resources/earring/ed931c348bc9606f5a3760ce0957eafb/earring_2.fmaterial"
+                ]
+            }
+        ]
+    }
+}

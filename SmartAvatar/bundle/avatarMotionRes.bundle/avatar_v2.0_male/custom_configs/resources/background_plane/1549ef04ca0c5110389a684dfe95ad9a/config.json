@@ -1,0 +1,31 @@
+{
+    "action": "replace",
+    "category": "background_plane",
+    "entityName": "plane",
+    "id": "1549ef04ca0c5110389a684dfe95ad9a",
+    "value": {
+        "meshResourceKey": "custom_configs/resources/background_plane/1549ef04ca0c5110389a684dfe95ad9a/plane.fmesh",
+        "position": {
+            "x": 0,
+            "y": 0.03545668721199035,
+            "z": 7.872966103936807e-18
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "subMeshConfigs": [
+            {
+                "materialResourceKeys": [
+                    "custom_configs/resources/background_plane/1549ef04ca0c5110389a684dfe95ad9a/plane.fmaterial"
+                ]
+            }
+        ]
+    }
+}

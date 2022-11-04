@@ -1,0 +1,10 @@
+{
+    "action": "changeTexture",
+    "category": "eyelashes_style",
+    "entityName": "eyelashes",
+    "id": "none",
+    "value": {
+        "switchKey": "baseColorEnableTexture",
+        "switchValue": false
+    }
+}

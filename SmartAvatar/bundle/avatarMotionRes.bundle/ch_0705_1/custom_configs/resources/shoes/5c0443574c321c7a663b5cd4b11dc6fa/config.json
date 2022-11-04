@@ -1,0 +1,31 @@
+{
+    "action": "replace",
+    "category": "shoes",
+    "entityName": "Wolf3D_Outfit_Footwear",
+    "id": "5c0443574c321c7a663b5cd4b11dc6fa",
+    "value": {
+        "meshResourceKey": "custom_configs/resources/shoes/5c0443574c321c7a663b5cd4b11dc6fa/Wolf3D_Outfit_Footwear.fmesh",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "subMeshConfigs": [
+            {
+                "materialResourceKeys": [
+                    "custom_configs/resources/shoes/5c0443574c321c7a663b5cd4b11dc6fa/Wolf3D_Outfit_Footwear.fmaterial"
+                ]
+            }
+        ]
+    }
+}

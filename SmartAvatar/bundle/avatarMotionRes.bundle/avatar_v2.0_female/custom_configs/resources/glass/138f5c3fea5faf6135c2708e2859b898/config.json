@@ -1,0 +1,31 @@
+{
+    "action": "replace",
+    "category": "glass",
+    "entityName": "glass",
+    "id": "138f5c3fea5faf6135c2708e2859b898",
+    "value": {
+        "meshResourceKey": "custom_configs/resources/glass/138f5c3fea5faf6135c2708e2859b898/glass_01.fmesh",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "subMeshConfigs": [
+            {
+                "materialResourceKeys": [
+                    "custom_configs/resources/glass/138f5c3fea5faf6135c2708e2859b898/glass_1.fmaterial"
+                ]
+            }
+        ]
+    }
+}

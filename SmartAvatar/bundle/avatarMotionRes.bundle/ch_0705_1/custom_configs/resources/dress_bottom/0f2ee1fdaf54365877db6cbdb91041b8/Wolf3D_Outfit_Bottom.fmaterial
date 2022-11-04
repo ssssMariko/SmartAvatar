@@ -1,0 +1,92 @@
+{
+    "renderState": {
+        "colorWrite": true,
+        "cullingMode": "BACK",
+        "depthCulling": true,
+        "depthWrite": true,
+        "doubleSided": false,
+        "maskThreshold": 0.5
+    },
+    "shaderResourceKey": "internal:lit_opaque",
+    "values": {
+        "aoEnableTexture": false,
+        "aoSamplingChannel": 0,
+        "aoStrength": 1.0,
+        "baseColorEnableTexture": true,
+        "baseColorFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "baseColorIndex": 0,
+        "baseColorMap": {
+            "uri": "custom_configs/resources/dress_bottom/0f2ee1fdaf54365877db6cbdb91041b8/Image_9.png"
+        },
+        "baseColorTexturePremultiplied": false,
+        "baseColorUvMatrix": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "clearCoatEnableTexture": false,
+        "clearCoatFactor": 0.0,
+        "clearCoatNormalEnableTexture": false,
+        "clearCoatNormalScale": 0.0,
+        "clearCoatRoughnessEnableTexture": false,
+        "clearCoatRoughnessFactor": 0.0,
+        "emissiveEnableTexture": false,
+        "emissiveEnableTextureColorMultiply": true,
+        "emissiveFactor": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "emissiveStrength": 1.0,
+        "metallicFactor": 0.0,
+        "metallicRoughnessEnableTexture": true,
+        "metallicRoughnessIndex": 0,
+        "metallicRoughnessMap": {
+            "uri": "custom_configs/resources/dress_bottom/0f2ee1fdaf54365877db6cbdb91041b8/Image_10.png"
+        },
+        "metallicRoughnessUvMatrix": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "metallicSamplingChannel": 2,
+        "normalEnableGReverse": false,
+        "normalEnableTexture": true,
+        "normalIndex": 0,
+        "normalMap": {
+            "uri": "custom_configs/resources/dress_bottom/0f2ee1fdaf54365877db6cbdb91041b8/Image_8.jpg"
+        },
+        "normalScale": 1.0,
+        "normalUvMatrix": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "roughnessFactor": 1.0,
+        "roughnessSamplingChannel": 1
+    }
+}

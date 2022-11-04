@@ -1,0 +1,12 @@
+{
+    "action": "changeTexture",
+    "category": "neck_color",
+    "entityName": "neck",
+    "id": "5762d3bd33644f9a17921e56cdeb046a",
+    "value": {
+        "key": "baseColorMap",
+        "switchKey": "baseColorEnableTexture",
+        "switchValue": true,
+        "value": "custom_configs/resources/neck_color/5762d3bd33644f9a17921e56cdeb046a/neck_tex_base_1.png"
+    }
+}

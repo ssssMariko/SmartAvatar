@@ -1,0 +1,12 @@
+{
+    "action": "changeTexture",
+    "category": "eyelashes_style",
+    "entityName": "eyelashes",
+    "id": "dd07695da074b26e23b09a58731cb6f4",
+    "value": {
+        "key": "baseColorMap",
+        "switchKey": "baseColorEnableTexture",
+        "switchValue": true,
+        "value": "custom_configs/resources/eyelashes_style/dd07695da074b26e23b09a58731cb6f4/eyelash_tex_3.png"
+    }
+}

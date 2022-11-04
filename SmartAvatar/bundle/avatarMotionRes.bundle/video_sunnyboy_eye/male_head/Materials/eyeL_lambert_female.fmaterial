@@ -1,0 +1,55 @@
+{
+    "renderState": {
+        "colorWrite": true,
+        "depthWrite": true,
+        "depthCulling": true,
+        "doubleSided": false,
+        "cullingMode": "BACK"
+    },
+    "shaderResourceKey": "9bd3b0bf-bc46-47d7-9bd9-82d6d2d81c29",
+    "values": {
+        "metallicFactor": 0,
+        "roughnessFactor": 0.15,
+        "normalMap": {
+            "uri": "e4524c2e-9fe7-457e-83b7-05ae8304dd90"
+        },
+        "normalScale": 0,
+        "normalEnableGReverse": false,
+        "IrisUVRadius": 0.13,
+        "ScaleByCenter": 2.03,
+        "EyeDirectionWorld": {
+            "uri": "e4524c2e-9fe7-457e-83b7-05ae8304dd90"
+        },
+        "LimbusUVWidthColor": 0.01,
+        "LimbusUVWidthShading": 0.3,
+        "DepthScale": 0.29,
+        "PupilScale": 0.91,
+        "IrisColor": {
+            "uri": "44acb124-9471-4d20-839e-f8fde910082d"
+        },
+        "ScleraTint": [
+            0.8823529411764706,
+            0.8549019607843137,
+            0.8705882352941177,
+            1
+        ],
+        "Gradient": {
+            "uri": "79cae8af-e4b2-45eb-9303-384f52d0865c"
+        },
+        "GradientScaleAndOffset": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "FakeSpecColor": {
+            "uri": "3f7b9008-c6a6-4607-a99b-3ac081996b5a"
+        },
+        "FakeSpecScaleAndOffset": [
+            0.5,
+            0.5,
+            0,
+            0.25
+        ]
+    }
+}

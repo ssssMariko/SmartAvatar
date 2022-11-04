@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "action": "shapeValue",
+            "category": "mouth_shape_value",
+            "entityName": "face_main",
+            "id": "mouth_shape_value",
+            "value": {
+                "mouth_corner": 0.5,
+                "mouth_lowerlip": 0,
+                "mouth_place": 0,
+                "mouth_size": 0,
+                "mouth_upperlip": 0
+            }
+        }
+    ],
+    "type": 1
+}

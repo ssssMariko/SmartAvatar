@@ -1,0 +1,31 @@
+{
+    "action": "replace",
+    "category": "dress_top",
+    "entityName": "Wolf3D_Outfit_Top",
+    "id": "eb8a97091c86f560852a29a2ec610491",
+    "value": {
+        "meshResourceKey": "custom_configs/resources/dress_top/eb8a97091c86f560852a29a2ec610491/Wolf3D_Outfit_Top.fmesh",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "subMeshConfigs": [
+            {
+                "materialResourceKeys": [
+                    "custom_configs/resources/dress_top/eb8a97091c86f560852a29a2ec610491/Wolf3D_Outfit_Top.fmaterial"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "data": [
+        {
+            "action": "shapeValue",
+            "category": "face_type",
+            "entityName": "face_main",
+            "id": "b655d2779c40433234d9cd38e9638bfd",
+            "value": {
+                "cheek_width":0,
+                "jaw_length":0,
+                "chin_width":0,
+                "jaw_width":0,
+                "cheek_size":0
+            }
+        },
+        {
+            "action": "shapeValue",
+            "category": "face_type",
+            "entityName": "face_main",
+            "id": "daa741245f9dcc532b934df3d2e5ab02",
+            "value": {
+                "cheek_width":0,
+                "jaw_length":-1,
+                "chin_width":0.3,
+                "jaw_width":0.5,
+                "cheek_size":0.6
+            }
+        },
+        {
+            "action": "shapeValue",
+            "category": "face_type",
+            "entityName": "face_main",
+            "id": "54ac77b00ece28bc530ef7932dfffbc0",
+            "value": {
+                "cheek_width":0.2,
+                "jaw_length":0.2,
+                "chin_width":0,
+                "jaw_width":-0.2,
+                "cheek_size":-0.2
+            }
+        },
+        {
+            "action": "shapeValue",
+            "category": "face_type",
+            "entityName": "face_main",
+            "id": "056926285b76ddeea22a65a26a269784",
+            "value": {
+                "cheek_width":0,
+                "jaw_length":-0.5,
+                "chin_width":1,
+                "jaw_width":0,
+                "cheek_size":-0.7
+            }
+        }
+    ],
+    "type": 0
+}

@@ -1,0 +1,46 @@
+{
+  "renderState": {
+    "colorWrite": true,
+    "cullingMode": "BACK",
+    "depthCulling": true,
+    "depthWrite": true,
+    "doubleSided": true,
+    "maskThreshold": 0.5
+  },
+  "shaderResourceKey": "internal:lit_opaque",
+  "values": {
+    "aoEnableTexture": false,
+    "aoSamplingChannel": 0,
+    "aoStrength": 1.0,
+    "baseColorEnableTexture": false,
+    "baseColorFactor": [
+      0.3333333432674408,
+      0.12452887743711472,
+      0.10101472586393356,
+      1.0
+    ],
+    "clearCoatEnableTexture": false,
+    "clearCoatFactor": 0.0,
+    "clearCoatNormalEnableTexture": false,
+    "clearCoatNormalScale": 0.0,
+    "clearCoatRoughnessEnableTexture": false,
+    "clearCoatRoughnessFactor": 0.0,
+    "emissiveEnableTexture": false,
+    "emissiveEnableTextureColorMultiply": true,
+    "emissiveFactor": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "emissiveStrength": 1.0,
+    "metallicFactor": 0.5,
+    "metallicRoughnessEnableTexture": false,
+    "metallicSamplingChannel": 2,
+    "normalEnableGReverse": false,
+    "normalEnableTexture": false,
+    "normalScale": 1.0,
+    "roughnessFactor": 0.858578622341156,
+    "roughnessSamplingChannel": 1
+  }
+}

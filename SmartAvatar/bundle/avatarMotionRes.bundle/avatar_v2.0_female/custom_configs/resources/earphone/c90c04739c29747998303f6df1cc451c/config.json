@@ -1,0 +1,31 @@
+{
+    "action": "replace",
+    "category": "earphone",
+    "entityName": "earphone",
+    "id": "c90c04739c29747998303f6df1cc451c",
+    "value": {
+        "meshResourceKey": "custom_configs/resources/earphone/c90c04739c29747998303f6df1cc451c/earphone_01.fmesh",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "subMeshConfigs": [
+            {
+                "materialResourceKeys": [
+                    "custom_configs/resources/earphone/c90c04739c29747998303f6df1cc451c/earphone_1.fmaterial"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "action": "shapeValue",
+            "category": "eyebrow_style",
+            "entityName": "eyebrow",
+            "id": "eyebrow_style_0",
+            "value": {
+                "eyebrow_type_01": 1
+            }
+        },
+        {
+            "action": "shapeValue",
+            "category": "eyebrow_style",
+            "entityName": "eyebrow",
+            "id": "eyebrow_style_1",
+            "value": {
+                "eyebrow_type_01": 0
+            }
+        }
+    ],
+    "type": 0
+}

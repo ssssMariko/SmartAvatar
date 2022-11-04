@@ -1,0 +1,10 @@
+{
+    "action": "changeTexture",
+    "category": "neck_color",
+    "entityName": "neck",
+    "id": "none",
+    "value": {
+        "switchKey": "baseColorEnableTexture",
+        "switchValue": false
+    }
+}

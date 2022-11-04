@@ -1,0 +1,12 @@
+{
+    "action": "changeTexture",
+    "category": "lip_makeup",
+    "entityName": "face_main",
+    "id": "6b76fd03556e8cdba9fe91fd466003f1",
+    "value": {
+        "key": "lipMakeupMap",
+        "switchKey": "lipMakeupEnableTexture",
+        "switchValue": true,
+        "value": "custom_configs/resources/lip_makeup/6b76fd03556e8cdba9fe91fd466003f1/lipstick_tex_1.png"
+    }
+}

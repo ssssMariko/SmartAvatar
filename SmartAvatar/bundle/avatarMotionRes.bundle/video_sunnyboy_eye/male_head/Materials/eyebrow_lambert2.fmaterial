@@ -1,0 +1,23 @@
+{
+    "renderState": {
+        "colorWrite": true,
+        "depthWrite": true,
+        "depthCulling": true,
+        "doubleSided": false,
+        "cullingMode": "BACK",
+        "maskThreshold": 0.4000000059604645
+    },
+    "shaderResourceKey": "internal:unlit_masked",
+    "values": {
+        "baseColorFactor": [
+            0.023529411764705882,
+            0.01568627450980392,
+            0.01568627450980392,
+            1
+        ],
+        "baseColorEnableTexture": false,
+        "baseColorMap": "",
+        "baseColorIndex": 0,
+        "baseColorTexturePremultiplied": false
+    }
+}

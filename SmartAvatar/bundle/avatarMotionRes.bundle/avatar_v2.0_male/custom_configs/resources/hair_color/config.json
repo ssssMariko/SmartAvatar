@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "action": "changeColor",
+            "category": "hair_color",
+            "entityName": "hair",
+            "id": "ARGB#FF7F5E49",
+            "value": {
+                "key": "baseColorFactor",
+                "value": [
+                    127,
+                    94,
+                    73,
+                    255
+                ]
+            }
+        },
+        {
+            "action": "changeColor",
+            "category": "hair_color",
+            "entityName": "hair",
+            "id": "ARGB#FF4E4847",
+            "value": {
+                "key": "baseColorFactor",
+                "value": [
+                    78,
+                    72,
+                    71,
+                    255
+                ]
+            }
+        },
+        {
+            "action": "changeColor",
+            "category": "hair_color",
+            "entityName": "hair",
+            "id": "ARGB#FF2B1A17",
+            "value": {
+                "key": "baseColorFactor",
+                "value": [
+                    43,
+                    26,
+                    23,
+                    255
+                ]
+            }
+        },
+        {
+            "action": "changeColor",
+            "category": "hair_color",
+            "entityName": "hair",
+            "id": "ARGB#FF070609",
+            "value": {
+                "key": "baseColorFactor",
+                "value": [
+                    7,
+                    6,
+                    9,
+                    255
+                ]
+            }
+        },
+        {
+            "action": "changeColor",
+            "category": "hair_color",
+            "entityName": "hair",
+            "id": "ARGB#FF121418",
+            "value": {
+                "key": "baseColorFactor",
+                "value": [
+                    18,
+                    20,
+                    24,
+                    255
+                ]
+            }
+        },
+        {
+            "action": "changeColor",
+            "category": "hair_color",
+            "entityName": "hair",
+            "id": "ARGB#FF0B0D16",
+            "value": {
+                "key": "baseColorFactor",
+                "value": [
+                    11,
+                    13,
+                    22,
+                    255
+                ]
+            }
+        },
+        {
+            "action": "changeColor",
+            "category": "hair_color",
+            "entityName": "hair",
+            "id": "ARGB#FF96642E",
+            "value": {
+                "key": "baseColorFactor",
+                "value": [
+                    150,
+                    100,
+                    46,
+                    255
+                ]
+            }
+        },
+        {
+            "action": "changeColor",
+            "category": "hair_color",
+            "entityName": "hair",
+            "id": "ARGB#FFAE215C",
+            "value": {
+                "key": "baseColorFactor",
+                "value": [
+                    174,
+                    33,
+                    92,
+                    255
+                ]
+            }
+        }
+    ],
+    "type": 0
+}

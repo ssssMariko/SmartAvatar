@@ -1,0 +1,4136 @@
+{
+ "initialized": true,
+ "object_tree_root": {
+  "children": [
+   {
+    "children": [
+     {
+      "children": [
+       {
+        "children": [
+         {
+          "children": [],
+          "components": [
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "needReload": true,
+            "objectEnabled": true,
+            "paused": false,
+            "position": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "rotation": {
+             "w": 1,
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "scale": {
+             "x": 1,
+             "y": 1,
+             "z": 1
+            },
+            "skipUpdate": false,
+            "type": "BasicTransform",
+            "visible": true,
+            "eEuler": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            }
+           },
+           {
+            "castShadow": true,
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "frustumCulling": true,
+            "meshResourceKey": "6848b2e9-2153-45ce-846e-1c34881f0c77",
+            "needReload": true,
+            "paused": false,
+            "priority": 4,
+            "receiveShadow": true,
+            "skinInfoResourceKey": "aa3c91bb-aad1-459b-a0a8-8fe604fde27a",
+            "subMeshConfigs": [
+             {
+              "materialResourceKeys": [
+               "db2f12a7-2270-4bdc-b261-7072caaa0847"
+              ]
+             }
+            ],
+            "type": "MeshRenderer3DComponentV3"
+           },
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "layers": 1,
+            "needReload": true,
+            "paused": false,
+            "type": "LayerSetComponent"
+           },
+           {
+            "guid": "d209f17f-1aa0-46be-b2bb-d7887739c94a",
+            "type": "PrefabEntityShadow",
+            "enabled": true
+           }
+          ],
+          "enabled": true,
+          "forbid": false,
+          "id": 0,
+          "name": "EyeLeft"
+         },
+         {
+          "children": [],
+          "components": [
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "needReload": true,
+            "objectEnabled": true,
+            "paused": false,
+            "position": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "rotation": {
+             "w": 1,
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "scale": {
+             "x": 1,
+             "y": 1,
+             "z": 1
+            },
+            "skipUpdate": false,
+            "type": "BasicTransform",
+            "visible": true,
+            "eEuler": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            }
+           },
+           {
+            "castShadow": true,
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "frustumCulling": true,
+            "meshResourceKey": "4cf81183-c70d-4e33-9af0-c7630ada827f",
+            "needReload": true,
+            "paused": false,
+            "priority": 4,
+            "receiveShadow": true,
+            "skinInfoResourceKey": "aa3c91bb-aad1-459b-a0a8-8fe604fde27a",
+            "subMeshConfigs": [
+             {
+              "materialResourceKeys": [
+               "db2f12a7-2270-4bdc-b261-7072caaa0847"
+              ]
+             }
+            ],
+            "type": "MeshRenderer3DComponentV3"
+           },
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "layers": 1,
+            "needReload": true,
+            "paused": false,
+            "type": "LayerSetComponent"
+           },
+           {
+            "guid": "b8f8314a-5923-4042-8695-d3e9c64b9d50",
+            "type": "PrefabEntityShadow",
+            "enabled": true
+           }
+          ],
+          "enabled": true,
+          "forbid": false,
+          "id": 0,
+          "name": "EyeRight"
+         },
+         {
+          "children": [],
+          "components": [
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "needReload": true,
+            "objectEnabled": true,
+            "paused": false,
+            "position": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "rotation": {
+             "w": 1,
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "scale": {
+             "x": 1,
+             "y": 1,
+             "z": 1
+            },
+            "skipUpdate": false,
+            "type": "BasicTransform",
+            "visible": true,
+            "eEuler": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            }
+           },
+           {
+            "castShadow": true,
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "frustumCulling": true,
+            "meshResourceKey": "227d0b52-bde3-48d1-8fd9-a287d6de5f2c",
+            "needReload": true,
+            "paused": false,
+            "priority": 4,
+            "receiveShadow": true,
+            "skinInfoResourceKey": "aa3c91bb-aad1-459b-a0a8-8fe604fde27a",
+            "subMeshConfigs": [
+             {
+              "materialResourceKeys": [
+               "decea8ac-29bd-4f5e-ac5f-0e800bd3faea"
+              ]
+             }
+            ],
+            "type": "MeshRenderer3DComponentV3"
+           },
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "layers": 1,
+            "needReload": true,
+            "paused": false,
+            "type": "LayerSetComponent"
+           },
+           {
+            "guid": "eba9e948-9583-4da0-949e-0484f54bfd57",
+            "type": "PrefabEntityShadow",
+            "enabled": true
+           }
+          ],
+          "enabled": true,
+          "forbid": false,
+          "id": 0,
+          "name": "Wolf3D_Body"
+         },
+         {
+          "children": [],
+          "components": [
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "needReload": true,
+            "objectEnabled": true,
+            "paused": false,
+            "position": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "rotation": {
+             "w": 1,
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "scale": {
+             "x": 1,
+             "y": 1,
+             "z": 1
+            },
+            "skipUpdate": false,
+            "type": "BasicTransform",
+            "visible": true,
+            "eEuler": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            }
+           },
+           {
+            "castShadow": true,
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "frustumCulling": true,
+            "meshResourceKey": "6617b5fd-f7cd-44e6-927c-4f1d5f289865",
+            "needReload": true,
+            "paused": false,
+            "priority": 4,
+            "receiveShadow": true,
+            "skinInfoResourceKey": "aa3c91bb-aad1-459b-a0a8-8fe604fde27a",
+            "subMeshConfigs": [
+             {
+              "materialResourceKeys": [
+               "877eafb9-84fb-46c3-ada4-da6e9df3221c"
+              ]
+             }
+            ],
+            "type": "MeshRenderer3DComponentV3"
+           },
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "layers": 1,
+            "needReload": true,
+            "paused": false,
+            "type": "LayerSetComponent"
+           },
+           {
+            "guid": "e62d625f-9d9a-4dce-86fa-d2e73c8eb9ad",
+            "type": "PrefabEntityShadow",
+            "enabled": true
+           }
+          ],
+          "enabled": true,
+          "forbid": false,
+          "id": 0,
+          "name": "Wolf3D_Glasses"
+         },
+         {
+          "children": [],
+          "components": [
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "needReload": true,
+            "objectEnabled": true,
+            "paused": false,
+            "position": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "rotation": {
+             "w": 1,
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "scale": {
+             "x": 1,
+             "y": 1,
+             "z": 1
+            },
+            "skipUpdate": false,
+            "type": "BasicTransform",
+            "visible": true,
+            "eEuler": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            }
+           },
+           {
+            "castShadow": true,
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "frustumCulling": true,
+            "meshResourceKey": "32704a3a-c4d0-44db-835e-cc5aed583926",
+            "needReload": true,
+            "paused": false,
+            "priority": 4,
+            "receiveShadow": true,
+            "skinInfoResourceKey": "aa3c91bb-aad1-459b-a0a8-8fe604fde27a",
+            "subMeshConfigs": [
+             {
+              "materialResourceKeys": [
+               "255af2e1-aa8b-48ab-8bb9-f1bcc1855b98"
+              ]
+             }
+            ],
+            "type": "MeshRenderer3DComponentV3"
+           },
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "layers": 1,
+            "needReload": true,
+            "paused": false,
+            "type": "LayerSetComponent"
+           },
+           {
+            "guid": "14b57901-61d8-4ef9-a4fb-56788927e5e4",
+            "type": "PrefabEntityShadow",
+            "enabled": true
+           }
+          ],
+          "enabled": true,
+          "forbid": false,
+          "id": 0,
+          "name": "Wolf3D_Hair"
+         },
+         {
+          "children": [],
+          "components": [
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "needReload": true,
+            "objectEnabled": true,
+            "paused": false,
+            "position": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "rotation": {
+             "w": 1,
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "scale": {
+             "x": 1,
+             "y": 1,
+             "z": 1
+            },
+            "skipUpdate": false,
+            "type": "BasicTransform",
+            "visible": true,
+            "eEuler": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            }
+           },
+           {
+            "castShadow": true,
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "frustumCulling": true,
+            "meshResourceKey": "3cd79e7e-473d-43dd-b8d9-c3d0b3224162",
+            "needReload": true,
+            "paused": false,
+            "priority": 4,
+            "receiveShadow": true,
+            "skinInfoResourceKey": "aa3c91bb-aad1-459b-a0a8-8fe604fde27a",
+            "subMeshConfigs": [
+             {
+              "materialResourceKeys": [
+               "89b575e0-20bf-4909-99f5-2b4338ed8e69"
+              ]
+             }
+            ],
+            "type": "MeshRenderer3DComponentV3"
+           },
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "layers": 1,
+            "needReload": true,
+            "paused": false,
+            "type": "LayerSetComponent"
+           },
+           {
+            "guid": "f0bb7e85-6b98-40a4-9782-da84113a1d65",
+            "type": "PrefabEntityShadow",
+            "enabled": true
+           }
+          ],
+          "enabled": true,
+          "forbid": false,
+          "id": 0,
+          "name": "Wolf3D_Head"
+         },
+         {
+          "children": [],
+          "components": [
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "needReload": true,
+            "objectEnabled": true,
+            "paused": false,
+            "position": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "rotation": {
+             "w": 1,
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "scale": {
+             "x": 1,
+             "y": 1,
+             "z": 1
+            },
+            "skipUpdate": false,
+            "type": "BasicTransform",
+            "visible": true,
+            "eEuler": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            }
+           },
+           {
+            "castShadow": true,
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "frustumCulling": true,
+            "meshResourceKey": "fae3a82d-21b5-41fd-8e75-41761d1ad591",
+            "needReload": true,
+            "paused": false,
+            "priority": 4,
+            "receiveShadow": true,
+            "skinInfoResourceKey": "aa3c91bb-aad1-459b-a0a8-8fe604fde27a",
+            "subMeshConfigs": [
+             {
+              "materialResourceKeys": [
+               "dd335be9-5310-4d5a-a489-2c1f4c29de98"
+              ]
+             }
+            ],
+            "type": "MeshRenderer3DComponentV3"
+           },
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "layers": 1,
+            "needReload": true,
+            "paused": false,
+            "type": "LayerSetComponent"
+           },
+           {
+            "guid": "7fc456b7-f4c1-495a-a758-ac7d31d3793e",
+            "type": "PrefabEntityShadow",
+            "enabled": true
+           }
+          ],
+          "enabled": true,
+          "forbid": false,
+          "id": 0,
+          "name": "Wolf3D_Outfit_Bottom"
+         },
+         {
+          "children": [],
+          "components": [
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "needReload": true,
+            "objectEnabled": true,
+            "paused": false,
+            "position": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "rotation": {
+             "w": 1,
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "scale": {
+             "x": 1,
+             "y": 1,
+             "z": 1
+            },
+            "skipUpdate": false,
+            "type": "BasicTransform",
+            "visible": true,
+            "eEuler": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            }
+           },
+           {
+            "castShadow": true,
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "frustumCulling": true,
+            "meshResourceKey": "60127fe7-51c1-4c37-8030-1b35a51d7b8f",
+            "needReload": true,
+            "paused": false,
+            "priority": 4,
+            "receiveShadow": true,
+            "skinInfoResourceKey": "aa3c91bb-aad1-459b-a0a8-8fe604fde27a",
+            "subMeshConfigs": [
+             {
+              "materialResourceKeys": [
+               "6f8368c4-7188-447c-affc-96c08b1bd8f4"
+              ]
+             }
+            ],
+            "type": "MeshRenderer3DComponentV3"
+           },
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "layers": 1,
+            "needReload": true,
+            "paused": false,
+            "type": "LayerSetComponent"
+           },
+           {
+            "guid": "51bb3403-0fd1-4d82-a9a1-4d08bb45883f",
+            "type": "PrefabEntityShadow",
+            "enabled": true
+           }
+          ],
+          "enabled": true,
+          "forbid": false,
+          "id": 0,
+          "name": "Wolf3D_Outfit_Footwear"
+         },
+         {
+          "children": [],
+          "components": [
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "needReload": true,
+            "objectEnabled": true,
+            "paused": false,
+            "position": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "rotation": {
+             "w": 1,
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "scale": {
+             "x": 1,
+             "y": 1,
+             "z": 1
+            },
+            "skipUpdate": false,
+            "type": "BasicTransform",
+            "visible": true,
+            "eEuler": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            }
+           },
+           {
+            "castShadow": true,
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "frustumCulling": true,
+            "meshResourceKey": "74c8ed51-73c6-46c9-9b39-768285653ad7",
+            "needReload": true,
+            "paused": false,
+            "priority": 4,
+            "receiveShadow": true,
+            "skinInfoResourceKey": "aa3c91bb-aad1-459b-a0a8-8fe604fde27a",
+            "subMeshConfigs": [
+             {
+              "materialResourceKeys": [
+               "18c2e235-89fe-4c36-93e1-fa1bcbc2c644"
+              ]
+             }
+            ],
+            "type": "MeshRenderer3DComponentV3"
+           },
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "layers": 1,
+            "needReload": true,
+            "paused": false,
+            "type": "LayerSetComponent"
+           },
+           {
+            "guid": "575a0d1e-5455-4d9c-94f1-b8f48c9cef16",
+            "type": "PrefabEntityShadow",
+            "enabled": true
+           }
+          ],
+          "enabled": true,
+          "forbid": false,
+          "id": 0,
+          "name": "Wolf3D_Outfit_Top"
+         },
+         {
+          "children": [],
+          "components": [
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "needReload": true,
+            "objectEnabled": true,
+            "paused": false,
+            "position": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "rotation": {
+             "w": 1,
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "scale": {
+             "x": 1,
+             "y": 1,
+             "z": 1
+            },
+            "skipUpdate": false,
+            "type": "BasicTransform",
+            "visible": true,
+            "eEuler": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            }
+           },
+           {
+            "castShadow": true,
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "frustumCulling": true,
+            "meshResourceKey": "a58c7b03-5292-4740-87f9-a55c873de53b",
+            "needReload": true,
+            "paused": false,
+            "priority": 4,
+            "receiveShadow": true,
+            "skinInfoResourceKey": "aa3c91bb-aad1-459b-a0a8-8fe604fde27a",
+            "subMeshConfigs": [
+             {
+              "materialResourceKeys": [
+               "f8f86135-554e-47a4-b2ad-f3e5d5b85d53"
+              ]
+             }
+            ],
+            "type": "MeshRenderer3DComponentV3"
+           },
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "layers": 1,
+            "needReload": true,
+            "paused": false,
+            "type": "LayerSetComponent"
+           },
+           {
+            "guid": "bff9dc53-9459-4ea6-a9d9-23bf1fa72734",
+            "type": "PrefabEntityShadow",
+            "enabled": true
+           }
+          ],
+          "enabled": true,
+          "forbid": false,
+          "id": 0,
+          "name": "Wolf3D_Teeth"
+         },
+         {
+          "children": [
+           {
+            "children": [
+             {
+              "children": [
+               {
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "children": [
+                     {
+                      "children": [],
+                      "components": [
+                       {
+                        "componentID": 0,
+                        "enabled": true,
+                        "entityId": 0,
+                        "needReload": true,
+                        "objectEnabled": true,
+                        "paused": false,
+                        "position": {
+                         "x": -5.79710235371067e-9,
+                         "y": 0.22938644886016846,
+                         "z": 0.0026179999113082886
+                        },
+                        "rotation": {
+                         "w": 1,
+                         "x": -9.16692326972772e-14,
+                         "y": 3.02769279869608e-7,
+                         "z": 3.0276930829131743e-7
+                        },
+                        "scale": {
+                         "x": 1,
+                         "y": 1,
+                         "z": 1
+                        },
+                        "skipUpdate": false,
+                        "type": "BasicTransform",
+                        "visible": true,
+                        "eEuler": {
+                         "x": -2.100904640981554e-11,
+                         "y": 0.000034694811023536974,
+                         "z": 0.000034694814280438355
+                        }
+                       },
+                       {
+                        "bone_uuid_": 1587893998,
+                        "componentID": 0,
+                        "enabled": true,
+                        "entityId": 0,
+                        "needReload": true,
+                        "paused": false,
+                        "type": "Bone3DComponent"
+                       },
+                       {
+                        "guid": "01a86cee-31c9-4dac-91bf-be3384b518bf",
+                        "type": "PrefabEntityShadow",
+                        "enabled": true
+                       }
+                      ],
+                      "enabled": true,
+                      "forbid": false,
+                      "id": 0,
+                      "name": "HeadTop_End"
+                     },
+                     {
+                      "children": [],
+                      "components": [
+                       {
+                        "componentID": 0,
+                        "enabled": true,
+                        "entityId": 0,
+                        "needReload": true,
+                        "objectEnabled": true,
+                        "paused": false,
+                        "position": {
+                         "x": 0.03310031071305275,
+                         "y": 0.09632600098848343,
+                         "z": 0.06791398674249649
+                        },
+                        "rotation": {
+                         "w": 1,
+                         "x": -3.7940693643735094e-15,
+                         "y": 6.146112241367518e-8,
+                         "z": 6.173126365638382e-8
+                        },
+                        "scale": {
+                         "x": 1,
+                         "y": 1,
+                         "z": 1
+                        },
+                        "skipUpdate": false,
+                        "type": "BasicTransform",
+                        "visible": true,
+                        "eEuler": {
+                         "x": -8.695372161679158e-13,
+                         "y": 0.000007042927302120402,
+                         "z": 0.000007073883214719952
+                        }
+                       },
+                       {
+                        "bone_uuid_": 374124581,
+                        "componentID": 0,
+                        "enabled": true,
+                        "entityId": 0,
+                        "needReload": true,
+                        "paused": false,
+                        "type": "Bone3DComponent"
+                       },
+                       {
+                        "guid": "aec3e812-f2c4-4fbd-8571-ad56dd47d918",
+                        "type": "PrefabEntityShadow",
+                        "enabled": true
+                       }
+                      ],
+                      "enabled": true,
+                      "forbid": false,
+                      "id": 0,
+                      "name": "LeftEye"
+                     },
+                     {
+                      "children": [],
+                      "components": [
+                       {
+                        "componentID": 0,
+                        "enabled": true,
+                        "entityId": 0,
+                        "needReload": true,
+                        "objectEnabled": true,
+                        "paused": false,
+                        "position": {
+                         "x": -0.03309991583228111,
+                         "y": 0.09632598608732224,
+                         "z": 0.06791400164365768
+                        },
+                        "rotation": {
+                         "w": 1,
+                         "x": -3.7940693643735094e-15,
+                         "y": 6.146112241367518e-8,
+                         "z": 6.173126365638382e-8
+                        },
+                        "scale": {
+                         "x": 1,
+                         "y": 1,
+                         "z": 1
+                        },
+                        "skipUpdate": false,
+                        "type": "BasicTransform",
+                        "visible": true,
+                        "eEuler": {
+                         "x": -8.695372161679158e-13,
+                         "y": 0.000007042927302120402,
+                         "z": 0.000007073883214719952
+                        }
+                       },
+                       {
+                        "bone_uuid_": 500856773,
+                        "componentID": 0,
+                        "enabled": true,
+                        "entityId": 0,
+                        "needReload": true,
+                        "paused": false,
+                        "type": "Bone3DComponent"
+                       },
+                       {
+                        "guid": "5eb4d6f2-6079-45c2-bd3d-807a42ef33a2",
+                        "type": "PrefabEntityShadow",
+                        "enabled": true
+                       }
+                      ],
+                      "enabled": true,
+                      "forbid": false,
+                      "id": 0,
+                      "name": "RightEye"
+                     }
+                    ],
+                    "components": [
+                     {
+                      "componentID": 0,
+                      "enabled": true,
+                      "entityId": 0,
+                      "needReload": true,
+                      "objectEnabled": true,
+                      "paused": false,
+                      "position": {
+                       "x": 1.0748724577069879e-8,
+                       "y": 0.12170553207397461,
+                       "z": -0.015094999223947525
+                      },
+                      "rotation": {
+                       "w": 1,
+                       "x": -1.743604447022179e-13,
+                       "y": -4.175649337412324e-7,
+                       "z": -4.1756490531952295e-7
+                      },
+                      "scale": {
+                       "x": 1,
+                       "y": 1,
+                       "z": 1
+                      },
+                      "skipUpdate": false,
+                      "type": "BasicTransform",
+                      "visible": true,
+                      "eEuler": {
+                       "x": -3.99604806801488e-11,
+                       "y": -0.00004784942670685275,
+                       "z": -0.00004784942344999743
+                      }
+                     },
+                     {
+                      "bone_uuid_": 627588965,
+                      "componentID": 0,
+                      "enabled": true,
+                      "entityId": 0,
+                      "needReload": true,
+                      "paused": false,
+                      "type": "Bone3DComponent"
+                     },
+                     {
+                      "guid": "a331a72f-edc9-4daf-b18e-9fb1c8403a24",
+                      "type": "PrefabEntityShadow",
+                      "enabled": true
+                     }
+                    ],
+                    "enabled": true,
+                    "forbid": false,
+                    "id": 0,
+                    "name": "Head"
+                   }
+                  ],
+                  "components": [
+                   {
+                    "componentID": 0,
+                    "enabled": true,
+                    "entityId": 0,
+                    "needReload": true,
+                    "objectEnabled": true,
+                    "paused": false,
+                    "position": {
+                     "x": 5.721149776150014e-9,
+                     "y": 0.1551380157470703,
+                     "z": -0.011650998145341873
+                    },
+                    "rotation": {
+                     "w": 1,
+                     "x": -1.2234604876513316e-14,
+                     "y": 1.1061015925406537e-7,
+                     "z": 1.1061013083235594e-7
+                    },
+                    "scale": {
+                     "x": 1,
+                     "y": 1,
+                     "z": 1
+                    },
+                    "skipUpdate": false,
+                    "type": "BasicTransform",
+                    "visible": true,
+                    "eEuler": {
+                     "x": -2.803965398014055e-12,
+                     "y": 0.000012674993230013117,
+                     "z": 0.000012674989973125065
+                    }
+                   },
+                   {
+                    "bone_uuid_": 754189854,
+                    "componentID": 0,
+                    "enabled": true,
+                    "entityId": 0,
+                    "needReload": true,
+                    "paused": false,
+                    "type": "Bone3DComponent"
+                   },
+                   {
+                    "guid": "9e1a27a0-7422-4357-995a-ee600fc228ca",
+                    "type": "PrefabEntityShadow",
+                    "enabled": true
+                   }
+                  ],
+                  "enabled": true,
+                  "forbid": false,
+                  "id": 0,
+                  "name": "Neck"
+                 },
+                 {
+                  "children": [
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "children": [
+                         {
+                          "children": [
+                           {
+                            "children": [
+                             {
+                              "children": [],
+                              "components": [
+                               {
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "objectEnabled": true,
+                                "paused": false,
+                                "position": {
+                                 "x": 0.02537296712398529,
+                                 "y": -0.003569594817236066,
+                                 "z": 0.016521001234650612
+                                },
+                                "rotation": {
+                                 "w": 0.9987903237342834,
+                                 "x": 1.143861746985279e-17,
+                                 "y": -0.04917265102267265,
+                                 "z": -8.351640966042465e-17
+                                },
+                                "scale": {
+                                 "x": 1,
+                                 "y": 1,
+                                 "z": 1
+                                },
+                                "skipUpdate": false,
+                                "type": "BasicTransform",
+                                "visible": true,
+                                "eEuler": {
+                                 "x": 8.426627879512647e-16,
+                                 "y": -5.637045325693416,
+                                 "z": -9.540382970733838e-15
+                                }
+                               },
+                               {
+                                "bone_uuid_": 880922046,
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "paused": false,
+                                "type": "Bone3DComponent"
+                               },
+                               {
+                                "guid": "050367b3-d485-4adb-9f2e-dd92e562ea35",
+                                "type": "PrefabEntityShadow",
+                                "enabled": true
+                               }
+                              ],
+                              "enabled": true,
+                              "forbid": false,
+                              "id": 0,
+                              "name": "ThumbFinger3_L"
+                             }
+                            ],
+                            "components": [
+                             {
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "objectEnabled": true,
+                              "paused": false,
+                              "position": {
+                               "x": 0.03162096440792084,
+                               "y": -0.00043844387982971966,
+                               "z": 0.026691999286413193
+                              },
+                              "rotation": {
+                               "w": 1,
+                               "x": 6.310887241768095e-30,
+                               "y": 0,
+                               "z": 0
+                              },
+                              "scale": {
+                               "x": 1,
+                               "y": 1,
+                               "z": 1
+                              },
+                              "skipUpdate": false,
+                              "type": "BasicTransform",
+                              "visible": true,
+                              "eEuler": {
+                               "x": 7.2317455832473275e-28,
+                               "y": 0,
+                               "z": 0
+                              }
+                             },
+                             {
+                              "bone_uuid_": 1752714622,
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "paused": false,
+                              "type": "Bone3DComponent"
+                             },
+                             {
+                              "guid": "7ee276e1-fbcf-4373-b77b-4f727782b634",
+                              "type": "PrefabEntityShadow",
+                              "enabled": true
+                             }
+                            ],
+                            "enabled": true,
+                            "forbid": false,
+                            "id": 0,
+                            "name": "ThumbFinger2_L"
+                           }
+                          ],
+                          "components": [
+                           {
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "objectEnabled": true,
+                            "paused": false,
+                            "position": {
+                             "x": 0.028069958090782166,
+                             "y": -0.00939273089170456,
+                             "z": 0.029863998293876648
+                            },
+                            "rotation": {
+                             "w": 1,
+                             "x": 6.310887241768095e-30,
+                             "y": 0,
+                             "z": 0
+                            },
+                            "scale": {
+                             "x": 1,
+                             "y": 1,
+                             "z": 1
+                            },
+                            "skipUpdate": false,
+                            "type": "BasicTransform",
+                            "visible": true,
+                            "eEuler": {
+                             "x": 7.2317455832473275e-28,
+                             "y": 0,
+                             "z": 0
+                            }
+                           },
+                           {
+                            "bone_uuid_": 1941368469,
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "paused": false,
+                            "type": "Bone3DComponent"
+                           },
+                           {
+                            "guid": "9e186505-d4b5-4927-8c84-14b2bcfe0eee",
+                            "type": "PrefabEntityShadow",
+                            "enabled": true
+                           }
+                          ],
+                          "enabled": true,
+                          "forbid": false,
+                          "id": 0,
+                          "name": "ThumbFinger1_L"
+                         },
+                         {
+                          "children": [
+                           {
+                            "children": [
+                             {
+                              "children": [],
+                              "components": [
+                               {
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "objectEnabled": true,
+                                "paused": false,
+                                "position": {
+                                 "x": 0.028141839429736137,
+                                 "y": -0.0024974255356937647,
+                                 "z": 0.0022962093353271484
+                                },
+                                "rotation": {
+                                 "w": 1,
+                                 "x": 6.310887241768095e-30,
+                                 "y": 0,
+                                 "z": 0
+                                },
+                                "scale": {
+                                 "x": 1,
+                                 "y": 1,
+                                 "z": 1
+                                },
+                                "skipUpdate": false,
+                                "type": "BasicTransform",
+                                "visible": true,
+                                "eEuler": {
+                                 "x": 7.2317455832473275e-28,
+                                 "y": 0,
+                                 "z": 0
+                                }
+                               },
+                               {
+                                "bone_uuid_": 2068100661,
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "paused": false,
+                                "type": "Bone3DComponent"
+                               },
+                               {
+                                "guid": "79c8c3bb-74e5-47f4-9732-b9929abfeb5f",
+                                "type": "PrefabEntityShadow",
+                                "enabled": true
+                               }
+                              ],
+                              "enabled": true,
+                              "forbid": false,
+                              "id": 0,
+                              "name": "IndexFinger3_L"
+                             }
+                            ],
+                            "components": [
+                             {
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "objectEnabled": true,
+                              "paused": false,
+                              "position": {
+                               "x": 0.04463551938533783,
+                               "y": -0.0007181079708971083,
+                               "z": 0.003241129219532013
+                              },
+                              "rotation": {
+                               "w": 1,
+                               "x": 6.310887241768095e-30,
+                               "y": 0,
+                               "z": 0
+                              },
+                              "scale": {
+                               "x": 1,
+                               "y": 1,
+                               "z": 1
+                              },
+                              "skipUpdate": false,
+                              "type": "BasicTransform",
+                              "visible": true,
+                              "eEuler": {
+                               "x": 7.2317455832473275e-28,
+                               "y": 0,
+                               "z": 0
+                              }
+                             },
+                             {
+                              "bone_uuid_": 47217902,
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "paused": false,
+                              "type": "Bone3DComponent"
+                             },
+                             {
+                              "guid": "c4044d6b-4675-48a5-ace0-5d20ef28446c",
+                              "type": "PrefabEntityShadow",
+                              "enabled": true
+                             }
+                            ],
+                            "enabled": true,
+                            "forbid": false,
+                            "id": 0,
+                            "name": "IndexFinger2_L"
+                           }
+                          ],
+                          "components": [
+                           {
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "objectEnabled": true,
+                            "paused": false,
+                            "position": {
+                             "x": 0.09901891648769379,
+                             "y": 0.0038665616884827614,
+                             "z": 0.031224997714161873
+                            },
+                            "rotation": {
+                             "w": 1,
+                             "x": 6.310887241768095e-30,
+                             "y": 0,
+                             "z": 0
+                            },
+                            "scale": {
+                             "x": 1,
+                             "y": 1,
+                             "z": 1
+                            },
+                            "skipUpdate": false,
+                            "type": "BasicTransform",
+                            "visible": true,
+                            "eEuler": {
+                             "x": 7.2317455832473275e-28,
+                             "y": 0,
+                             "z": 0
+                            }
+                           },
+                           {
+                            "bone_uuid_": 173950094,
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "paused": false,
+                            "type": "Bone3DComponent"
+                           },
+                           {
+                            "guid": "2a3aebbf-794e-4ff5-813a-beb1657a8a6a",
+                            "type": "PrefabEntityShadow",
+                            "enabled": true
+                           }
+                          ],
+                          "enabled": true,
+                          "forbid": false,
+                          "id": 0,
+                          "name": "IndexFinger1_L"
+                         },
+                         {
+                          "children": [
+                           {
+                            "children": [
+                             {
+                              "children": [],
+                              "components": [
+                               {
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "objectEnabled": true,
+                                "paused": false,
+                                "position": {
+                                 "x": 0.035314008593559265,
+                                 "y": 0.0019909234251827,
+                                 "z": 0.0016086585819721222
+                                },
+                                "rotation": {
+                                 "w": 1,
+                                 "x": 6.310887241768095e-30,
+                                 "y": 0,
+                                 "z": 0
+                                },
+                                "scale": {
+                                 "x": 1,
+                                 "y": 1,
+                                 "z": 1
+                                },
+                                "skipUpdate": false,
+                                "type": "BasicTransform",
+                                "visible": true,
+                                "eEuler": {
+                                 "x": 7.2317455832473275e-28,
+                                 "y": 0,
+                                 "z": 0
+                                }
+                               },
+                               {
+                                "bone_uuid_": 1045742670,
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "paused": false,
+                                "type": "Bone3DComponent"
+                               },
+                               {
+                                "guid": "c42b1a97-22ba-4d34-adb2-1a3b7b34fb0d",
+                                "type": "PrefabEntityShadow",
+                                "enabled": true
+                               }
+                              ],
+                              "enabled": true,
+                              "forbid": false,
+                              "id": 0,
+                              "name": "MiddleFinger3_L"
+                             }
+                            ],
+                            "components": [
+                             {
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "objectEnabled": true,
+                              "paused": false,
+                              "position": {
+                               "x": 0.04559271037578583,
+                               "y": -0.0025299699045717716,
+                               "z": -0.0017948746681213379
+                              },
+                              "rotation": {
+                               "w": 1,
+                               "x": 6.310887241768095e-30,
+                               "y": 0,
+                               "z": 0
+                              },
+                              "scale": {
+                               "x": 1,
+                               "y": 1,
+                               "z": 1
+                              },
+                              "skipUpdate": false,
+                              "type": "BasicTransform",
+                              "visible": true,
+                              "eEuler": {
+                               "x": 7.2317455832473275e-28,
+                               "y": 0,
+                               "z": 0
+                              }
+                             },
+                             {
+                              "bone_uuid_": 1172474862,
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "paused": false,
+                              "type": "Bone3DComponent"
+                             },
+                             {
+                              "guid": "69f5eae1-3bfe-4f1d-b352-421fdc823b41",
+                              "type": "PrefabEntityShadow",
+                              "enabled": true
+                             }
+                            ],
+                            "enabled": true,
+                            "forbid": false,
+                            "id": 0,
+                            "name": "MiddleFinger2_L"
+                           }
+                          ],
+                          "components": [
+                           {
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "objectEnabled": true,
+                            "paused": false,
+                            "position": {
+                             "x": 0.10046593844890594,
+                             "y": 0.004486330784857273,
+                             "z": 0.004752997308969498
+                            },
+                            "rotation": {
+                             "w": 1,
+                             "x": 6.310887241768095e-30,
+                             "y": 0,
+                             "z": 0
+                            },
+                            "scale": {
+                             "x": 1,
+                             "y": 1,
+                             "z": 1
+                            },
+                            "skipUpdate": false,
+                            "type": "BasicTransform",
+                            "visible": true,
+                            "eEuler": {
+                             "x": 7.2317455832473275e-28,
+                             "y": 0,
+                             "z": 0
+                            }
+                           },
+                           {
+                            "bone_uuid_": 1361128709,
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "paused": false,
+                            "type": "Bone3DComponent"
+                           },
+                           {
+                            "guid": "6d8e0520-67e4-4621-83f3-c29dbf7f350d",
+                            "type": "PrefabEntityShadow",
+                            "enabled": true
+                           }
+                          ],
+                          "enabled": true,
+                          "forbid": false,
+                          "id": 0,
+                          "name": "MiddleFinger1_L"
+                         },
+                         {
+                          "children": [
+                           {
+                            "children": [
+                             {
+                              "children": [],
+                              "components": [
+                               {
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "objectEnabled": true,
+                                "paused": false,
+                                "position": {
+                                 "x": 0.035706326365470886,
+                                 "y": -0.01750289462506771,
+                                 "z": -0.01451040804386139
+                                },
+                                "rotation": {
+                                 "w": 1,
+                                 "x": -3.3881317890172014e-21,
+                                 "y": -5.048709793414476e-29,
+                                 "z": 0
+                                },
+                                "scale": {
+                                 "x": 1,
+                                 "y": 1,
+                                 "z": 1
+                                },
+                                "skipUpdate": false,
+                                "type": "BasicTransform",
+                                "visible": true,
+                                "eEuler": {
+                                 "x": -3.8825138466299646e-19,
+                                 "y": -5.785396466597862e-27,
+                                 "z": -1.960168568054801e-47
+                                }
+                               },
+                               {
+                                "bone_uuid_": 1487729598,
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "paused": false,
+                                "type": "Bone3DComponent"
+                               },
+                               {
+                                "guid": "d4686d47-61a7-416a-b523-bed0cab4a978",
+                                "type": "PrefabEntityShadow",
+                                "enabled": true
+                               }
+                              ],
+                              "enabled": true,
+                              "forbid": false,
+                              "id": 0,
+                              "name": "RingFinger3_L"
+                             }
+                            ],
+                            "components": [
+                             {
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "objectEnabled": true,
+                              "paused": false,
+                              "position": {
+                               "x": 0.04148118197917938,
+                               "y": -0.003845683066174388,
+                               "z": -0.0044760629534721375
+                              },
+                              "rotation": {
+                               "w": 1,
+                               "x": -3.3881317890172014e-21,
+                               "y": -5.048709793414476e-29,
+                               "z": 0
+                              },
+                              "scale": {
+                               "x": 1,
+                               "y": 1,
+                               "z": 1
+                              },
+                              "skipUpdate": false,
+                              "type": "BasicTransform",
+                              "visible": true,
+                              "eEuler": {
+                               "x": -3.8825138466299646e-19,
+                               "y": -5.785396466597862e-27,
+                               "z": -1.960168568054801e-47
+                              }
+                             },
+                             {
+                              "bone_uuid_": 212169829,
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "paused": false,
+                              "type": "Bone3DComponent"
+                             },
+                             {
+                              "guid": "6a057ba1-7c6f-4a15-ac62-7674c6362262",
+                              "type": "PrefabEntityShadow",
+                              "enabled": true
+                             }
+                            ],
+                            "enabled": true,
+                            "forbid": false,
+                            "id": 0,
+                            "name": "RingFinger2_L"
+                           }
+                          ],
+                          "components": [
+                           {
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "objectEnabled": true,
+                            "paused": false,
+                            "position": {
+                             "x": 0.09470294415950775,
+                             "y": 0.0024752698373049498,
+                             "z": -0.020201005041599274
+                            },
+                            "rotation": {
+                             "w": 1,
+                             "x": 6.310887994084479e-30,
+                             "y": 0,
+                             "z": 0
+                            },
+                            "scale": {
+                             "x": 1,
+                             "y": 0.9999999403953552,
+                             "z": 1
+                            },
+                            "skipUpdate": false,
+                            "type": "BasicTransform",
+                            "visible": true,
+                            "eEuler": {
+                             "x": 7.231746445338581e-28,
+                             "y": 0,
+                             "z": 0
+                            }
+                           },
+                           {
+                            "bone_uuid_": 338770718,
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "paused": false,
+                            "type": "Bone3DComponent"
+                           },
+                           {
+                            "guid": "1fc0044d-8ad1-44aa-ba5c-1d28903dbd98",
+                            "type": "PrefabEntityShadow",
+                            "enabled": true
+                           }
+                          ],
+                          "enabled": true,
+                          "forbid": false,
+                          "id": 0,
+                          "name": "RingFinger1_L"
+                         },
+                         {
+                          "children": [
+                           {
+                            "children": [
+                             {
+                              "children": [],
+                              "components": [
+                               {
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "objectEnabled": true,
+                                "paused": false,
+                                "position": {
+                                 "x": 0.021583031862974167,
+                                 "y": -0.0002547415788285434,
+                                 "z": -0.005897366441786289
+                                },
+                                "rotation": {
+                                 "w": 1,
+                                 "x": -9.2970336290632e-18,
+                                 "y": 0,
+                                 "z": -5.404070203482436e-19
+                                },
+                                "scale": {
+                                 "x": 1,
+                                 "y": 1,
+                                 "z": 1
+                                },
+                                "skipUpdate": false,
+                                "type": "BasicTransform",
+                                "visible": true,
+                                "eEuler": {
+                                 "x": -1.0653617995152624e-15,
+                                 "y": 5.757289956688859e-34,
+                                 "z": -6.192609585374795e-17
+                                }
+                               },
+                               {
+                                "bone_uuid_": 465502910,
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "paused": false,
+                                "type": "Bone3DComponent"
+                               },
+                               {
+                                "guid": "d4fca5bd-70fb-48a0-a0c8-c229154a2d3a",
+                                "type": "PrefabEntityShadow",
+                                "enabled": true
+                               }
+                              ],
+                              "enabled": true,
+                              "forbid": false,
+                              "id": 0,
+                              "name": "PinkyFinger3_L"
+                             }
+                            ],
+                            "components": [
+                             {
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "objectEnabled": true,
+                              "paused": false,
+                              "position": {
+                               "x": 0.02729622647166252,
+                               "y": -0.0026684915646910667,
+                               "z": -0.006354128010571003
+                              },
+                              "rotation": {
+                               "w": 1,
+                               "x": -9.2970336290632e-18,
+                               "y": 0,
+                               "z": -5.404070203482436e-19
+                              },
+                              "scale": {
+                               "x": 1,
+                               "y": 1,
+                               "z": 1
+                              },
+                              "skipUpdate": false,
+                              "type": "BasicTransform",
+                              "visible": true,
+                              "eEuler": {
+                               "x": -1.0653617995152624e-15,
+                               "y": 5.757289956688859e-34,
+                               "z": -6.192609585374795e-17
+                              }
+                             },
+                             {
+                              "bone_uuid_": 592235102,
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "paused": false,
+                              "type": "Bone3DComponent"
+                             },
+                             {
+                              "guid": "b5e46764-fd3a-4f9c-aa17-322fe85fd2f7",
+                              "type": "PrefabEntityShadow",
+                              "enabled": true
+                             }
+                            ],
+                            "enabled": true,
+                            "forbid": false,
+                            "id": 0,
+                            "name": "PinkyFinger2_L"
+                           }
+                          ],
+                          "components": [
+                           {
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "objectEnabled": true,
+                            "paused": false,
+                            "position": {
+                             "x": 0.08783392608165741,
+                             "y": -0.002272478537634015,
+                             "z": -0.04459500312805176
+                            },
+                            "rotation": {
+                             "w": 0.9995789527893066,
+                             "x": -3.182795575684335e-18,
+                             "y": 0.029017411172389984,
+                             "z": 9.837622629146206e-17
+                            },
+                            "scale": {
+                             "x": 1,
+                             "y": 1,
+                             "z": 1
+                            },
+                            "skipUpdate": false,
+                            "type": "BasicTransform",
+                            "visible": true,
+                            "eEuler": {
+                             "x": -6.928506072381979e-16,
+                             "y": 3.325618043947569,
+                             "z": 1.1297950238818908e-14
+                            }
+                           },
+                           {
+                            "bone_uuid_": 718835991,
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "paused": false,
+                            "type": "Bone3DComponent"
+                           },
+                           {
+                            "guid": "4d3d778b-75d6-40ac-8fad-049b676316b4",
+                            "type": "PrefabEntityShadow",
+                            "enabled": true
+                           }
+                          ],
+                          "enabled": true,
+                          "forbid": false,
+                          "id": 0,
+                          "name": "PinkyFinger1_L"
+                         }
+                        ],
+                        "components": [
+                         {
+                          "componentID": 0,
+                          "enabled": true,
+                          "entityId": 0,
+                          "needReload": true,
+                          "objectEnabled": true,
+                          "paused": false,
+                          "position": {
+                           "x": 0.2503930330276489,
+                           "y": 0.028163917362689972,
+                           "z": -0.0002429969608783722
+                          },
+                          "rotation": {
+                           "w": 1,
+                           "x": 6.310887241768095e-30,
+                           "y": 0,
+                           "z": 0
+                          },
+                          "scale": {
+                           "x": 1,
+                           "y": 1,
+                           "z": 1
+                          },
+                          "skipUpdate": false,
+                          "type": "BasicTransform",
+                          "visible": true,
+                          "eEuler": {
+                           "x": 7.2317455832473275e-28,
+                           "y": 0,
+                           "z": 0
+                          }
+                         },
+                         {
+                          "bone_uuid_": 1652681525,
+                          "componentID": 0,
+                          "enabled": true,
+                          "entityId": 0,
+                          "needReload": true,
+                          "paused": false,
+                          "type": "Bone3DComponent"
+                         },
+                         {
+                          "guid": "6d0a8840-65d1-48ec-b943-07a8a7e4ba48",
+                          "type": "PrefabEntityShadow",
+                          "enabled": true
+                         }
+                        ],
+                        "enabled": true,
+                        "forbid": false,
+                        "id": 0,
+                        "name": "LeftHand"
+                       }
+                      ],
+                      "components": [
+                       {
+                        "componentID": 0,
+                        "enabled": true,
+                        "entityId": 0,
+                        "needReload": true,
+                        "objectEnabled": true,
+                        "paused": false,
+                        "position": {
+                         "x": 0.2845050096511841,
+                         "y": 0.0026699351146817207,
+                         "z": -0.018651999533176422
+                        },
+                        "rotation": {
+                         "w": 1,
+                         "x": 6.310887241768095e-30,
+                         "y": 0,
+                         "z": 0
+                        },
+                        "scale": {
+                         "x": 1,
+                         "y": 1,
+                         "z": 1
+                        },
+                        "skipUpdate": false,
+                        "type": "BasicTransform",
+                        "visible": true,
+                        "eEuler": {
+                         "x": 7.2317455832473275e-28,
+                         "y": 0,
+                         "z": 0
+                        }
+                       },
+                       {
+                        "bone_uuid_": 1779282414,
+                        "componentID": 0,
+                        "enabled": true,
+                        "entityId": 0,
+                        "needReload": true,
+                        "paused": false,
+                        "type": "Bone3DComponent"
+                       },
+                       {
+                        "guid": "0c1f2754-c8ad-40e8-8a0e-598af4a9c2d9",
+                        "type": "PrefabEntityShadow",
+                        "enabled": true
+                       }
+                      ],
+                      "enabled": true,
+                      "forbid": false,
+                      "id": 0,
+                      "name": "LeftForeArm"
+                     }
+                    ],
+                    "components": [
+                     {
+                      "componentID": 0,
+                      "enabled": true,
+                      "entityId": 0,
+                      "needReload": true,
+                      "objectEnabled": true,
+                      "paused": false,
+                      "position": {
+                       "x": 0.11879799515008926,
+                       "y": -0.004790542647242546,
+                       "z": -0.0006650015711784363
+                      },
+                      "rotation": {
+                       "w": 1,
+                       "x": 6.310887241768095e-30,
+                       "y": 0,
+                       "z": 0
+                      },
+                      "scale": {
+                       "x": 1,
+                       "y": 1,
+                       "z": 1
+                      },
+                      "skipUpdate": false,
+                      "type": "BasicTransform",
+                      "visible": true,
+                      "eEuler": {
+                       "x": 7.2317455832473275e-28,
+                       "y": 0,
+                       "z": 0
+                      }
+                     },
+                     {
+                      "bone_uuid_": 1906014606,
+                      "componentID": 0,
+                      "enabled": true,
+                      "entityId": 0,
+                      "needReload": true,
+                      "paused": false,
+                      "type": "Bone3DComponent"
+                     },
+                     {
+                      "guid": "6d8d68af-8148-4301-929f-2e3de88a9be9",
+                      "type": "PrefabEntityShadow",
+                      "enabled": true
+                     }
+                    ],
+                    "enabled": true,
+                    "forbid": false,
+                    "id": 0,
+                    "name": "LeftArm"
+                   }
+                  ],
+                  "components": [
+                   {
+                    "componentID": 0,
+                    "enabled": true,
+                    "entityId": 0,
+                    "needReload": true,
+                    "objectEnabled": true,
+                    "paused": false,
+                    "position": {
+                     "x": 0.047135114669799805,
+                     "y": 0.14028307795524597,
+                     "z": -0.016807977110147476
+                    },
+                    "rotation": {
+                     "w": 1,
+                     "x": -6.154069089178357e-14,
+                     "y": -2.4549365207349183e-7,
+                     "z": -2.5068135300898575e-7
+                    },
+                    "scale": {
+                     "x": 1,
+                     "y": 1,
+                     "z": 1
+                    },
+                    "skipUpdate": false,
+                    "type": "BasicTransform",
+                    "visible": true,
+                    "eEuler": {
+                     "x": -1.4104089210034746e-11,
+                     "y": -0.000028131506174721304,
+                     "z": -0.000028725973036363394
+                    }
+                   },
+                   {
+                    "bone_uuid_": 2032746798,
+                    "componentID": 0,
+                    "enabled": true,
+                    "entityId": 0,
+                    "needReload": true,
+                    "paused": false,
+                    "type": "Bone3DComponent"
+                   },
+                   {
+                    "guid": "3b279dc8-959d-4b08-a819-8766364ec35f",
+                    "type": "PrefabEntityShadow",
+                    "enabled": true
+                   }
+                  ],
+                  "enabled": true,
+                  "forbid": false,
+                  "id": 0,
+                  "name": "LeftShoulder"
+                 },
+                 {
+                  "children": [
+                   {
+                    "children": [
+                     {
+                      "children": [
+                       {
+                        "children": [
+                         {
+                          "children": [
+                           {
+                            "children": [
+                             {
+                              "children": [],
+                              "components": [
+                               {
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "objectEnabled": true,
+                                "paused": false,
+                                "position": {
+                                 "x": -0.025372996926307678,
+                                 "y": -0.0035696111153811216,
+                                 "z": 0.016521001234650612
+                                },
+                                "rotation": {
+                                 "w": 0.9987903237342834,
+                                 "x": 1.143861746985279e-17,
+                                 "y": 0.04917265474796295,
+                                 "z": 8.351683317689827e-17
+                                },
+                                "scale": {
+                                 "x": 1,
+                                 "y": 1,
+                                 "z": 1
+                                },
+                                "skipUpdate": false,
+                                "type": "BasicTransform",
+                                "visible": true,
+                                "eEuler": {
+                                 "x": 8.426603547309247e-16,
+                                 "y": 5.637045754135838,
+                                 "z": 9.540431681115668e-15
+                                }
+                               },
+                               {
+                                "bone_uuid_": 11864039,
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "paused": false,
+                                "type": "Bone3DComponent"
+                               },
+                               {
+                                "guid": "6ec7ca43-4f38-40e2-94c6-bd662d56725a",
+                                "type": "PrefabEntityShadow",
+                                "enabled": true
+                               }
+                              ],
+                              "enabled": true,
+                              "forbid": false,
+                              "id": 0,
+                              "name": "ThumbFinger3_R"
+                             }
+                            ],
+                            "components": [
+                             {
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "objectEnabled": true,
+                              "paused": false,
+                              "position": {
+                               "x": -0.031620994210243225,
+                               "y": -0.0004384596541058272,
+                               "z": 0.026691999286413193
+                              },
+                              "rotation": {
+                               "w": 1,
+                               "x": 6.310887241768095e-30,
+                               "y": 0,
+                               "z": 0
+                              },
+                              "scale": {
+                               "x": 1,
+                               "y": 1,
+                               "z": 1
+                              },
+                              "skipUpdate": false,
+                              "type": "BasicTransform",
+                              "visible": true,
+                              "eEuler": {
+                               "x": 7.2317455832473275e-28,
+                               "y": 0,
+                               "z": 0
+                              }
+                             },
+                             {
+                              "bone_uuid_": 883787918,
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "paused": false,
+                              "type": "Bone3DComponent"
+                             },
+                             {
+                              "guid": "cb7ef079-b476-4504-b5a2-8982d1d3661a",
+                              "type": "PrefabEntityShadow",
+                              "enabled": true
+                             }
+                            ],
+                            "enabled": true,
+                            "forbid": false,
+                            "id": 0,
+                            "name": "ThumbFinger2_R"
+                           }
+                          ],
+                          "components": [
+                           {
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "objectEnabled": true,
+                            "paused": false,
+                            "position": {
+                             "x": -0.028069987893104553,
+                             "y": -0.009392745792865753,
+                             "z": 0.029863998293876648
+                            },
+                            "rotation": {
+                             "w": 1,
+                             "x": 6.310887241768095e-30,
+                             "y": 0,
+                             "z": 0
+                            },
+                            "scale": {
+                             "x": 1,
+                             "y": 1,
+                             "z": 1
+                            },
+                            "skipUpdate": false,
+                            "type": "BasicTransform",
+                            "visible": true,
+                            "eEuler": {
+                             "x": 7.2317455832473275e-28,
+                             "y": 0,
+                             "z": 0
+                            }
+                           },
+                           {
+                            "bone_uuid_": 1072310462,
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "paused": false,
+                            "type": "Bone3DComponent"
+                           },
+                           {
+                            "guid": "aafdbe53-d4cb-4d07-a9c3-18a73c9c67c5",
+                            "type": "PrefabEntityShadow",
+                            "enabled": true
+                           }
+                          ],
+                          "enabled": true,
+                          "forbid": false,
+                          "id": 0,
+                          "name": "ThumbFinger1_R"
+                         },
+                         {
+                          "children": [
+                           {
+                            "children": [
+                             {
+                              "children": [],
+                              "components": [
+                               {
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "objectEnabled": true,
+                                "paused": false,
+                                "position": {
+                                 "x": -0.028141872957348824,
+                                 "y": -0.0024974436964839697,
+                                 "z": 0.0022962093353271484
+                                },
+                                "rotation": {
+                                 "w": 1,
+                                 "x": 6.310887241768095e-30,
+                                 "y": 0,
+                                 "z": 0
+                                },
+                                "scale": {
+                                 "x": 1,
+                                 "y": 1,
+                                 "z": 1
+                                },
+                                "skipUpdate": false,
+                                "type": "BasicTransform",
+                                "visible": true,
+                                "eEuler": {
+                                 "x": 7.2317455832473275e-28,
+                                 "y": 0,
+                                 "z": 0
+                                }
+                               },
+                               {
+                                "bone_uuid_": 1199042654,
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "paused": false,
+                                "type": "Bone3DComponent"
+                               },
+                               {
+                                "guid": "1c550ac0-e48c-49a8-b62c-e31bb4c0119b",
+                                "type": "PrefabEntityShadow",
+                                "enabled": true
+                               }
+                              ],
+                              "enabled": true,
+                              "forbid": false,
+                              "id": 0,
+                              "name": "IndexFinger3_R"
+                             }
+                            ],
+                            "components": [
+                             {
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "objectEnabled": true,
+                              "paused": false,
+                              "position": {
+                               "x": -0.04463554918766022,
+                               "y": -0.0007181255496107042,
+                               "z": 0.003241129219532013
+                              },
+                              "rotation": {
+                               "w": 1,
+                               "x": 6.310887241768095e-30,
+                               "y": 0,
+                               "z": 0
+                              },
+                              "scale": {
+                               "x": 1,
+                               "y": 1,
+                               "z": 1
+                              },
+                              "skipUpdate": false,
+                              "type": "BasicTransform",
+                              "visible": true,
+                              "eEuler": {
+                               "x": 7.2317455832473275e-28,
+                               "y": 0,
+                               "z": 0
+                              }
+                             },
+                             {
+                              "bone_uuid_": 1325774846,
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "paused": false,
+                              "type": "Bone3DComponent"
+                             },
+                             {
+                              "guid": "b9a92296-5966-43f9-a2da-9760f8e496b9",
+                              "type": "PrefabEntityShadow",
+                              "enabled": true
+                             }
+                            ],
+                            "enabled": true,
+                            "forbid": false,
+                            "id": 0,
+                            "name": "IndexFinger2_R"
+                           }
+                          ],
+                          "components": [
+                           {
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "objectEnabled": true,
+                            "paused": false,
+                            "position": {
+                             "x": -0.09901894629001617,
+                             "y": 0.0038665449246764183,
+                             "z": 0.031224997714161873
+                            },
+                            "rotation": {
+                             "w": 1,
+                             "x": 6.310887241768095e-30,
+                             "y": 0,
+                             "z": 0
+                            },
+                            "scale": {
+                             "x": 1,
+                             "y": 1,
+                             "z": 1
+                            },
+                            "skipUpdate": false,
+                            "type": "BasicTransform",
+                            "visible": true,
+                            "eEuler": {
+                             "x": 7.2317455832473275e-28,
+                             "y": 0,
+                             "z": 0
+                            }
+                           },
+                           {
+                            "bone_uuid_": 50083774,
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "paused": false,
+                            "type": "Bone3DComponent"
+                           },
+                           {
+                            "guid": "94fe7077-4453-4c5f-b2f0-9fa23326cf91",
+                            "type": "PrefabEntityShadow",
+                            "enabled": true
+                           }
+                          ],
+                          "enabled": true,
+                          "forbid": false,
+                          "id": 0,
+                          "name": "IndexFinger1_R"
+                         },
+                         {
+                          "children": [
+                           {
+                            "children": [
+                             {
+                              "children": [],
+                              "components": [
+                               {
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "objectEnabled": true,
+                                "paused": false,
+                                "position": {
+                                 "x": -0.03531403839588165,
+                                 "y": 0.001990905264392495,
+                                 "z": 0.0016086585819721222
+                                },
+                                "rotation": {
+                                 "w": 1,
+                                 "x": 6.310887241768095e-30,
+                                 "y": 0,
+                                 "z": 0
+                                },
+                                "scale": {
+                                 "x": 1,
+                                 "y": 1,
+                                 "z": 1
+                                },
+                                "skipUpdate": false,
+                                "type": "BasicTransform",
+                                "visible": true,
+                                "eEuler": {
+                                 "x": 7.2317455832473275e-28,
+                                 "y": 0,
+                                 "z": 0
+                                }
+                               },
+                               {
+                                "bone_uuid_": 176815966,
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "paused": false,
+                                "type": "Bone3DComponent"
+                               },
+                               {
+                                "guid": "5a51b71c-6442-4690-a02e-99a83d4fe4ec",
+                                "type": "PrefabEntityShadow",
+                                "enabled": true
+                               }
+                              ],
+                              "enabled": true,
+                              "forbid": false,
+                              "id": 0,
+                              "name": "MiddleFinger3_R"
+                             }
+                            ],
+                            "components": [
+                             {
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "objectEnabled": true,
+                              "paused": false,
+                              "position": {
+                               "x": -0.045592740178108215,
+                               "y": -0.0025299875997006893,
+                               "z": -0.0017948746681213379
+                              },
+                              "rotation": {
+                               "w": 1,
+                               "x": 6.310887241768095e-30,
+                               "y": 0,
+                               "z": 0
+                              },
+                              "scale": {
+                               "x": 1,
+                               "y": 1,
+                               "z": 1
+                              },
+                              "skipUpdate": false,
+                              "type": "BasicTransform",
+                              "visible": true,
+                              "eEuler": {
+                               "x": 7.2317455832473275e-28,
+                               "y": 0,
+                               "z": 0
+                              }
+                             },
+                             {
+                              "bone_uuid_": 303416855,
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "paused": false,
+                              "type": "Bone3DComponent"
+                             },
+                             {
+                              "guid": "4fed992a-3464-421c-852f-7d3d92b1330f",
+                              "type": "PrefabEntityShadow",
+                              "enabled": true
+                             }
+                            ],
+                            "enabled": true,
+                            "forbid": false,
+                            "id": 0,
+                            "name": "MiddleFinger2_R"
+                           }
+                          ],
+                          "components": [
+                           {
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "objectEnabled": true,
+                            "paused": false,
+                            "position": {
+                             "x": -0.10046596825122833,
+                             "y": 0.00448631402105093,
+                             "z": 0.004752997308969498
+                            },
+                            "rotation": {
+                             "w": 1,
+                             "x": 6.310887241768095e-30,
+                             "y": 0,
+                             "z": 0
+                            },
+                            "scale": {
+                             "x": 1,
+                             "y": 1,
+                             "z": 1
+                            },
+                            "skipUpdate": false,
+                            "type": "BasicTransform",
+                            "visible": true,
+                            "eEuler": {
+                             "x": 7.2317455832473275e-28,
+                             "y": 0,
+                             "z": 0
+                            }
+                           },
+                           {
+                            "bone_uuid_": 492070702,
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "paused": false,
+                            "type": "Bone3DComponent"
+                           },
+                           {
+                            "guid": "297f5b25-e051-4740-8c30-1da8080cd4d5",
+                            "type": "PrefabEntityShadow",
+                            "enabled": true
+                           }
+                          ],
+                          "enabled": true,
+                          "forbid": false,
+                          "id": 0,
+                          "name": "MiddleFinger1_R"
+                         },
+                         {
+                          "children": [
+                           {
+                            "children": [
+                             {
+                              "children": [],
+                              "components": [
+                               {
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "objectEnabled": true,
+                                "paused": false,
+                                "position": {
+                                 "x": -0.0361180454492569,
+                                 "y": -0.017502913251519203,
+                                 "z": -0.013452999293804169
+                                },
+                                "rotation": {
+                                 "w": 1,
+                                 "x": -3.3881317890172014e-21,
+                                 "y": -5.048709793414476e-29,
+                                 "z": 0
+                                },
+                                "scale": {
+                                 "x": 1,
+                                 "y": 1,
+                                 "z": 1
+                                },
+                                "skipUpdate": false,
+                                "type": "BasicTransform",
+                                "visible": true,
+                                "eEuler": {
+                                 "x": -3.8825138466299646e-19,
+                                 "y": -5.785396466597862e-27,
+                                 "z": -1.960168568054801e-47
+                                }
+                               },
+                               {
+                                "bone_uuid_": 618802894,
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "paused": false,
+                                "type": "Bone3DComponent"
+                               },
+                               {
+                                "guid": "75cbf3f8-b396-4ad4-bc06-26c862d4f0c2",
+                                "type": "PrefabEntityShadow",
+                                "enabled": true
+                               }
+                              ],
+                              "enabled": true,
+                              "forbid": false,
+                              "id": 0,
+                              "name": "RingFinger3_R"
+                             }
+                            ],
+                            "components": [
+                             {
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "objectEnabled": true,
+                              "paused": false,
+                              "position": {
+                               "x": -0.04159499704837799,
+                               "y": -0.0038457002956420183,
+                               "z": -0.0032529979944229126
+                              },
+                              "rotation": {
+                               "w": 1,
+                               "x": -3.3881317890172014e-21,
+                               "y": -5.048709793414476e-29,
+                               "z": 0
+                              },
+                              "scale": {
+                               "x": 1,
+                               "y": 1,
+                               "z": 1
+                              },
+                              "skipUpdate": false,
+                              "type": "BasicTransform",
+                              "visible": true,
+                              "eEuler": {
+                               "x": -3.8825138466299646e-19,
+                               "y": -5.785396466597862e-27,
+                               "z": -1.960168568054801e-47
+                              }
+                             },
+                             {
+                              "bone_uuid_": 1490595470,
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "paused": false,
+                              "type": "Bone3DComponent"
+                             },
+                             {
+                              "guid": "7dafb24b-f6ae-4329-b71e-56bb49ea7d77",
+                              "type": "PrefabEntityShadow",
+                              "enabled": true
+                             }
+                            ],
+                            "enabled": true,
+                            "forbid": false,
+                            "id": 0,
+                            "name": "RingFinger2_R"
+                           }
+                          ],
+                          "components": [
+                           {
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "objectEnabled": true,
+                            "paused": false,
+                            "position": {
+                             "x": -0.09470297396183014,
+                             "y": 0.002475253539159894,
+                             "z": -0.020201005041599274
+                            },
+                            "rotation": {
+                             "w": 1,
+                             "x": 6.310887994084479e-30,
+                             "y": 0,
+                             "z": 0
+                            },
+                            "scale": {
+                             "x": 1,
+                             "y": 0.9999999403953552,
+                             "z": 1
+                            },
+                            "skipUpdate": false,
+                            "type": "BasicTransform",
+                            "visible": true,
+                            "eEuler": {
+                             "x": 7.231746445338581e-28,
+                             "y": 0,
+                             "z": 0
+                            }
+                           },
+                           {
+                            "bone_uuid_": 1617327662,
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "paused": false,
+                            "type": "Bone3DComponent"
+                           },
+                           {
+                            "guid": "da1c15ba-be0f-4081-a9f3-80643b014882",
+                            "type": "PrefabEntityShadow",
+                            "enabled": true
+                           }
+                          ],
+                          "enabled": true,
+                          "forbid": false,
+                          "id": 0,
+                          "name": "RingFinger1_R"
+                         },
+                         {
+                          "children": [
+                           {
+                            "children": [
+                             {
+                              "children": [],
+                              "components": [
+                               {
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "objectEnabled": true,
+                                "paused": false,
+                                "position": {
+                                 "x": -0.02213498391211033,
+                                 "y": -0.0002547589538153261,
+                                 "z": -0.003264143131673336
+                                },
+                                "rotation": {
+                                 "w": 1,
+                                 "x": 4.580754178751256e-18,
+                                 "y": 0,
+                                 "z": 2.2258501194537955e-16
+                                },
+                                "scale": {
+                                 "x": 1,
+                                 "y": 1,
+                                 "z": 1
+                                },
+                                "skipUpdate": false,
+                                "type": "BasicTransform",
+                                "visible": true,
+                                "eEuler": {
+                                 "x": 5.249158720643712e-16,
+                                 "y": 1.168384056537674e-31,
+                                 "z": 2.5506368841127885e-14
+                                }
+                               },
+                               {
+                                "bone_uuid_": 1743928551,
+                                "componentID": 0,
+                                "enabled": true,
+                                "entityId": 0,
+                                "needReload": true,
+                                "paused": false,
+                                "type": "Bone3DComponent"
+                               },
+                               {
+                                "guid": "253cc605-6ab9-48a1-8d30-b2d8481bee62",
+                                "type": "PrefabEntityShadow",
+                                "enabled": true
+                               }
+                              ],
+                              "enabled": true,
+                              "forbid": false,
+                              "id": 0,
+                              "name": "PinkyFinger3_R"
+                             }
+                            ],
+                            "components": [
+                             {
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "objectEnabled": true,
+                              "paused": false,
+                              "position": {
+                               "x": -0.027861546725034714,
+                               "y": -0.00266850832849741,
+                               "z": -0.003031889908015728
+                              },
+                              "rotation": {
+                               "w": 1,
+                               "x": 4.580754178751256e-18,
+                               "y": 0,
+                               "z": 2.2258501194537955e-16
+                              },
+                              "scale": {
+                               "x": 1,
+                               "y": 1,
+                               "z": 1
+                              },
+                              "skipUpdate": false,
+                              "type": "BasicTransform",
+                              "visible": true,
+                              "eEuler": {
+                               "x": 5.249158720643712e-16,
+                               "y": 1.168384056537674e-31,
+                               "z": 2.5506368841127885e-14
+                              }
+                             },
+                             {
+                              "bone_uuid_": 1870660743,
+                              "componentID": 0,
+                              "enabled": true,
+                              "entityId": 0,
+                              "needReload": true,
+                              "paused": false,
+                              "type": "Bone3DComponent"
+                             },
+                             {
+                              "guid": "9de908c4-1c4c-4ecb-9688-d3cb07e18d24",
+                              "type": "PrefabEntityShadow",
+                              "enabled": true
+                             }
+                            ],
+                            "enabled": true,
+                            "forbid": false,
+                            "id": 0,
+                            "name": "PinkyFinger2_R"
+                           }
+                          ],
+                          "components": [
+                           {
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "objectEnabled": true,
+                            "paused": false,
+                            "position": {
+                             "x": -0.0878339558839798,
+                             "y": -0.002272494835779071,
+                             "z": -0.04459500312805176
+                            },
+                            "rotation": {
+                             "w": 0.9995789527893066,
+                             "x": -3.182795575684335e-18,
+                             "y": -0.029017409309744835,
+                             "z": -9.837600791578034e-17
+                            },
+                            "scale": {
+                             "x": 1,
+                             "y": 1,
+                             "z": 1
+                            },
+                            "skipUpdate": false,
+                            "type": "BasicTransform",
+                            "visible": true,
+                            "eEuler": {
+                             "x": -6.928498586980011e-16,
+                             "y": -3.3256178302340844,
+                             "z": -1.1297925180018724e-14
+                            }
+                           },
+                           {
+                            "bone_uuid_": 1773112892,
+                            "componentID": 0,
+                            "enabled": true,
+                            "entityId": 0,
+                            "needReload": true,
+                            "paused": false,
+                            "type": "Bone3DComponent"
+                           },
+                           {
+                            "guid": "64932db6-0a08-4eb4-a8b7-cd1d059e500d",
+                            "type": "PrefabEntityShadow",
+                            "enabled": true
+                           }
+                          ],
+                          "enabled": true,
+                          "forbid": false,
+                          "id": 0,
+                          "name": "PinkyFinger1_R"
+                         }
+                        ],
+                        "components": [
+                         {
+                          "componentID": 0,
+                          "enabled": true,
+                          "entityId": 0,
+                          "needReload": true,
+                          "objectEnabled": true,
+                          "paused": false,
+                          "position": {
+                           "x": -0.2503930330276489,
+                           "y": 0.028163902461528778,
+                           "z": -0.0002429969608783722
+                          },
+                          "rotation": {
+                           "w": 1,
+                           "x": 6.310887241768095e-30,
+                           "y": 0,
+                           "z": 0
+                          },
+                          "scale": {
+                           "x": 1,
+                           "y": 1,
+                           "z": 1
+                          },
+                          "skipUpdate": false,
+                          "type": "BasicTransform",
+                          "visible": true,
+                          "eEuler": {
+                           "x": 7.2317455832473275e-28,
+                           "y": 0,
+                           "z": 0
+                          }
+                         },
+                         {
+                          "bone_uuid_": 1899713781,
+                          "componentID": 0,
+                          "enabled": true,
+                          "entityId": 0,
+                          "needReload": true,
+                          "paused": false,
+                          "type": "Bone3DComponent"
+                         },
+                         {
+                          "guid": "08c50dea-5c52-49e6-8f88-eb14b64451a8",
+                          "type": "PrefabEntityShadow",
+                          "enabled": true
+                         }
+                        ],
+                        "enabled": true,
+                        "forbid": false,
+                        "id": 0,
+                        "name": "RightHand"
+                       }
+                      ],
+                      "components": [
+                       {
+                        "componentID": 0,
+                        "enabled": true,
+                        "entityId": 0,
+                        "needReload": true,
+                        "objectEnabled": true,
+                        "paused": false,
+                        "position": {
+                         "x": -0.28450503945350647,
+                         "y": 0.0026699258014559746,
+                         "z": -0.018651999533176422
+                        },
+                        "rotation": {
+                         "w": 1,
+                         "x": 6.310887241768095e-30,
+                         "y": 0,
+                         "z": 0
+                        },
+                        "scale": {
+                         "x": 1,
+                         "y": 1,
+                         "z": 1
+                        },
+                        "skipUpdate": false,
+                        "type": "BasicTransform",
+                        "visible": true,
+                        "eEuler": {
+                         "x": 7.2317455832473275e-28,
+                         "y": 0,
+                         "z": 0
+                        }
+                       },
+                       {
+                        "bone_uuid_": 2026445973,
+                        "componentID": 0,
+                        "enabled": true,
+                        "entityId": 0,
+                        "needReload": true,
+                        "paused": false,
+                        "type": "Bone3DComponent"
+                       },
+                       {
+                        "guid": "aa52f26e-ec93-499d-a3b2-2f5cb63f0a09",
+                        "type": "PrefabEntityShadow",
+                        "enabled": true
+                       }
+                      ],
+                      "enabled": true,
+                      "forbid": false,
+                      "id": 0,
+                      "name": "RightForeArm"
+                     }
+                    ],
+                    "components": [
+                     {
+                      "componentID": 0,
+                      "enabled": true,
+                      "entityId": 0,
+                      "needReload": true,
+                      "objectEnabled": true,
+                      "paused": false,
+                      "position": {
+                       "x": -0.11879800260066986,
+                       "y": -0.0047905463725328445,
+                       "z": -0.0006650015711784363
+                      },
+                      "rotation": {
+                       "w": 1,
+                       "x": 6.310887241768095e-30,
+                       "y": 0,
+                       "z": 0
+                      },
+                      "scale": {
+                       "x": 1,
+                       "y": 1,
+                       "z": 1
+                      },
+                      "skipUpdate": false,
+                      "type": "BasicTransform",
+                      "visible": true,
+                      "eEuler": {
+                       "x": 7.2317455832473275e-28,
+                       "y": 0,
+                       "z": 0
+                      }
+                     },
+                     {
+                      "bone_uuid_": 5563214,
+                      "componentID": 0,
+                      "enabled": true,
+                      "entityId": 0,
+                      "needReload": true,
+                      "paused": false,
+                      "type": "Bone3DComponent"
+                     },
+                     {
+                      "guid": "d789ed53-3e39-4ec7-8d2a-8db01efa4075",
+                      "type": "PrefabEntityShadow",
+                      "enabled": true
+                     }
+                    ],
+                    "enabled": true,
+                    "forbid": false,
+                    "id": 0,
+                    "name": "RightArm"
+                   }
+                  ],
+                  "components": [
+                   {
+                    "componentID": 0,
+                    "enabled": true,
+                    "entityId": 0,
+                    "needReload": true,
+                    "objectEnabled": true,
+                    "paused": false,
+                    "position": {
+                     "x": -0.0471348837018013,
+                     "y": 0.14028313755989075,
+                     "z": -0.016808021813631058
+                    },
+                    "rotation": {
+                     "w": 1,
+                     "x": -6.154069089178357e-14,
+                     "y": -2.4549365207349183e-7,
+                     "z": -2.5068135300898575e-7
+                    },
+                    "scale": {
+                     "x": 1,
+                     "y": 1,
+                     "z": 1
+                    },
+                    "skipUpdate": false,
+                    "type": "BasicTransform",
+                    "visible": true,
+                    "eEuler": {
+                     "x": -1.4104089210034746e-11,
+                     "y": -0.000028131506174721304,
+                     "z": -0.000028725973036363394
+                    }
+                   },
+                   {
+                    "bone_uuid_": 132295406,
+                    "componentID": 0,
+                    "enabled": true,
+                    "entityId": 0,
+                    "needReload": true,
+                    "paused": false,
+                    "type": "Bone3DComponent"
+                   },
+                   {
+                    "guid": "73464c1d-7fba-4cd8-af8a-765cb33a7dd0",
+                    "type": "PrefabEntityShadow",
+                    "enabled": true
+                   }
+                  ],
+                  "enabled": true,
+                  "forbid": false,
+                  "id": 0,
+                  "name": "RightShoulder"
+                 }
+                ],
+                "components": [
+                 {
+                  "componentID": 0,
+                  "enabled": true,
+                  "entityId": 0,
+                  "needReload": true,
+                  "objectEnabled": true,
+                  "paused": false,
+                  "position": {
+                   "x": 5.50068302018758e-9,
+                   "y": 0.12006270885467529,
+                   "z": -0.020533999428153038
+                  },
+                  "rotation": {
+                   "w": 1,
+                   "x": -1.2446027688279779e-14,
+                   "y": 1.1156176071835944e-7,
+                   "z": 1.1156176071835944e-7
+                  },
+                  "scale": {
+                   "x": 1,
+                   "y": 1,
+                   "z": 1
+                  },
+                  "skipUpdate": false,
+                  "type": "BasicTransform",
+                  "visible": true,
+                  "eEuler": {
+                   "x": -2.8524198850232363e-12,
+                   "y": 0.00001278403874806443,
+                   "z": 0.000012784038748065066
+                  }
+                 },
+                 {
+                  "bone_uuid_": 1004219285,
+                  "componentID": 0,
+                  "enabled": true,
+                  "entityId": 0,
+                  "needReload": true,
+                  "paused": false,
+                  "type": "Bone3DComponent"
+                 },
+                 {
+                  "guid": "0fdc5d9e-f7df-4c82-96cc-43b70c97bbd9",
+                  "type": "PrefabEntityShadow",
+                  "enabled": true
+                 }
+                ],
+                "enabled": true,
+                "forbid": false,
+                "id": 0,
+                "name": "Spine2"
+               }
+              ],
+              "components": [
+               {
+                "componentID": 0,
+                "enabled": true,
+                "entityId": 0,
+                "needReload": true,
+                "objectEnabled": true,
+                "paused": false,
+                "position": {
+                 "x": 6.858369427931166e-10,
+                 "y": 0.12977802753448486,
+                 "z": -0.01368200033903122
+                },
+                "rotation": {
+                 "w": 1,
+                 "x": -1.1853718724088528e-14,
+                 "y": 1.0887478651966376e-7,
+                 "z": 1.0887478651966376e-7
+                },
+                "scale": {
+                 "x": 1,
+                 "y": 1,
+                 "z": 1
+                },
+                "skipUpdate": false,
+                "type": "BasicTransform",
+                "visible": true,
+                "eEuler": {
+                 "x": -2.7166728305155228e-12,
+                 "y": 0.000012476134121515076,
+                 "z": 0.00001247613412151567
+                }
+               },
+               {
+                "bone_uuid_": 1130820174,
+                "componentID": 0,
+                "enabled": true,
+                "entityId": 0,
+                "needReload": true,
+                "paused": false,
+                "type": "Bone3DComponent"
+               },
+               {
+                "guid": "4299c164-8943-4769-bcff-7f25089ba735",
+                "type": "PrefabEntityShadow",
+                "enabled": true
+               }
+              ],
+              "enabled": true,
+              "forbid": false,
+              "id": 0,
+              "name": "Spine1"
+             }
+            ],
+            "components": [
+             {
+              "componentID": 0,
+              "enabled": true,
+              "entityId": 0,
+              "needReload": true,
+              "objectEnabled": true,
+              "paused": false,
+              "position": {
+               "x": -1.7878504232626824e-11,
+               "y": 0.09842121601104736,
+               "z": 0.0031960001215338707
+              },
+              "rotation": {
+               "w": 1,
+               "x": -4.931183885128977e-16,
+               "y": 2.220627060012248e-8,
+               "z": 2.220626882376564e-8
+              },
+              "scale": {
+               "x": 1,
+               "y": 1,
+               "z": 1
+              },
+              "skipUpdate": false,
+              "type": "BasicTransform",
+              "visible": true,
+              "eEuler": {
+               "x": -1.1301443634046073e-13,
+               "y": 0.000002544651697624673,
+               "z": 0.0000025446514940691357
+              }
+             },
+             {
+              "bone_uuid_": 1319474021,
+              "componentID": 0,
+              "enabled": true,
+              "entityId": 0,
+              "needReload": true,
+              "paused": false,
+              "type": "Bone3DComponent"
+             },
+             {
+              "guid": "3d1a95e3-f9da-435b-88c2-08af10a0a7ed",
+              "type": "PrefabEntityShadow",
+              "enabled": true
+             }
+            ],
+            "enabled": true,
+            "forbid": false,
+            "id": 0,
+            "name": "Spine"
+           },
+           {
+            "children": [
+             {
+              "children": [
+               {
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "children": [],
+                    "components": [
+                     {
+                      "componentID": 0,
+                      "enabled": true,
+                      "entityId": 0,
+                      "needReload": true,
+                      "objectEnabled": true,
+                      "paused": false,
+                      "position": {
+                       "x": 0.001592002809047699,
+                       "y": -0.005964413285255432,
+                       "z": 0.10487200319766998
+                      },
+                      "rotation": {
+                       "w": 1,
+                       "x": 0,
+                       "y": 0,
+                       "z": 5.892833998544234e-10
+                      },
+                      "scale": {
+                       "x": 1,
+                       "y": 1,
+                       "z": 1
+                      },
+                      "skipUpdate": false,
+                      "type": "BasicTransform",
+                      "visible": true,
+                      "eEuler": {
+                       "x": 0,
+                       "y": 0,
+                       "z": 6.752691754613342e-8
+                      }
+                     },
+                     {
+                      "bone_uuid_": 1446074910,
+                      "componentID": 0,
+                      "enabled": true,
+                      "entityId": 0,
+                      "needReload": true,
+                      "paused": false,
+                      "type": "Bone3DComponent"
+                     },
+                     {
+                      "guid": "7c1cd88d-96a2-44f2-bb11-9557ff9209d0",
+                      "type": "PrefabEntityShadow",
+                      "enabled": true
+                     }
+                    ],
+                    "enabled": true,
+                    "forbid": false,
+                    "id": 0,
+                    "name": "LeftToe_End"
+                   }
+                  ],
+                  "components": [
+                   {
+                    "componentID": 0,
+                    "enabled": true,
+                    "entityId": 0,
+                    "needReload": true,
+                    "objectEnabled": true,
+                    "paused": false,
+                    "position": {
+                     "x": -0.003518998622894287,
+                     "y": -0.0844217836856842,
+                     "z": 0.11654700338840485
+                    },
+                    "rotation": {
+                     "w": 1,
+                     "x": 0,
+                     "y": 0,
+                     "z": 0
+                    },
+                    "scale": {
+                     "x": 1,
+                     "y": 1,
+                     "z": 1
+                    },
+                    "skipUpdate": false,
+                    "type": "BasicTransform",
+                    "visible": true,
+                    "eEuler": {
+                     "x": 0,
+                     "y": 0,
+                     "z": 0
+                    }
+                   },
+                   {
+                    "bone_uuid_": 1572807102,
+                    "componentID": 0,
+                    "enabled": true,
+                    "entityId": 0,
+                    "needReload": true,
+                    "paused": false,
+                    "type": "Bone3DComponent"
+                   },
+                   {
+                    "guid": "97df5819-8905-4839-9d9e-e554e07710a5",
+                    "type": "PrefabEntityShadow",
+                    "enabled": true
+                   }
+                  ],
+                  "enabled": true,
+                  "forbid": false,
+                  "id": 0,
+                  "name": "LeftToeBase"
+                 }
+                ],
+                "components": [
+                 {
+                  "componentID": 0,
+                  "enabled": true,
+                  "entityId": 0,
+                  "needReload": true,
+                  "objectEnabled": true,
+                  "paused": false,
+                  "position": {
+                   "x": 0.003412999212741852,
+                   "y": -0.44177883863449097,
+                   "z": -0.04277700185775757
+                  },
+                  "rotation": {
+                   "w": 1,
+                   "x": 0,
+                   "y": 0,
+                   "z": -7.82464704141006e-10
+                  },
+                  "scale": {
+                   "x": 1,
+                   "y": 1,
+                   "z": 1
+                  },
+                  "skipUpdate": false,
+                  "type": "BasicTransform",
+                  "visible": true,
+                  "eEuler": {
+                   "x": 0,
+                   "y": 0,
+                   "z": -8.966386898450282e-8
+                  }
+                 },
+                 {
+                  "bone_uuid_": 297247333,
+                  "componentID": 0,
+                  "enabled": true,
+                  "entityId": 0,
+                  "needReload": true,
+                  "paused": false,
+                  "type": "Bone3DComponent"
+                 },
+                 {
+                  "guid": "a35e816a-1289-4f4e-8300-d3e1adb550d4",
+                  "type": "PrefabEntityShadow",
+                  "enabled": true
+                 }
+                ],
+                "enabled": true,
+                "forbid": false,
+                "id": 0,
+                "name": "LeftFoot"
+               }
+              ],
+              "components": [
+               {
+                "componentID": 0,
+                "enabled": true,
+                "entityId": 0,
+                "needReload": true,
+                "objectEnabled": true,
+                "paused": false,
+                "position": {
+                 "x": 0.005590993445366621,
+                 "y": -0.4581003785133362,
+                 "z": -0.006004999857395887
+                },
+                "rotation": {
+                 "w": 1,
+                 "x": 0,
+                 "y": 0,
+                 "z": -2.6252178209063004e-9
+                },
+                "scale": {
+                 "x": 1,
+                 "y": 1,
+                 "z": 1
+                },
+                "skipUpdate": false,
+                "type": "BasicTransform",
+                "visible": true,
+                "eEuler": {
+                 "x": 0,
+                 "y": 0,
+                 "z": -3.00827865466384e-7
+                }
+               },
+               {
+                "bone_uuid_": 423848222,
+                "componentID": 0,
+                "enabled": true,
+                "entityId": 0,
+                "needReload": true,
+                "paused": false,
+                "type": "Bone3DComponent"
+               },
+               {
+                "guid": "1e0238d8-7929-4dab-aea5-313875dc2b23",
+                "type": "PrefabEntityShadow",
+                "enabled": true
+               }
+              ],
+              "enabled": true,
+              "forbid": false,
+              "id": 0,
+              "name": "LeftLeg"
+             }
+            ],
+            "components": [
+             {
+              "componentID": 0,
+              "enabled": true,
+              "entityId": 0,
+              "needReload": true,
+              "objectEnabled": true,
+              "paused": false,
+              "position": {
+               "x": 0.09534399956464767,
+               "y": 0.005297302734106779,
+               "z": -0.0031269993633031845
+              },
+              "rotation": {
+               "w": 1,
+               "x": 0,
+               "y": -2.8508346794353656e-9,
+               "z": 0
+              },
+              "scale": {
+               "x": 1,
+               "y": 1,
+               "z": 1
+              },
+              "skipUpdate": false,
+              "type": "BasicTransform",
+              "visible": true,
+              "eEuler": {
+               "x": 0,
+               "y": -3.2668165840654404e-7,
+               "z": 0
+              }
+             },
+             {
+              "bone_uuid_": 550580414,
+              "componentID": 0,
+              "enabled": true,
+              "entityId": 0,
+              "needReload": true,
+              "paused": false,
+              "type": "Bone3DComponent"
+             },
+             {
+              "guid": "f66e937f-f95c-44a6-895c-3842fdec1586",
+              "type": "PrefabEntityShadow",
+              "enabled": true
+             }
+            ],
+            "enabled": true,
+            "forbid": false,
+            "id": 0,
+            "name": "LeftUpLeg"
+           },
+           {
+            "children": [
+             {
+              "children": [
+               {
+                "children": [
+                 {
+                  "children": [
+                   {
+                    "children": [],
+                    "components": [
+                     {
+                      "componentID": 0,
+                      "enabled": true,
+                      "entityId": 0,
+                      "needReload": true,
+                      "objectEnabled": true,
+                      "paused": false,
+                      "position": {
+                       "x": -0.001592002809047699,
+                       "y": -0.005964413285255432,
+                       "z": 0.10487200319766998
+                      },
+                      "rotation": {
+                       "w": 1,
+                       "x": 0,
+                       "y": 0,
+                       "z": 5.892833998544234e-10
+                      },
+                      "scale": {
+                       "x": 1,
+                       "y": 1,
+                       "z": 1
+                      },
+                      "skipUpdate": false,
+                      "type": "BasicTransform",
+                      "visible": true,
+                      "eEuler": {
+                       "x": 0,
+                       "y": 0,
+                       "z": 6.752691754613342e-8
+                      }
+                     },
+                     {
+                      "bone_uuid_": 739102958,
+                      "componentID": 0,
+                      "enabled": true,
+                      "entityId": 0,
+                      "needReload": true,
+                      "paused": false,
+                      "type": "Bone3DComponent"
+                     },
+                     {
+                      "guid": "120d45c5-c37c-4a0c-8ad0-29255a786a53",
+                      "type": "PrefabEntityShadow",
+                      "enabled": true
+                     }
+                    ],
+                    "enabled": true,
+                    "forbid": false,
+                    "id": 0,
+                    "name": "RightToe_End"
+                   }
+                  ],
+                  "components": [
+                   {
+                    "componentID": 0,
+                    "enabled": true,
+                    "entityId": 0,
+                    "needReload": true,
+                    "objectEnabled": true,
+                    "paused": false,
+                    "position": {
+                     "x": 0.003518998622894287,
+                     "y": -0.0844217836856842,
+                     "z": 0.11654700338840485
+                    },
+                    "rotation": {
+                     "w": 1,
+                     "x": 0,
+                     "y": 0,
+                     "z": 0
+                    },
+                    "scale": {
+                     "x": 1,
+                     "y": 1,
+                     "z": 1
+                    },
+                    "skipUpdate": false,
+                    "type": "BasicTransform",
+                    "visible": true,
+                    "eEuler": {
+                     "x": 0,
+                     "y": 0,
+                     "z": 0
+                    }
+                   },
+                   {
+                    "bone_uuid_": 1611026837,
+                    "componentID": 0,
+                    "enabled": true,
+                    "entityId": 0,
+                    "needReload": true,
+                    "paused": false,
+                    "type": "Bone3DComponent"
+                   },
+                   {
+                    "guid": "00889ee2-3bcc-4410-ac41-9d15570060aa",
+                    "type": "PrefabEntityShadow",
+                    "enabled": true
+                   }
+                  ],
+                  "enabled": true,
+                  "forbid": false,
+                  "id": 0,
+                  "name": "RightToeBase"
+                 }
+                ],
+                "components": [
+                 {
+                  "componentID": 0,
+                  "enabled": true,
+                  "entityId": 0,
+                  "needReload": true,
+                  "objectEnabled": true,
+                  "paused": false,
+                  "position": {
+                   "x": -0.003412999212741852,
+                   "y": -0.44177883863449097,
+                   "z": -0.04277700185775757
+                  },
+                  "rotation": {
+                   "w": 1,
+                   "x": 0,
+                   "y": 0,
+                   "z": -7.82464704141006e-10
+                  },
+                  "scale": {
+                   "x": 1,
+                   "y": 1,
+                   "z": 1
+                  },
+                  "skipUpdate": false,
+                  "type": "BasicTransform",
+                  "visible": true,
+                  "eEuler": {
+                   "x": 0,
+                   "y": 0,
+                   "z": -8.966386898450282e-8
+                  }
+                 },
+                 {
+                  "bone_uuid_": 1737759029,
+                  "componentID": 0,
+                  "enabled": true,
+                  "entityId": 0,
+                  "needReload": true,
+                  "paused": false,
+                  "type": "Bone3DComponent"
+                 },
+                 {
+                  "guid": "24286297-c817-461a-a1e3-6d983f7bd191",
+                  "type": "PrefabEntityShadow",
+                  "enabled": true
+                 }
+                ],
+                "enabled": true,
+                "forbid": false,
+                "id": 0,
+                "name": "RightFoot"
+               }
+              ],
+              "components": [
+               {
+                "componentID": 0,
+                "enabled": true,
+                "entityId": 0,
+                "needReload": true,
+                "objectEnabled": true,
+                "paused": false,
+                "position": {
+                 "x": -0.0055910018272697926,
+                 "y": -0.4581003785133362,
+                 "z": -0.006004999857395887
+                },
+                "rotation": {
+                 "w": 1,
+                 "x": 0,
+                 "y": 0,
+                 "z": -2.6252178209063004e-9
+                },
+                "scale": {
+                 "x": 1,
+                 "y": 1,
+                 "z": 1
+                },
+                "skipUpdate": false,
+                "type": "BasicTransform",
+                "visible": true,
+                "eEuler": {
+                 "x": 0,
+                 "y": 0,
+                 "z": -3.00827865466384e-7
+                }
+               },
+               {
+                "bone_uuid_": 1864359918,
+                "componentID": 0,
+                "enabled": true,
+                "entityId": 0,
+                "needReload": true,
+                "paused": false,
+                "type": "Bone3DComponent"
+               },
+               {
+                "guid": "329fad36-4ac6-4d8c-98aa-2625ad70e636",
+                "type": "PrefabEntityShadow",
+                "enabled": true
+               }
+              ],
+              "enabled": true,
+              "forbid": false,
+              "id": 0,
+              "name": "RightLeg"
+             }
+            ],
+            "components": [
+             {
+              "componentID": 0,
+              "enabled": true,
+              "entityId": 0,
+              "needReload": true,
+              "objectEnabled": true,
+              "paused": false,
+              "position": {
+               "x": -0.09534399956464767,
+               "y": 0.005297303665429354,
+               "z": -0.003127000294625759
+              },
+              "rotation": {
+               "w": 1,
+               "x": 0,
+               "y": -2.8508346794353656e-9,
+               "z": 0
+              },
+              "scale": {
+               "x": 1,
+               "y": 1,
+               "z": 1
+              },
+              "skipUpdate": false,
+              "type": "BasicTransform",
+              "visible": true,
+              "eEuler": {
+               "x": 0,
+               "y": -3.2668165840654404e-7,
+               "z": 0
+              }
+             },
+             {
+              "bone_uuid_": 1991092110,
+              "componentID": 0,
+              "enabled": true,
+              "entityId": 0,
+              "needReload": true,
+              "paused": false,
+              "type": "Bone3DComponent"
+             },
+             {
+              "guid": "95e6b051-d592-43e9-bb9b-39c87e45ebb5",
+              "type": "PrefabEntityShadow",
+              "enabled": true
+             }
+            ],
+            "enabled": true,
+            "forbid": false,
+            "id": 0,
+            "name": "RightUpLeg"
+           }
+          ],
+          "components": [
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "needReload": true,
+            "objectEnabled": true,
+            "paused": false,
+            "position": {
+             "x": 5.509842256924691e-13,
+             "y": 1.0191903114318848,
+             "z": 0.010030999779701233
+            },
+            "rotation": {
+             "w": 1,
+             "x": 0,
+             "y": 2.8508346794353656e-9,
+             "z": 2.8508346794353656e-9
+            },
+            "scale": {
+             "x": 1,
+             "y": 1,
+             "z": 1
+            },
+            "skipUpdate": false,
+            "type": "BasicTransform",
+            "visible": true,
+            "eEuler": {
+             "x": -9.313154009208337e-16,
+             "y": 3.2668165840654404e-7,
+             "z": 3.2668165840654404e-7
+            }
+           },
+           {
+            "bone_uuid_": 2117692999,
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "needReload": true,
+            "paused": false,
+            "type": "Bone3DComponent"
+           },
+           {
+            "guid": "0b376576-75c1-4f2d-92e7-03952555d2bb",
+            "type": "PrefabEntityShadow",
+            "enabled": true
+           }
+          ],
+          "enabled": true,
+          "forbid": false,
+          "id": 0,
+          "name": "Hips"
+         }
+        ],
+        "components": [
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "needReload": true,
+          "objectEnabled": true,
+          "paused": false,
+          "position": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "rotation": {
+           "w": 1,
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "scale": {
+           "x": 1,
+           "y": 1,
+           "z": 1
+          },
+          "skipUpdate": false,
+          "type": "BasicTransform",
+          "visible": true,
+          "eEuler": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          }
+         },
+         {
+          "guid": "9869f43e-ede7-4cc5-b3dd-0f2e182379e6",
+          "type": "PrefabEntityShadow",
+          "enabled": true
+         }
+        ],
+        "enabled": true,
+        "forbid": false,
+        "id": 0,
+        "name": "Armature"
+       }
+      ],
+      "components": [
+       {
+        "componentID": 0,
+        "enabled": true,
+        "entityId": 0,
+        "needReload": true,
+        "objectEnabled": true,
+        "paused": false,
+        "position": {
+         "x": 0,
+         "y": 0,
+         "z": 0
+        },
+        "rotation": {
+         "w": 1,
+         "x": 0,
+         "y": 0,
+         "z": 0
+        },
+        "scale": {
+         "x": 1,
+         "y": 1,
+         "z": 1
+        },
+        "skipUpdate": false,
+        "type": "BasicTransform",
+        "visible": true,
+        "eEuler": {
+         "x": 0,
+         "y": 0,
+         "z": 0
+        }
+       },
+       {
+        "componentID": 0,
+        "enabled": true,
+        "entityId": 0,
+        "needReload": true,
+        "paused": false,
+        "type": "SkeletonSkinComponent"
+       },
+       {
+        "guid": "55538dff-4162-464d-8c00-99fee85e5d6d",
+        "type": "PrefabEntityShadow",
+        "enabled": true
+       }
+      ],
+      "enabled": true,
+      "forbid": false,
+      "id": 0,
+      "name": "Scene"
+     }
+    ],
+    "components": [
+     {
+      "componentID": 0,
+      "enabled": true,
+      "entityId": 0,
+      "needReload": true,
+      "objectEnabled": true,
+      "paused": false,
+      "position": {
+       "x": 0,
+       "y": 0,
+       "z": 0
+      },
+      "rotation": {
+       "w": 1,
+       "x": 0,
+       "y": 0,
+       "z": 0
+      },
+      "scale": {
+       "x": 1,
+       "y": 1,
+       "z": 1
+      },
+      "skipUpdate": false,
+      "type": "BasicTransform",
+      "visible": true,
+      "eEuler": {
+       "x": 0,
+       "y": 0,
+       "z": 0
+      }
+     },
+     {
+      "guid": "7170131d-b932-4a90-89d6-adc77a8176e5",
+      "type": "PrefabEntityShadow",
+      "enabled": true
+     }
+    ],
+    "enabled": true,
+    "forbid": false,
+    "id": 0,
+    "name": "Scenes"
+   }
+  ],
+  "components": [
+   {
+    "componentID": 0,
+    "enabled": true,
+    "entityId": 0,
+    "needReload": true,
+    "objectEnabled": true,
+    "paused": false,
+    "position": {
+     "x": 0,
+     "y": 0,
+     "z": 0
+    },
+    "rotation": {
+     "w": 1,
+     "x": 0,
+     "y": 0,
+     "z": 0
+    },
+    "scale": {
+     "x": 1,
+     "y": 1,
+     "z": 1
+    },
+    "skipUpdate": false,
+    "type": "BasicTransform",
+    "visible": true,
+    "eEuler": {
+     "x": 0,
+     "y": 0,
+     "z": 0
+    }
+   },
+   {
+    "guid": "caabcc89-7edc-4656-b05d-d7956bb4a3c7",
+    "type": "PrefabEntityShadow",
+    "enabled": true
+   }
+  ],
+  "enabled": true,
+  "forbid": false,
+  "id": 0,
+  "name": "avatar04(prefab)"
+ }
+}

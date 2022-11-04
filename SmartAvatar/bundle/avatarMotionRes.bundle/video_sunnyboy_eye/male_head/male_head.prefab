@@ -1,0 +1,2723 @@
+{
+ "initialized": true,
+ "object_tree_root": {
+  "children": [
+   {
+    "children": [
+     {
+      "children": [
+       {
+        "children": [],
+        "components": [
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "needReload": true,
+          "objectEnabled": true,
+          "paused": false,
+          "position": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "rotation": {
+           "w": 1,
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "scale": {
+           "x": 1,
+           "y": 1,
+           "z": 1
+          },
+          "skipUpdate": false,
+          "type": "BasicTransform",
+          "visible": true,
+          "eEuler": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          }
+         },
+         {
+          "castShadow": true,
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "frustumCulling": true,
+          "meshResourceKey": "44d52cb0-744c-424a-8f15-a0ebaeb8b5b8",
+          "needReload": true,
+          "paused": false,
+          "priority": 4,
+          "receiveShadow": true,
+          "skinInfoResourceKey": "1f3031d6-c54f-4783-a728-5daf94871f00",
+          "subMeshConfigs": [
+           {
+            "materialResourceKeys": [
+             "51607617-cf10-4ceb-b335-a7d1ebbbd752"
+            ]
+           },
+           {
+            "materialResourceKeys": [
+             "f8af683e-6699-4766-bcd7-f60a03e59491"
+            ]
+           }
+          ],
+          "type": "MeshRenderer3DComponentV3"
+         },
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "layers": 1,
+          "needReload": true,
+          "paused": false,
+          "type": "LayerSetComponent"
+         },
+         {
+          "guid": "2a7e7945-3ea8-4415-bead-03f237419449",
+          "type": "PrefabEntityShadow",
+          "enabled": true
+         }
+        ],
+        "enabled": true,
+        "forbid": false,
+        "id": 0,
+        "name": "CH_M_Hair_28"
+       },
+       {
+        "children": [],
+        "components": [
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "needReload": true,
+          "objectEnabled": true,
+          "paused": false,
+          "position": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "rotation": {
+           "w": 1,
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "scale": {
+           "x": 1,
+           "y": 1,
+           "z": 1
+          },
+          "skipUpdate": false,
+          "type": "BasicTransform",
+          "visible": true,
+          "eEuler": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          }
+         },
+         {
+          "castShadow": true,
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "frustumCulling": true,
+          "meshResourceKey": "cfbc583f-71a1-4125-b698-32fde9e68c36",
+          "needReload": true,
+          "paused": false,
+          "priority": 4,
+          "receiveShadow": true,
+          "skinInfoResourceKey": "22bc613c-0b66-42a3-8ad6-0d21236eb93d",
+          "subMeshConfigs": [
+           {
+            "materialResourceKeys": [
+             "46b4058e-7bf3-4de7-aa34-f101cca35369"
+            ]
+           }
+          ],
+          "type": "MeshRenderer3DComponentV3"
+         },
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "layers": 1,
+          "needReload": true,
+          "paused": false,
+          "type": "LayerSetComponent"
+         },
+         {
+          "blendShapeGroup": [
+           {
+            "blendShapeName": "blendShape68.noseSneerRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.noseSneerLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthUpperUpRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthUpperUpLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthStretchRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthStretchLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthSmileRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthSmileLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthShrugUpper",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthShrugLower",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthRollUpper",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthRollLower",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthPucker",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthPressRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthPressLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthLowerDownRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthLowerDownLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthFunnel",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthFrownRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthFrownLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthDimpleRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthDimpleLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.mouthClose",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.jawRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.jawOpen",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.jawLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.jawForward",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.eyeWideRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.eyeWideLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.eyeSquintRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.eyeSquintLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.eyeLookUpRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.eyeLookUpLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.eyeLookOutRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.eyeLookOutLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.eyeLookInRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.eyeLookInLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.eyeLookDownRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.eyeLookDownLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.eyeBlinkRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.eyeBlinkLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.cheekSquintRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.cheekSquintLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.cheekPuff",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.browInnerUp",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.browOuterUpRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.browOuterUpLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.browDownRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape68.browDownLeft",
+            "blendShapeValue": 0
+           }
+          ],
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "meshMorphModel": 0,
+          "morphName": "CH_M_Eyebrow",
+          "needReload": true,
+          "paused": false,
+          "type": "MeshMorphComponent"
+         },
+         {
+          "animojiConfig": [
+           {
+            "blendShapeName": "blendShape68.noseSneerRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.noseSneerLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthUpperUpRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthUpperUpLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthStretchRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthStretchLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthSmileRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthSmileLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthShrugUpper",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthShrugLower",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthRollUpper",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthRollLower",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthPucker",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthPressRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthPressLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthLowerDownRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthLowerDownLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthFunnel",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthFrownRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthFrownLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthDimpleRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthDimpleLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.mouthClose",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.jawRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.jawOpen",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.jawLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.jawForward",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.eyeWideRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.eyeWideLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.eyeSquintRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.eyeSquintLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.eyeLookUpRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.eyeLookUpLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.eyeLookOutRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.eyeLookOutLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.eyeLookInRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.eyeLookInLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.eyeLookDownRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.eyeLookDownLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.eyeBlinkRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.eyeBlinkLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.cheekSquintRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.cheekSquintLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.cheekPuff",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.browInnerUp",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.browOuterUpRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.browOuterUpLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.browDownRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape68.browDownLeft",
+            "expressionName": ""
+           }
+          ],
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "eyeBoneId": -1,
+          "eyeSetting": {
+           "eyeType": 0,
+           "innerCanthusTilt": 0,
+           "leftLimit": -0.36000001430511475,
+           "lookingDownBoost": 2,
+           "lowerLimit": -0.6000000238418579,
+           "outerCanthusTilt": 0,
+           "rightLimit": 0.36000001430511475,
+           "upperLimit": 0.6000000238418579,
+           "xSensitivity": 2,
+           "yOffset": 0,
+           "ySensitivity": 3
+          },
+          "morphName": "CH_M_Eyebrow",
+          "needReload": true,
+          "paused": false,
+          "trackEyeRoll": false,
+          "type": "Animoji3DComponent"
+         },
+         {
+          "guid": "862adf80-742d-47bd-8e76-4a30237cf55b",
+          "type": "PrefabEntityShadow",
+          "enabled": true
+         }
+        ],
+        "enabled": true,
+        "forbid": false,
+        "id": 0,
+        "name": "CH_M_Eyebrow"
+       },
+       {
+        "children": [],
+        "components": [
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "needReload": true,
+          "objectEnabled": true,
+          "paused": false,
+          "position": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "rotation": {
+           "w": 1,
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "scale": {
+           "x": 1,
+           "y": 1,
+           "z": 1
+          },
+          "skipUpdate": false,
+          "type": "BasicTransform",
+          "visible": true,
+          "eEuler": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          }
+         },
+         {
+          "castShadow": true,
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "frustumCulling": true,
+          "meshResourceKey": "b35acf73-ace8-4dd8-9c45-82501b2fc40e",
+          "needReload": true,
+          "paused": false,
+          "priority": 4,
+          "receiveShadow": true,
+          "skinInfoResourceKey": "70aa6031-df18-417a-a9c9-cb9af3f9db0d",
+          "subMeshConfigs": [
+           {
+            "materialResourceKeys": [
+             "ad885037-ee18-4e83-b729-76a59582a06c"
+            ]
+           }
+          ],
+          "type": "MeshRenderer3DComponentV3"
+         },
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "layers": 1,
+          "needReload": true,
+          "paused": false,
+          "type": "LayerSetComponent"
+         },
+         {
+          "guid": "abe48293-36c7-4878-b5ba-c26f540b7604",
+          "type": "PrefabEntityShadow",
+          "enabled": true
+         }
+        ],
+        "enabled": true,
+        "forbid": false,
+        "id": 0,
+        "name": "CH_M_Eye"
+       },
+       {
+        "children": [],
+        "components": [
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "needReload": true,
+          "objectEnabled": true,
+          "paused": false,
+          "position": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "rotation": {
+           "w": 1,
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "scale": {
+           "x": 1,
+           "y": 1,
+           "z": 1
+          },
+          "skipUpdate": false,
+          "type": "BasicTransform",
+          "visible": true,
+          "eEuler": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          }
+         },
+         {
+          "castShadow": true,
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "frustumCulling": true,
+          "meshResourceKey": "740e0199-e2b4-499d-b9d7-20c77d97aa0d",
+          "needReload": true,
+          "paused": false,
+          "priority": 4,
+          "receiveShadow": true,
+          "skinInfoResourceKey": "72cbde9b-1b7d-4b9e-9750-5f1f1987416e",
+          "subMeshConfigs": [
+           {
+            "materialResourceKeys": [
+             "d99b6728-b682-423c-9364-d9a6751e06f3"
+            ]
+           }
+          ],
+          "type": "MeshRenderer3DComponentV3"
+         },
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "layers": 1,
+          "needReload": true,
+          "paused": false,
+          "type": "LayerSetComponent"
+         },
+         {
+          "blendShapeGroup": [
+           {
+            "blendShapeName": "blendShape54.jawRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthDimpleLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthDimpleRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthFrownLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthFrownRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthFunnel",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthLowerDownLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthLowerDownRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthPressLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthPressRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthPucker",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthRollLower",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthRollUpper",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthShrugLower",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthShrugUpper",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthSmileLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthSmileRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthStretchLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthStretchRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthUpperUpLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.mouthUpperUpRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.noseSneerLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.noseSneerRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.browDownLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.browDownRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.browInnerUp",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.browOuterUpLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.browOuterUpRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.cheekPuff",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.cheekSquintLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.cheekSquintRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.eyeBlinkLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.eyeBlinkRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.eyeLookDownLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.eyeLookDownRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.eyeLookInLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.eyeLookInRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.eyeLookOutLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.eyeLookOutRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.eyeLookUpLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.eyeLookUpRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.eyeSquintLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.eyeSquintRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.eyeWideLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.eyeWideRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.jawForward",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.jawLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape54.jawOpen",
+            "blendShapeValue": 0
+           }
+          ],
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "meshMorphModel": 0,
+          "morphName": "CH_M_Teeth",
+          "needReload": true,
+          "paused": false,
+          "type": "MeshMorphComponent"
+         },
+         {
+          "animojiConfig": [
+           {
+            "blendShapeName": "blendShape54.jawRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthDimpleLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthDimpleRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthFrownLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthFrownRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthFunnel",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthLowerDownLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthLowerDownRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthPressLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthPressRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthPucker",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthRollLower",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthRollUpper",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthShrugLower",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthShrugUpper",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthSmileLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthSmileRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthStretchLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthStretchRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthUpperUpLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.mouthUpperUpRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.noseSneerLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.noseSneerRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.browDownLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.browDownRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.browInnerUp",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.browOuterUpLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.browOuterUpRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.cheekPuff",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.cheekSquintLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.cheekSquintRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.eyeBlinkLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.eyeBlinkRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.eyeLookDownLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.eyeLookDownRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.eyeLookInLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.eyeLookInRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.eyeLookOutLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.eyeLookOutRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.eyeLookUpLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.eyeLookUpRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.eyeSquintLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.eyeSquintRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.eyeWideLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.eyeWideRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.jawForward",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.jawLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape54.jawOpen",
+            "expressionName": ""
+           }
+          ],
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "eyeBoneId": -1,
+          "eyeSetting": {
+           "eyeType": 0,
+           "innerCanthusTilt": 0,
+           "leftLimit": -0.36000001430511475,
+           "lookingDownBoost": 2,
+           "lowerLimit": -0.6000000238418579,
+           "outerCanthusTilt": 0,
+           "rightLimit": 0.36000001430511475,
+           "upperLimit": 0.6000000238418579,
+           "xSensitivity": 2,
+           "yOffset": 0,
+           "ySensitivity": 3
+          },
+          "morphName": "CH_M_Teeth",
+          "needReload": true,
+          "paused": false,
+          "trackEyeRoll": false,
+          "type": "Animoji3DComponent"
+         },
+         {
+          "guid": "94fb7b2b-5037-4556-83d7-885591e950c3",
+          "type": "PrefabEntityShadow",
+          "enabled": true
+         }
+        ],
+        "enabled": true,
+        "forbid": false,
+        "id": 0,
+        "name": "CH_M_Teeth"
+       },
+       {
+        "children": [],
+        "components": [
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "needReload": true,
+          "objectEnabled": true,
+          "paused": false,
+          "position": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "rotation": {
+           "w": 1,
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "scale": {
+           "x": 1,
+           "y": 1,
+           "z": 1
+          },
+          "skipUpdate": false,
+          "type": "BasicTransform",
+          "visible": true,
+          "eEuler": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          }
+         },
+         {
+          "castShadow": true,
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "frustumCulling": true,
+          "meshResourceKey": "89f11a9c-906a-4ec6-a3e6-233e3f4a17af",
+          "needReload": true,
+          "paused": false,
+          "priority": 4,
+          "receiveShadow": true,
+          "skinInfoResourceKey": "0461f5e6-7545-4631-b12f-1c3ef5dcdece",
+          "subMeshConfigs": [
+           {
+            "materialResourceKeys": [
+             "58f50b70-6f9f-48a6-ad81-3eebf36a4e15"
+            ]
+           }
+          ],
+          "type": "MeshRenderer3DComponentV3"
+         },
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "layers": 1,
+          "needReload": true,
+          "paused": false,
+          "type": "LayerSetComponent"
+         },
+         {
+          "blendShapeGroup": [
+           {
+            "blendShapeName": "blendShape69.browDownLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.browDownRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.browOuterUpLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.browOuterUpRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.eyeLookInRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.eyeLookInLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.eyeLookDownRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthUpperUpRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthUpperUpLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthStretchRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.noseSneerRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.noseSneerLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthShrugUpper",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthShrugLower",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthStretchLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthPucker",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthPressRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthRollUpper",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthRollLower",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthLowerDownLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthFunnel",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthPressLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthLowerDownRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthFrownRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthFrownLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.cheekPuff",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.eyeLookDownLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.eyeBlinkRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.eyeBlinkLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.cheekSquintRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.cheekSquintLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.jawRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.jawLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.jawOpen",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthDimpleRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthDimpleLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.eyeWideLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.eyeWideRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthClose",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.eyeSquintRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.eyeSquintLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.jawForward",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.eyeLookOutRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.eyeLookOutLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.eyeLookUpRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.eyeLookUpLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.browInnerUp",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthSmileLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape69.mouthSmileRight",
+            "blendShapeValue": 0
+           }
+          ],
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "meshMorphModel": 0,
+          "morphName": "CH_M_head",
+          "needReload": true,
+          "paused": false,
+          "type": "MeshMorphComponent"
+         },
+         {
+          "animojiConfig": [
+           {
+            "blendShapeName": "blendShape69.browDownLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.browDownRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.browOuterUpLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.browOuterUpRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.eyeLookInRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.eyeLookInLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.eyeLookDownRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthUpperUpRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthUpperUpLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthStretchRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.noseSneerRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.noseSneerLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthShrugUpper",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthShrugLower",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthStretchLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthPucker",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthPressRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthRollUpper",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthRollLower",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthLowerDownLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthFunnel",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthPressLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthLowerDownRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthFrownRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthFrownLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.cheekPuff",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.eyeLookDownLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.eyeBlinkRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.eyeBlinkLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.cheekSquintRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.cheekSquintLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.jawRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.jawLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.jawOpen",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthDimpleRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthDimpleLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.eyeWideLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.eyeWideRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthClose",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.eyeSquintRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.eyeSquintLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.jawForward",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.eyeLookOutRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.eyeLookOutLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.eyeLookUpRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.eyeLookUpLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.browInnerUp",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthSmileLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape69.mouthSmileRight",
+            "expressionName": ""
+           }
+          ],
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "eyeBoneId": -1,
+          "eyeSetting": {
+           "eyeType": 0,
+           "innerCanthusTilt": 0,
+           "leftLimit": -0.36000001430511475,
+           "lookingDownBoost": 2,
+           "lowerLimit": -0.6000000238418579,
+           "outerCanthusTilt": 0,
+           "rightLimit": 0.36000001430511475,
+           "upperLimit": 0.6000000238418579,
+           "xSensitivity": 2,
+           "yOffset": 0,
+           "ySensitivity": 3
+          },
+          "morphName": "CH_M_head",
+          "needReload": true,
+          "paused": false,
+          "trackEyeRoll": false,
+          "type": "Animoji3DComponent"
+         },
+         {
+          "guid": "3c628827-985d-45a7-a115-aca264061389",
+          "type": "PrefabEntityShadow",
+          "enabled": true
+         }
+        ],
+        "enabled": true,
+        "forbid": false,
+        "id": 0,
+        "name": "CH_M_head"
+       },
+       {
+        "children": [],
+        "components": [
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "needReload": true,
+          "objectEnabled": true,
+          "paused": false,
+          "position": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "rotation": {
+           "w": 1,
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "scale": {
+           "x": 1,
+           "y": 1,
+           "z": 1
+          },
+          "skipUpdate": false,
+          "type": "BasicTransform",
+          "visible": true,
+          "eEuler": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          }
+         },
+         {
+          "castShadow": true,
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "frustumCulling": true,
+          "meshResourceKey": "493d00b8-c2c1-4f6d-9f1e-81aec3bba158",
+          "needReload": true,
+          "paused": false,
+          "priority": 4,
+          "receiveShadow": true,
+          "skinInfoResourceKey": "aa071e27-1101-4ff4-a9f5-c882d68a0ada",
+          "subMeshConfigs": [
+           {
+            "materialResourceKeys": [
+             "46b4058e-7bf3-4de7-aa34-f101cca35369"
+            ]
+           }
+          ],
+          "type": "MeshRenderer3DComponentV3"
+         },
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "layers": 1,
+          "needReload": true,
+          "paused": false,
+          "type": "LayerSetComponent"
+         },
+         {
+          "blendShapeGroup": [
+           {
+            "blendShapeName": "blendShape70.BrowDownLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.BrowDownRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.BrowInnerUp",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.BrowOuterUpLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.BrowOuterUpRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.CheekPuff",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.CheekSquintLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.CheekSquintRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.EyeBlinkLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.EyeBlinkRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.EyeLookDownLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.EyeLookDownRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.EyeLookInLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.EyeLookInRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.EyeLookOutLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.EyeLookOutRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.EyeLookUpLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.EyeLookUpRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.EyeSquintLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.EyeSquintRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.EyeWideRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.EyeWideLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.JawForward",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.JawLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.JawOpen",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.JawRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthClose",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthDimpleLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthDimpleRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthFrownLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthFrownRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthFunnel",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthLowerDownLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthLowerDownRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthPressLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthPressRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthPucker",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthRollLower",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthRollUpper",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthShrugLower",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthShrugUpper",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthSmileLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthSmileRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthStretchLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthStretchRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthUpperUpLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.MouthUpperUpRight",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.NoseSneerLeft",
+            "blendShapeValue": 0
+           },
+           {
+            "blendShapeName": "blendShape70.NoseSneerRight",
+            "blendShapeValue": 0
+           }
+          ],
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "meshMorphModel": 0,
+          "morphName": "CH_M_Eyelash",
+          "needReload": true,
+          "paused": false,
+          "type": "MeshMorphComponent"
+         },
+         {
+          "animojiConfig": [
+           {
+            "blendShapeName": "blendShape70.BrowDownLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.BrowDownRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.BrowInnerUp",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.BrowOuterUpLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.BrowOuterUpRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.CheekPuff",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.CheekSquintLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.CheekSquintRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.EyeBlinkLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.EyeBlinkRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.EyeLookDownLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.EyeLookDownRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.EyeLookInLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.EyeLookInRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.EyeLookOutLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.EyeLookOutRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.EyeLookUpLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.EyeLookUpRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.EyeSquintLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.EyeSquintRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.EyeWideRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.EyeWideLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.JawForward",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.JawLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.JawOpen",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.JawRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthClose",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthDimpleLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthDimpleRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthFrownLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthFrownRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthFunnel",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthLowerDownLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthLowerDownRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthPressLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthPressRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthPucker",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthRollLower",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthRollUpper",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthShrugLower",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthShrugUpper",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthSmileLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthSmileRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthStretchLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthStretchRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthUpperUpLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.MouthUpperUpRight",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.NoseSneerLeft",
+            "expressionName": ""
+           },
+           {
+            "blendShapeName": "blendShape70.NoseSneerRight",
+            "expressionName": ""
+           }
+          ],
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "eyeBoneId": -1,
+          "eyeSetting": {
+           "eyeType": 0,
+           "innerCanthusTilt": 0,
+           "leftLimit": -0.36000001430511475,
+           "lookingDownBoost": 2,
+           "lowerLimit": -0.6000000238418579,
+           "outerCanthusTilt": 0,
+           "rightLimit": 0.36000001430511475,
+           "upperLimit": 0.6000000238418579,
+           "xSensitivity": 2,
+           "yOffset": 0,
+           "ySensitivity": 3
+          },
+          "morphName": "CH_M_Eyelash",
+          "needReload": true,
+          "paused": false,
+          "trackEyeRoll": false,
+          "type": "Animoji3DComponent"
+         },
+         {
+          "guid": "e392f404-5e98-4baa-9bd1-4a7336aaf2db",
+          "type": "PrefabEntityShadow",
+          "enabled": true
+         }
+        ],
+        "enabled": true,
+        "forbid": false,
+        "id": 0,
+        "name": "CH_M_Eyelash"
+       },
+       {
+        "children": [
+         {
+          "children": [
+           {
+            "children": [
+             {
+              "children": [],
+              "components": [
+               {
+                "componentID": 0,
+                "enabled": true,
+                "entityId": 0,
+                "needReload": true,
+                "objectEnabled": true,
+                "paused": false,
+                "position": {
+                 "x": 0.004431574605405331,
+                 "y": -0.008534124121069908,
+                 "z": 0.03701349347829819
+                },
+                "rotation": {
+                 "w": 1,
+                 "x": 0,
+                 "y": 0,
+                 "z": 0
+                },
+                "scale": {
+                 "x": 1,
+                 "y": 1,
+                 "z": 1
+                },
+                "skipUpdate": false,
+                "type": "BasicTransform",
+                "visible": true,
+                "eEuler": {
+                 "x": 0,
+                 "y": 0,
+                 "z": 0
+                }
+               },
+               {
+                "bone_uuid_": 1797692667,
+                "componentID": 0,
+                "enabled": true,
+                "entityId": 0,
+                "needReload": true,
+                "paused": false,
+                "type": "Bone3DComponent"
+               },
+               {
+                "guid": "608703e5-ceff-4012-ac9c-a8112cf0d15d",
+                "type": "PrefabEntityShadow",
+                "enabled": true
+               }
+              ],
+              "enabled": true,
+              "forbid": false,
+              "id": 0,
+              "name": "EyeEnd_L"
+             }
+            ],
+            "components": [
+             {
+              "componentID": 0,
+              "enabled": true,
+              "entityId": 0,
+              "needReload": true,
+              "objectEnabled": true,
+              "paused": false,
+              "position": {
+               "x": 0.050432488322257996,
+               "y": 0.1008506491780281,
+               "z": 0.039774056524038315
+              },
+              "rotation": {
+               "w": 1,
+               "x": 0,
+               "y": 0,
+               "z": 0
+              },
+              "scale": {
+               "x": 1,
+               "y": 1,
+               "z": 1
+              },
+              "skipUpdate": false,
+              "type": "BasicTransform",
+              "visible": true,
+              "eEuler": {
+               "x": 0,
+               "y": 0,
+               "z": 0
+              }
+             },
+             {
+              "bone_uuid_": 1671091778,
+              "componentID": 0,
+              "enabled": true,
+              "entityId": 0,
+              "needReload": true,
+              "paused": false,
+              "type": "Bone3DComponent"
+             },
+             {
+              "guid": "a2ff57d0-7c34-414a-870c-9c7b555d99a7",
+              "type": "PrefabEntityShadow",
+              "enabled": true
+             }
+            ],
+            "enabled": true,
+            "forbid": false,
+            "id": 0,
+            "name": "Eye_L"
+           },
+           {
+            "children": [
+             {
+              "children": [],
+              "components": [
+               {
+                "componentID": 0,
+                "enabled": true,
+                "entityId": 0,
+                "needReload": true,
+                "objectEnabled": true,
+                "paused": false,
+                "position": {
+                 "x": -0.004431416746228933,
+                 "y": -0.008534133434295654,
+                 "z": 0.03701351210474968
+                },
+                "rotation": {
+                 "w": 1,
+                 "x": 0,
+                 "y": 0,
+                 "z": 0
+                },
+                "scale": {
+                 "x": 1,
+                 "y": 1,
+                 "z": 1
+                },
+                "skipUpdate": false,
+                "type": "BasicTransform",
+                "visible": true,
+                "eEuler": {
+                 "x": 0,
+                 "y": 0,
+                 "z": 0
+                }
+               },
+               {
+                "bone_uuid_": 710655442,
+                "componentID": 0,
+                "enabled": true,
+                "entityId": 0,
+                "needReload": true,
+                "paused": false,
+                "type": "Bone3DComponent"
+               },
+               {
+                "guid": "9590930a-a2d7-4444-9f9b-6db7ed20f571",
+                "type": "PrefabEntityShadow",
+                "enabled": true
+               }
+              ],
+              "enabled": true,
+              "forbid": false,
+              "id": 0,
+              "name": "EyeEnd_R"
+             }
+            ],
+            "components": [
+             {
+              "componentID": 0,
+              "enabled": true,
+              "entityId": 0,
+              "needReload": true,
+              "objectEnabled": true,
+              "paused": false,
+              "position": {
+               "x": -0.05043451115489006,
+               "y": 0.10085052996873856,
+               "z": 0.039774246513843536
+              },
+              "rotation": {
+               "w": 1,
+               "x": 0,
+               "y": 0,
+               "z": 0
+              },
+              "scale": {
+               "x": 1,
+               "y": 1,
+               "z": 1
+              },
+              "skipUpdate": false,
+              "type": "BasicTransform",
+              "visible": true,
+              "eEuler": {
+               "x": 0,
+               "y": 0,
+               "z": 0
+              }
+             },
+             {
+              "bone_uuid_": 584054553,
+              "componentID": 0,
+              "enabled": true,
+              "entityId": 0,
+              "needReload": true,
+              "paused": false,
+              "type": "Bone3DComponent"
+             },
+             {
+              "guid": "37b3596e-91eb-4616-8b1c-0fa5bdb2e953",
+              "type": "PrefabEntityShadow",
+              "enabled": true
+             }
+            ],
+            "enabled": true,
+            "forbid": false,
+            "id": 0,
+            "name": "Eye_R"
+           }
+          ],
+          "components": [
+           {
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "needReload": true,
+            "objectEnabled": true,
+            "paused": false,
+            "position": {
+             "x": 4.571924172580566e-9,
+             "y": 0.04616561904549599,
+             "z": 0.004218899644911289
+            },
+            "rotation": {
+             "w": 1,
+             "x": 0,
+             "y": 0,
+             "z": 0
+            },
+            "scale": {
+             "x": 1,
+             "y": 1,
+             "z": 1
+            },
+            "skipUpdate": false,
+            "type": "BasicTransform",
+            "visible": true,
+            "eEuler": {
+             "x": 0,
+             "y": 0,
+             "z": 0
+            }
+           },
+           {
+            "bone_uuid_": 1544359586,
+            "componentID": 0,
+            "enabled": true,
+            "entityId": 0,
+            "needReload": true,
+            "paused": false,
+            "type": "Bone3DComponent"
+           },
+           {
+            "guid": "fced93c4-dccc-41ad-9166-fd8ccf3fca21",
+            "type": "PrefabEntityShadow",
+            "enabled": true
+           }
+          ],
+          "enabled": true,
+          "forbid": false,
+          "id": 0,
+          "name": "Head"
+         }
+        ],
+        "components": [
+         {
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "needReload": true,
+          "objectEnabled": true,
+          "paused": false,
+          "position": {
+           "x": -1.0486185431091144e-7,
+           "y": 0.923926055431366,
+           "z": -0.013692168518900871
+          },
+          "rotation": {
+           "w": 1,
+           "x": 0,
+           "y": 0,
+           "z": 0
+          },
+          "scale": {
+           "x": 1,
+           "y": 1,
+           "z": 1
+          },
+          "skipUpdate": false,
+          "type": "BasicTransform",
+          "visible": true,
+          "eEuler": {
+           "x": 0,
+           "y": 0,
+           "z": 0
+          }
+         },
+         {
+          "bone_uuid_": 1417627394,
+          "componentID": 0,
+          "enabled": true,
+          "entityId": 0,
+          "needReload": true,
+          "paused": false,
+          "type": "Bone3DComponent"
+         },
+         {
+          "guid": "dcb3c2be-d8a0-4413-b441-195c1da8439e",
+          "type": "PrefabEntityShadow",
+          "enabled": true
+         }
+        ],
+        "enabled": true,
+        "forbid": false,
+        "id": 0,
+        "name": "Neck"
+       }
+      ],
+      "components": [
+       {
+        "componentID": 0,
+        "enabled": true,
+        "entityId": 0,
+        "needReload": true,
+        "objectEnabled": true,
+        "paused": false,
+        "position": {
+         "x": 0,
+         "y": 0,
+         "z": 0
+        },
+        "rotation": {
+         "w": 1,
+         "x": 0,
+         "y": 0,
+         "z": 0
+        },
+        "scale": {
+         "x": 1,
+         "y": 1,
+         "z": 1
+        },
+        "skipUpdate": false,
+        "type": "BasicTransform",
+        "visible": true,
+        "eEuler": {
+         "x": 0,
+         "y": 0,
+         "z": 0
+        }
+       },
+       {
+        "componentID": 0,
+        "enabled": true,
+        "entityId": 0,
+        "needReload": true,
+        "paused": false,
+        "type": "SkeletonSkinComponent"
+       },
+       {
+        "guid": "188a7c9f-7af4-46d0-8725-8e0f554eddc9",
+        "type": "PrefabEntityShadow",
+        "enabled": true
+       }
+      ],
+      "enabled": true,
+      "forbid": false,
+      "id": 0,
+      "name": "Scene"
+     }
+    ],
+    "components": [
+     {
+      "componentID": 0,
+      "enabled": true,
+      "entityId": 0,
+      "needReload": true,
+      "objectEnabled": true,
+      "paused": false,
+      "position": {
+       "x": 0,
+       "y": 0,
+       "z": 0
+      },
+      "rotation": {
+       "w": 1,
+       "x": 0,
+       "y": 0,
+       "z": 0
+      },
+      "scale": {
+       "x": 1,
+       "y": 1,
+       "z": 1
+      },
+      "skipUpdate": false,
+      "type": "BasicTransform",
+      "visible": true,
+      "eEuler": {
+       "x": 0,
+       "y": 0,
+       "z": 0
+      }
+     },
+     {
+      "guid": "3393d506-4e69-4f80-801d-a9c4efa09b47",
+      "type": "PrefabEntityShadow",
+      "enabled": true
+     }
+    ],
+    "enabled": true,
+    "forbid": false,
+    "id": 0,
+    "name": "Scenes"
+   }
+  ],
+  "components": [
+   {
+    "componentID": 0,
+    "enabled": true,
+    "entityId": 0,
+    "needReload": true,
+    "objectEnabled": true,
+    "paused": false,
+    "position": {
+     "x": 0,
+     "y": 0,
+     "z": 0
+    },
+    "rotation": {
+     "w": 1,
+     "x": 0,
+     "y": 0,
+     "z": 0
+    },
+    "scale": {
+     "x": 1,
+     "y": 1,
+     "z": 1
+    },
+    "skipUpdate": false,
+    "type": "BasicTransform",
+    "visible": true,
+    "eEuler": {
+     "x": 0,
+     "y": 0,
+     "z": 0
+    }
+   },
+   {
+    "guid": "6b3bfe67-16c3-476e-b963-fa3b273ebee2",
+    "type": "PrefabEntityShadow",
+    "enabled": true
+   }
+  ],
+  "enabled": true,
+  "forbid": false,
+  "id": 0,
+  "name": "male_head(prefab)"
+ }
+}

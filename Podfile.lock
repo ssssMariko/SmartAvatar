@@ -1,0 +1,42 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - Masonry (1.1.0)
+  - SSZipArchive (2.4.3)
+  - XMagic (2.5.0.250)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Masonry
+  - SSZipArchive
+  - XMagic
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - Masonry
+    - SSZipArchive
+    - XMagic
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
+  XMagic: 8150a6fb1a0743a582e39eea60ad75c007dbe3b3
+
+PODFILE CHECKSUM: 303aaafe303dae0709e772ee55f0ea6b1b221133
+
+COCOAPODS: 1.11.3

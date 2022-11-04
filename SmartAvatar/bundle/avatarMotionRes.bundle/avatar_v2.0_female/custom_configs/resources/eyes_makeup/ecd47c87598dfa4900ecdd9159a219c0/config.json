@@ -1,0 +1,12 @@
+{
+    "action": "changeTexture",
+    "category": "eyes_makeup",
+    "entityName": "face_main",
+    "id": "ecd47c87598dfa4900ecdd9159a219c0",
+    "value": {
+        "key": "eyesMakeupMap",
+        "switchKey": "eyesMakeupEnableTexture",
+        "switchValue": true,
+        "value": "custom_configs/resources/eyes_makeup/ecd47c87598dfa4900ecdd9159a219c0/eyeshadow_tex_1.png"
+    }
+}

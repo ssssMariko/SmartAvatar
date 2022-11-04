@@ -1,0 +1,16 @@
+{
+    "action": "replace",
+    "category": "shoes",
+    "entityName": "Wolf3D_Outfit_Footwear",
+    "id": "1ee23d337d1c9f2a9dc53dcf60affbcd",
+    "value": {
+        "meshResourceKey": "custom_configs/resources/shoes/1ee23d337d1c9f2a9dc53dcf60affbcd/Wolf3D_Outfit_Footwear.fmesh",
+        "subMeshConfigs": [
+            {
+                "materialResourceKeys": [
+                    "custom_configs/resources/shoes/1ee23d337d1c9f2a9dc53dcf60affbcd/Wolf3D_Outfit_Footwear.fmaterial"
+                ]
+            }
+        ]
+    }
+}

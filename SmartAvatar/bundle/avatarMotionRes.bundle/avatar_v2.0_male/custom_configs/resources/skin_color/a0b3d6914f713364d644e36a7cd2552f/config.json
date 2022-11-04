@@ -1,0 +1,12 @@
+{
+    "action": "changeTexture",
+    "category": "skin_color",
+    "entityName": "face_main",
+    "id": "a0b3d6914f713364d644e36a7cd2552f",
+    "value": {
+        "key": "baseColorMap",
+        "switchKey": "baseColorEnableTexture",
+        "switchValue": true,
+        "value": "custom_configs/resources/skin_color/a0b3d6914f713364d644e36a7cd2552f/face_tex_base_6.png"
+    }
+}

@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  SmartAvatar
+//
+//  Created by Mariko0Oo on 2022/11/1.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Define.h"
+
+
+#endif /* PrefixHeader_pch */

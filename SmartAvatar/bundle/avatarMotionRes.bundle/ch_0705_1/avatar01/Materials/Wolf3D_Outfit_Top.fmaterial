@@ -1,0 +1,92 @@
+{
+    "renderState": {
+        "colorWrite": true,
+        "cullingMode": "BACK",
+        "depthCulling": true,
+        "depthWrite": true,
+        "doubleSided": false,
+        "maskThreshold": 0.5
+    },
+    "shaderResourceKey": "internal:lit_opaque",
+    "values": {
+        "aoEnableTexture": false,
+        "aoSamplingChannel": 0,
+        "aoStrength": 1,
+        "baseColorEnableTexture": true,
+        "baseColorFactor": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "baseColorIndex": 0,
+        "baseColorMap": {
+            "uri": "f3bfe529-86d2-4a69-9bd3-994271b6fb56"
+        },
+        "baseColorTexturePremultiplied": false,
+        "baseColorUvMatrix": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1
+        ],
+        "clearCoatEnableTexture": false,
+        "clearCoatFactor": 0,
+        "clearCoatNormalEnableTexture": false,
+        "clearCoatNormalScale": 0,
+        "clearCoatRoughnessEnableTexture": false,
+        "clearCoatRoughnessFactor": 0,
+        "emissiveEnableTexture": false,
+        "emissiveEnableTextureColorMultiply": true,
+        "emissiveFactor": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "emissiveStrength": 1,
+        "metallicFactor": 1,
+        "metallicRoughnessEnableTexture": true,
+        "metallicRoughnessIndex": 0,
+        "metallicRoughnessMap": {
+            "uri": "47c7a117-bbbe-45aa-b3f4-1c556eba7a58"
+        },
+        "metallicRoughnessUvMatrix": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1
+        ],
+        "metallicSamplingChannel": 2,
+        "normalEnableGReverse": false,
+        "normalEnableTexture": true,
+        "normalIndex": 0,
+        "normalMap": {
+            "uri": "45be20de-4aa5-4038-88b4-b6e268a53eb1"
+        },
+        "normalScale": 1,
+        "normalUvMatrix": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1
+        ],
+        "roughnessFactor": 1,
+        "roughnessSamplingChannel": 1
+    }
+}

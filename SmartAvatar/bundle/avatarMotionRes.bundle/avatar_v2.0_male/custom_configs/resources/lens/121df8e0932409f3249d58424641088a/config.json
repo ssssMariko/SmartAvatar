@@ -1,0 +1,31 @@
+{
+    "action": "replace",
+    "category": "lens",
+    "entityName": "lens",
+    "id": "121df8e0932409f3249d58424641088a",
+    "value": {
+        "meshResourceKey": "custom_configs/resources/lens/121df8e0932409f3249d58424641088a/glass_2_lens.fmesh",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "subMeshConfigs": [
+            {
+                "materialResourceKeys": [
+                    "custom_configs/resources/lens/121df8e0932409f3249d58424641088a/glass_lens_2.fmaterial"
+                ]
+            }
+        ]
+    }
+}

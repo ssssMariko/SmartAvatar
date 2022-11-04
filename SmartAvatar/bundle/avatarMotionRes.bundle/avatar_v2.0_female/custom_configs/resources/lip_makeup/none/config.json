@@ -1,0 +1,10 @@
+{
+    "action": "changeTexture",
+    "category": "lip_makeup",
+    "entityName": "face_main",
+    "id": "none",
+    "value": {
+        "switchKey": "lipMakeupEnableTexture",
+        "switchValue": false
+    }
+}

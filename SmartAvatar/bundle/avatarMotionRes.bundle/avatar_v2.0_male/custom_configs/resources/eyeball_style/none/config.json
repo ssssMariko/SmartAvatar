@@ -1,0 +1,10 @@
+{
+    "action": "changeTexture",
+    "category": "eyeball_style",
+    "entityName": "left_eyeball",
+    "id": "none",
+    "value": {
+        "switchKey": "baseColorEnableTexture",
+        "switchValue": false
+    }
+}

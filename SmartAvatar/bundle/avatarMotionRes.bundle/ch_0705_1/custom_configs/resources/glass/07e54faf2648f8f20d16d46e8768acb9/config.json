@@ -1,0 +1,31 @@
+{
+    "action": "replace",
+    "category": "glass",
+    "entityName": "Wolf3D_Glasses",
+    "id": "07e54faf2648f8f20d16d46e8768acb9",
+    "value": {
+        "meshResourceKey": "custom_configs/resources/glass/07e54faf2648f8f20d16d46e8768acb9/Wolf3D_Glasses.fmesh",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "subMeshConfigs": [
+            {
+                "materialResourceKeys": [
+                    "custom_configs/resources/glass/07e54faf2648f8f20d16d46e8768acb9/Wolf3D_Glasses.fmaterial"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "action": "replace",
+    "category": "hat",
+    "entityName": "Wolf3D_Headwear",
+    "id": "cba6e4cec4a9297adc365c3e7a3351b9",
+    "value": {
+        "meshResourceKey": "custom_configs/resources/hat/cba6e4cec4a9297adc365c3e7a3351b9/Wolf3D_Headwear.fmesh",
+        "subMeshConfigs": [
+            {
+                "materialResourceKeys": [
+                    "custom_configs/resources/hat/cba6e4cec4a9297adc365c3e7a3351b9/Wolf3D_Headwear.fmaterial"
+                ]
+            }
+        ]
+    }
+}

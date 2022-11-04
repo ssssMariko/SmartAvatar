@@ -1,0 +1,31 @@
+{
+    "action": "replace",
+    "category": "hair_style",
+    "entityName": "hair",
+    "id": "0b77930311cfe8b8c583899f25f392a4",
+    "value": {
+        "meshResourceKey": "custom_configs/resources/hair_style/0b77930311cfe8b8c583899f25f392a4/hair_06.fmesh",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "subMeshConfigs": [
+            {
+                "materialResourceKeys": [
+                    "custom_configs/resources/hair_style/0b77930311cfe8b8c583899f25f392a4/hair_1.fmaterial"
+                ]
+            }
+        ]
+    }
+}

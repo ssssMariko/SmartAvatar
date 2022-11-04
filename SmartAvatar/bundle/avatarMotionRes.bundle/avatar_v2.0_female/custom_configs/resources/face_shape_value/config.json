@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "action": "shapeValue",
+            "category": "face_shape_value",
+            "entityName": "face_main",
+            "id": "face_shape_value",
+            "value": {
+                "cheek_width": 0,
+                "jaw_length": 0,
+                "chin_width": 0,
+                "jaw_width": 0,
+                "cheek_size": 0
+            }
+        }
+    ],
+    "type": 1
+}

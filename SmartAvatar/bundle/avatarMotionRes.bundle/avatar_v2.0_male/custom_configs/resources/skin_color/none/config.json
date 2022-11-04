@@ -1,0 +1,10 @@
+{
+    "action": "changeTexture",
+    "category": "skin_color",
+    "entityName": "face_main",
+    "id": "none",
+    "value": {
+        "switchKey": "baseColorEnableTexture",
+        "switchValue": false
+    }
+}

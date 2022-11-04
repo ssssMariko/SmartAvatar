@@ -1,0 +1,12 @@
+{
+    "action": "changeTexture",
+    "category": "face_makeup",
+    "entityName": "face_main",
+    "id": "b75a06aafa5fd959a6ef8242a0ba50c9",
+    "value": {
+        "key": "faceMakeupMap",
+        "switchKey": "faceMakeupEnableTexture",
+        "switchValue": true,
+        "value": "custom_configs/resources/face_makeup/b75a06aafa5fd959a6ef8242a0ba50c9/paint_tex_1.png"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "action": "replace",
+    "category": "dress_top",
+    "entityName": "Wolf3D_Outfit_Top",
+    "id": "0fbe5287bc1ab3ec1e93c0bcd65f9093",
+    "value": {
+        "meshResourceKey": "custom_configs/resources/dress_top/0fbe5287bc1ab3ec1e93c0bcd65f9093/Wolf3D_Outfit_Top2.fmesh",
+        "subMeshConfigs": [
+            {
+                "materialResourceKeys": [
+                    "custom_configs/resources/dress_top/0fbe5287bc1ab3ec1e93c0bcd65f9093/Wolf3D_Outfit_Top2.fmaterial"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "renderState": {
+        "colorWrite": true,
+        "depthWrite": true,
+        "depthCulling": true,
+        "doubleSided": false,
+        "cullingMode": "BACK"
+    },
+    "shaderResourceKey": "e4f695a2-9204-40b5-9a01-8fc74c5cc773",
+    "values": {
+        "baseColorFactor": [
+            0.3764705882352941,
+            0.47058823529411764,
+            0.8862745098039215,
+            1
+        ],
+        "baseColorEnableTexture": false,
+        "baseColorMap": "",
+        "baseColorIndex": 0,
+        "baseColorTexturePremultiplied": false,
+        "metallicFactor": 0.17,
+        "roughnessFactor": 0.61,
+        "metallicRoughnessEnableTexture": false,
+        "metallicRoughnessMap": "",
+        "metallicRoughnessIndex": 0,
+        "metallicSamplingChannel": 2,
+        "roughnessSamplingChannel": 1,
+        "aoEnableTexture": false,
+        "occlusionMap": "",
+        "aoIndex": 0,
+        "aoSamplingChannel": 0,
+        "aoStrength": 1,
+        "normalEnableTexture": true,
+        "normalMap": {
+            "uri": "abe6c933-6f96-4537-8d96-15680657814f"
+        },
+        "normalIndex": 0,
+        "normalScale": 0.25,
+        "normalEnableGReverse": false,
+        "emissiveFactor": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "emissiveEnableTexture": false,
+        "emissiveMap": "",
+        "emissiveIndex": 0,
+        "emissiveStrength": 1,
+        "emissiveEnableTextureColorMultiply": true,
+        "anisotropy": 0.13,
+        "noiseMap": {
+            "uri": "ae51bd52-883a-43ae-bb50-ce84cb20d32c"
+        },
+        "Jitter": 1,
+        "lightdir": [
+            -18,
+            11,
+            108
+        ],
+        "highlightA_offset": -0.5499999999999998,
+        "highlightA_shininess": 0.09999999977648258,
+        "highlightA_Strength": 0.02,
+        "highlightB_offset": -0.16000000000000014,
+        "highlightB_shininess": 0.1499999997764826,
+        "highlightB_Strength": 0.01
+    }
+}

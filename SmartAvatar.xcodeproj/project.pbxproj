@@ -1,0 +1,665 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3968862D961E6DB61A0DC2E6 /* Pods_SmartAvatar.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1AA24A8B185259C8F9C88DAE /* Pods_SmartAvatar.framework */; };
+		F0101F3C291101B9009577BC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F3B291101B9009577BC /* AppDelegate.m */; };
+		F0101F42291101B9009577BC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F41291101B9009577BC /* ViewController.m */; };
+		F0101F45291101B9009577BC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0101F43291101B9009577BC /* Main.storyboard */; };
+		F0101F47291101BA009577BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0101F46291101BA009577BC /* Assets.xcassets */; };
+		F0101F4A291101BA009577BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0101F48291101BA009577BC /* LaunchScreen.storyboard */; };
+		F0101F4D291101BA009577BC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F4C291101BA009577BC /* main.m */; };
+		F0101F612911068F009577BC /* lut.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F0101F542911068F009577BC /* lut.bundle */; };
+		F0101F652911068F009577BC /* segmentMotionRes.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F0101F582911068F009577BC /* segmentMotionRes.bundle */; };
+		F0101F662911068F009577BC /* 2dMotionRes.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F0101F592911068F009577BC /* 2dMotionRes.bundle */; };
+		F0101F672911068F009577BC /* ganMotionRes.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F0101F5A2911068F009577BC /* ganMotionRes.bundle */; };
+		F0101F682911068F009577BC /* makeupMotionRes.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F0101F5B2911068F009577BC /* makeupMotionRes.bundle */; };
+		F0101F692911068F009577BC /* avatarMotionRes.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F0101F5C2911068F009577BC /* avatarMotionRes.bundle */; };
+		F0101F6C2911068F009577BC /* handMotionRes.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F0101F5F2911068F009577BC /* handMotionRes.bundle */; };
+		F0101F6D2911068F009577BC /* 3dMotionRes.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F0101F602911068F009577BC /* 3dMotionRes.bundle */; };
+		F0101F9D29111684009577BC /* AvatarResManager.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F7529111684009577BC /* AvatarResManager.m */; };
+		F0101F9E29111684009577BC /* avatar_v2.0_male_panel.json in Resources */ = {isa = PBXBuildFile; fileRef = F0101F7629111684009577BC /* avatar_v2.0_male_panel.json */; };
+		F0101F9F29111684009577BC /* AvatarHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F7B29111684009577BC /* AvatarHomeViewController.m */; };
+		F0101FA029111684009577BC /* AvatarHomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F0101F7C29111684009577BC /* AvatarHomeViewController.xib */; };
+		F0101FA129111684009577BC /* SelectGenderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F7D29111684009577BC /* SelectGenderViewController.m */; };
+		F0101FA229111684009577BC /* TakePhotoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F7E29111684009577BC /* TakePhotoViewController.m */; };
+		F0101FA329111684009577BC /* AvatarViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = F0101F8029111684009577BC /* AvatarViewController.mm */; };
+		F0101FA429111684009577BC /* EN_avatar_v2.0_male_panel.json in Resources */ = {isa = PBXBuildFile; fileRef = F0101F8129111684009577BC /* EN_avatar_v2.0_male_panel.json */; };
+		F0101FA529111684009577BC /* AvatarSubTabInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F8329111684009577BC /* AvatarSubTabInfo.m */; };
+		F0101FA629111684009577BC /* AvatarItemInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F8729111684009577BC /* AvatarItemInfo.m */; };
+		F0101FA729111684009577BC /* AvatarEntityInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F8829111684009577BC /* AvatarEntityInfo.m */; };
+		F0101FA829111684009577BC /* AvatarPanelSubTabView.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F8A29111684009577BC /* AvatarPanelSubTabView.m */; };
+		F0101FA929111684009577BC /* AvatarEntityView.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F8D29111684009577BC /* AvatarEntityView.m */; };
+		F0101FAA29111684009577BC /* AvatarPanelItemSelectorView.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F8F29111684009577BC /* AvatarPanelItemSelectorView.m */; };
+		F0101FAB29111684009577BC /* AvatarPanelitemCollectionCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F9029111684009577BC /* AvatarPanelitemCollectionCell.m */; };
+		F0101FAC29111684009577BC /* AvatarPanelView.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F9129111684009577BC /* AvatarPanelView.m */; };
+		F0101FAD29111684009577BC /* AvatarPanelItemSliderView.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F9329111684009577BC /* AvatarPanelItemSliderView.m */; };
+		F0101FAE29111684009577BC /* GenderItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F9429111684009577BC /* GenderItemView.m */; };
+		F0101FAF29111684009577BC /* avatar_v2.0_female_panel.json in Resources */ = {isa = PBXBuildFile; fileRef = F0101F9829111684009577BC /* avatar_v2.0_female_panel.json */; };
+		F0101FB029111684009577BC /* EN_avatar_v2.0_female_panel.json in Resources */ = {isa = PBXBuildFile; fileRef = F0101F9929111684009577BC /* EN_avatar_v2.0_female_panel.json */; };
+		F0101FB129111684009577BC /* UIView+Toast.m in Sources */ = {isa = PBXBuildFile; fileRef = F0101F9C29111684009577BC /* UIView+Toast.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1AA24A8B185259C8F9C88DAE /* Pods_SmartAvatar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SmartAvatar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1B30AE945B5C57DA0404B46 /* Pods-SmartAvatar.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartAvatar.release.xcconfig"; path = "Target Support Files/Pods-SmartAvatar/Pods-SmartAvatar.release.xcconfig"; sourceTree = "<group>"; };
+		F0101F37291101B9009577BC /* SmartAvatar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SmartAvatar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F0101F3A291101B9009577BC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		F0101F3B291101B9009577BC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		F0101F40291101B9009577BC /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		F0101F41291101B9009577BC /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		F0101F44291101B9009577BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F0101F46291101BA009577BC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F0101F49291101BA009577BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F0101F4B291101BA009577BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F0101F4C291101BA009577BC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F0101F542911068F009577BC /* lut.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = lut.bundle; sourceTree = "<group>"; };
+		F0101F582911068F009577BC /* segmentMotionRes.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = segmentMotionRes.bundle; sourceTree = "<group>"; };
+		F0101F592911068F009577BC /* 2dMotionRes.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = 2dMotionRes.bundle; sourceTree = "<group>"; };
+		F0101F5A2911068F009577BC /* ganMotionRes.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = ganMotionRes.bundle; sourceTree = "<group>"; };
+		F0101F5B2911068F009577BC /* makeupMotionRes.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = makeupMotionRes.bundle; sourceTree = "<group>"; };
+		F0101F5C2911068F009577BC /* avatarMotionRes.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = avatarMotionRes.bundle; sourceTree = "<group>"; };
+		F0101F5F2911068F009577BC /* handMotionRes.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = handMotionRes.bundle; sourceTree = "<group>"; };
+		F0101F602911068F009577BC /* 3dMotionRes.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = 3dMotionRes.bundle; sourceTree = "<group>"; };
+		F0101F702911121F009577BC /* Define.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Define.h; sourceTree = "<group>"; };
+		F0101F712911128B009577BC /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		F0101F7429111684009577BC /* AvatarResManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AvatarResManager.h; sourceTree = "<group>"; };
+		F0101F7529111684009577BC /* AvatarResManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AvatarResManager.m; sourceTree = "<group>"; };
+		F0101F7629111684009577BC /* avatar_v2.0_male_panel.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = avatar_v2.0_male_panel.json; sourceTree = "<group>"; };
+		F0101F7829111684009577BC /* AvatarHomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AvatarHomeViewController.h; sourceTree = "<group>"; };
+		F0101F7929111684009577BC /* TakePhotoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TakePhotoViewController.h; sourceTree = "<group>"; };
+		F0101F7A29111684009577BC /* SelectGenderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectGenderViewController.h; sourceTree = "<group>"; };
+		F0101F7B29111684009577BC /* AvatarHomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AvatarHomeViewController.m; sourceTree = "<group>"; };
+		F0101F7C29111684009577BC /* AvatarHomeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AvatarHomeViewController.xib; sourceTree = "<group>"; };
+		F0101F7D29111684009577BC /* SelectGenderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectGenderViewController.m; sourceTree = "<group>"; };
+		F0101F7E29111684009577BC /* TakePhotoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TakePhotoViewController.m; sourceTree = "<group>"; };
+		F0101F7F29111684009577BC /* AvatarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AvatarViewController.h; sourceTree = "<group>"; };
+		F0101F8029111684009577BC /* AvatarViewController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = AvatarViewController.mm; sourceTree = "<group>"; };
+		F0101F8129111684009577BC /* EN_avatar_v2.0_male_panel.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EN_avatar_v2.0_male_panel.json; sourceTree = "<group>"; };
+		F0101F8329111684009577BC /* AvatarSubTabInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AvatarSubTabInfo.m; sourceTree = "<group>"; };
+		F0101F8429111684009577BC /* AvatarItemInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AvatarItemInfo.h; sourceTree = "<group>"; };
+		F0101F8529111684009577BC /* AvatarEntityInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AvatarEntityInfo.h; sourceTree = "<group>"; };
+		F0101F8629111684009577BC /* AvatarSubTabInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AvatarSubTabInfo.h; sourceTree = "<group>"; };
+		F0101F8729111684009577BC /* AvatarItemInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AvatarItemInfo.m; sourceTree = "<group>"; };
+		F0101F8829111684009577BC /* AvatarEntityInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AvatarEntityInfo.m; sourceTree = "<group>"; };
+		F0101F8A29111684009577BC /* AvatarPanelSubTabView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AvatarPanelSubTabView.m; sourceTree = "<group>"; };
+		F0101F8B29111684009577BC /* GenderItemView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GenderItemView.h; sourceTree = "<group>"; };
+		F0101F8C29111684009577BC /* AvatarPanelItemSliderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AvatarPanelItemSliderView.h; sourceTree = "<group>"; };
+		F0101F8D29111684009577BC /* AvatarEntityView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AvatarEntityView.m; sourceTree = "<group>"; };
+		F0101F8E29111684009577BC /* AvatarPanelView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AvatarPanelView.h; sourceTree = "<group>"; };
+		F0101F8F29111684009577BC /* AvatarPanelItemSelectorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AvatarPanelItemSelectorView.m; sourceTree = "<group>"; };
+		F0101F9029111684009577BC /* AvatarPanelitemCollectionCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AvatarPanelitemCollectionCell.m; sourceTree = "<group>"; };
+		F0101F9129111684009577BC /* AvatarPanelView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AvatarPanelView.m; sourceTree = "<group>"; };
+		F0101F9229111684009577BC /* AvatarEntityView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AvatarEntityView.h; sourceTree = "<group>"; };
+		F0101F9329111684009577BC /* AvatarPanelItemSliderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AvatarPanelItemSliderView.m; sourceTree = "<group>"; };
+		F0101F9429111684009577BC /* GenderItemView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GenderItemView.m; sourceTree = "<group>"; };
+		F0101F9529111684009577BC /* AvatarPanelSubTabView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AvatarPanelSubTabView.h; sourceTree = "<group>"; };
+		F0101F9629111684009577BC /* AvatarPanelitemCollectionCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AvatarPanelitemCollectionCell.h; sourceTree = "<group>"; };
+		F0101F9729111684009577BC /* AvatarPanelItemSelectorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AvatarPanelItemSelectorView.h; sourceTree = "<group>"; };
+		F0101F9829111684009577BC /* avatar_v2.0_female_panel.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = avatar_v2.0_female_panel.json; sourceTree = "<group>"; };
+		F0101F9929111684009577BC /* EN_avatar_v2.0_female_panel.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EN_avatar_v2.0_female_panel.json; sourceTree = "<group>"; };
+		F0101F9B29111684009577BC /* UIView+Toast.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Toast.h"; sourceTree = "<group>"; };
+		F0101F9C29111684009577BC /* UIView+Toast.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Toast.m"; sourceTree = "<group>"; };
+		F0D315D6B96FE318F0A13B80 /* Pods-SmartAvatar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartAvatar.debug.xcconfig"; path = "Target Support Files/Pods-SmartAvatar/Pods-SmartAvatar.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F0101F34291101B9009577BC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3968862D961E6DB61A0DC2E6 /* Pods_SmartAvatar.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B29B010E553BADADDA6B8587 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1AA24A8B185259C8F9C88DAE /* Pods_SmartAvatar.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B67E21C7A99EA615CECD702F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F0D315D6B96FE318F0A13B80 /* Pods-SmartAvatar.debug.xcconfig */,
+				E1B30AE945B5C57DA0404B46 /* Pods-SmartAvatar.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		F0101F2E291101B9009577BC = {
+			isa = PBXGroup;
+			children = (
+				F0101F39291101B9009577BC /* SmartAvatar */,
+				F0101F38291101B9009577BC /* Products */,
+				B67E21C7A99EA615CECD702F /* Pods */,
+				B29B010E553BADADDA6B8587 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		F0101F38291101B9009577BC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F0101F37291101B9009577BC /* SmartAvatar.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F0101F39291101B9009577BC /* SmartAvatar */ = {
+			isa = PBXGroup;
+			children = (
+				F0101F7229111684009577BC /* Avatar */,
+				F0101F532911068F009577BC /* bundle */,
+				F0101F3A291101B9009577BC /* AppDelegate.h */,
+				F0101F3B291101B9009577BC /* AppDelegate.m */,
+				F0101F40291101B9009577BC /* ViewController.h */,
+				F0101F41291101B9009577BC /* ViewController.m */,
+				F0101F43291101B9009577BC /* Main.storyboard */,
+				F0101F46291101BA009577BC /* Assets.xcassets */,
+				F0101F48291101BA009577BC /* LaunchScreen.storyboard */,
+				F0101F4B291101BA009577BC /* Info.plist */,
+				F0101F4C291101BA009577BC /* main.m */,
+				F0101F702911121F009577BC /* Define.h */,
+				F0101F712911128B009577BC /* PrefixHeader.pch */,
+			);
+			path = SmartAvatar;
+			sourceTree = "<group>";
+		};
+		F0101F532911068F009577BC /* bundle */ = {
+			isa = PBXGroup;
+			children = (
+				F0101F542911068F009577BC /* lut.bundle */,
+				F0101F582911068F009577BC /* segmentMotionRes.bundle */,
+				F0101F592911068F009577BC /* 2dMotionRes.bundle */,
+				F0101F5A2911068F009577BC /* ganMotionRes.bundle */,
+				F0101F5B2911068F009577BC /* makeupMotionRes.bundle */,
+				F0101F5C2911068F009577BC /* avatarMotionRes.bundle */,
+				F0101F5F2911068F009577BC /* handMotionRes.bundle */,
+				F0101F602911068F009577BC /* 3dMotionRes.bundle */,
+			);
+			path = bundle;
+			sourceTree = "<group>";
+		};
+		F0101F7229111684009577BC /* Avatar */ = {
+			isa = PBXGroup;
+			children = (
+				F0101F7329111684009577BC /* DataSource */,
+				F0101F7629111684009577BC /* avatar_v2.0_male_panel.json */,
+				F0101F7729111684009577BC /* Controller */,
+				F0101F8129111684009577BC /* EN_avatar_v2.0_male_panel.json */,
+				F0101F8229111684009577BC /* Model */,
+				F0101F8929111684009577BC /* View */,
+				F0101F9829111684009577BC /* avatar_v2.0_female_panel.json */,
+				F0101F9929111684009577BC /* EN_avatar_v2.0_female_panel.json */,
+				F0101F9A29111684009577BC /* Tool */,
+			);
+			path = Avatar;
+			sourceTree = "<group>";
+		};
+		F0101F7329111684009577BC /* DataSource */ = {
+			isa = PBXGroup;
+			children = (
+				F0101F7429111684009577BC /* AvatarResManager.h */,
+				F0101F7529111684009577BC /* AvatarResManager.m */,
+			);
+			path = DataSource;
+			sourceTree = "<group>";
+		};
+		F0101F7729111684009577BC /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				F0101F7829111684009577BC /* AvatarHomeViewController.h */,
+				F0101F7929111684009577BC /* TakePhotoViewController.h */,
+				F0101F7A29111684009577BC /* SelectGenderViewController.h */,
+				F0101F7B29111684009577BC /* AvatarHomeViewController.m */,
+				F0101F7C29111684009577BC /* AvatarHomeViewController.xib */,
+				F0101F7D29111684009577BC /* SelectGenderViewController.m */,
+				F0101F7E29111684009577BC /* TakePhotoViewController.m */,
+				F0101F7F29111684009577BC /* AvatarViewController.h */,
+				F0101F8029111684009577BC /* AvatarViewController.mm */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		F0101F8229111684009577BC /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F0101F8329111684009577BC /* AvatarSubTabInfo.m */,
+				F0101F8429111684009577BC /* AvatarItemInfo.h */,
+				F0101F8529111684009577BC /* AvatarEntityInfo.h */,
+				F0101F8629111684009577BC /* AvatarSubTabInfo.h */,
+				F0101F8729111684009577BC /* AvatarItemInfo.m */,
+				F0101F8829111684009577BC /* AvatarEntityInfo.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		F0101F8929111684009577BC /* View */ = {
+			isa = PBXGroup;
+			children = (
+				F0101F8A29111684009577BC /* AvatarPanelSubTabView.m */,
+				F0101F8B29111684009577BC /* GenderItemView.h */,
+				F0101F8C29111684009577BC /* AvatarPanelItemSliderView.h */,
+				F0101F8D29111684009577BC /* AvatarEntityView.m */,
+				F0101F8E29111684009577BC /* AvatarPanelView.h */,
+				F0101F8F29111684009577BC /* AvatarPanelItemSelectorView.m */,
+				F0101F9029111684009577BC /* AvatarPanelitemCollectionCell.m */,
+				F0101F9129111684009577BC /* AvatarPanelView.m */,
+				F0101F9229111684009577BC /* AvatarEntityView.h */,
+				F0101F9329111684009577BC /* AvatarPanelItemSliderView.m */,
+				F0101F9429111684009577BC /* GenderItemView.m */,
+				F0101F9529111684009577BC /* AvatarPanelSubTabView.h */,
+				F0101F9629111684009577BC /* AvatarPanelitemCollectionCell.h */,
+				F0101F9729111684009577BC /* AvatarPanelItemSelectorView.h */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		F0101F9A29111684009577BC /* Tool */ = {
+			isa = PBXGroup;
+			children = (
+				F0101F9B29111684009577BC /* UIView+Toast.h */,
+				F0101F9C29111684009577BC /* UIView+Toast.m */,
+			);
+			path = Tool;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F0101F36291101B9009577BC /* SmartAvatar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F0101F50291101BA009577BC /* Build configuration list for PBXNativeTarget "SmartAvatar" */;
+			buildPhases = (
+				56D6BE23E63CAD9A9993325E /* [CP] Check Pods Manifest.lock */,
+				F0101F33291101B9009577BC /* Sources */,
+				F0101F34291101B9009577BC /* Frameworks */,
+				F0101F35291101B9009577BC /* Resources */,
+				C3DAB7C48290D0DF8A8D43C7 /* [CP] Embed Pods Frameworks */,
+				F018E31FE1C348A4CBB4E35C /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SmartAvatar;
+			productName = SmartAvatar;
+			productReference = F0101F37291101B9009577BC /* SmartAvatar.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F0101F2F291101B9009577BC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					F0101F36291101B9009577BC = {
+						CreatedOnToolsVersion = 14.0.1;
+					};
+				};
+			};
+			buildConfigurationList = F0101F32291101B9009577BC /* Build configuration list for PBXProject "SmartAvatar" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F0101F2E291101B9009577BC;
+			productRefGroup = F0101F38291101B9009577BC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F0101F36291101B9009577BC /* SmartAvatar */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F0101F35291101B9009577BC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F0101F6C2911068F009577BC /* handMotionRes.bundle in Resources */,
+				F0101FA429111684009577BC /* EN_avatar_v2.0_male_panel.json in Resources */,
+				F0101F6D2911068F009577BC /* 3dMotionRes.bundle in Resources */,
+				F0101F4A291101BA009577BC /* LaunchScreen.storyboard in Resources */,
+				F0101F47291101BA009577BC /* Assets.xcassets in Resources */,
+				F0101F9E29111684009577BC /* avatar_v2.0_male_panel.json in Resources */,
+				F0101FA029111684009577BC /* AvatarHomeViewController.xib in Resources */,
+				F0101F652911068F009577BC /* segmentMotionRes.bundle in Resources */,
+				F0101F662911068F009577BC /* 2dMotionRes.bundle in Resources */,
+				F0101F692911068F009577BC /* avatarMotionRes.bundle in Resources */,
+				F0101F45291101B9009577BC /* Main.storyboard in Resources */,
+				F0101F672911068F009577BC /* ganMotionRes.bundle in Resources */,
+				F0101FB029111684009577BC /* EN_avatar_v2.0_female_panel.json in Resources */,
+				F0101F612911068F009577BC /* lut.bundle in Resources */,
+				F0101FAF29111684009577BC /* avatar_v2.0_female_panel.json in Resources */,
+				F0101F682911068F009577BC /* makeupMotionRes.bundle in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		56D6BE23E63CAD9A9993325E /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SmartAvatar-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C3DAB7C48290D0DF8A8D43C7 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SmartAvatar/Pods-SmartAvatar-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SmartAvatar/Pods-SmartAvatar-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SmartAvatar/Pods-SmartAvatar-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F018E31FE1C348A4CBB4E35C /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SmartAvatar/Pods-SmartAvatar-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SmartAvatar/Pods-SmartAvatar-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SmartAvatar/Pods-SmartAvatar-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F0101F33291101B9009577BC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F0101F42291101B9009577BC /* ViewController.m in Sources */,
+				F0101F9F29111684009577BC /* AvatarHomeViewController.m in Sources */,
+				F0101FAE29111684009577BC /* GenderItemView.m in Sources */,
+				F0101F9D29111684009577BC /* AvatarResManager.m in Sources */,
+				F0101FA729111684009577BC /* AvatarEntityInfo.m in Sources */,
+				F0101FA529111684009577BC /* AvatarSubTabInfo.m in Sources */,
+				F0101F3C291101B9009577BC /* AppDelegate.m in Sources */,
+				F0101FB129111684009577BC /* UIView+Toast.m in Sources */,
+				F0101FAC29111684009577BC /* AvatarPanelView.m in Sources */,
+				F0101FA629111684009577BC /* AvatarItemInfo.m in Sources */,
+				F0101FA229111684009577BC /* TakePhotoViewController.m in Sources */,
+				F0101FA329111684009577BC /* AvatarViewController.mm in Sources */,
+				F0101FAD29111684009577BC /* AvatarPanelItemSliderView.m in Sources */,
+				F0101FA829111684009577BC /* AvatarPanelSubTabView.m in Sources */,
+				F0101FA929111684009577BC /* AvatarEntityView.m in Sources */,
+				F0101F4D291101BA009577BC /* main.m in Sources */,
+				F0101FAA29111684009577BC /* AvatarPanelItemSelectorView.m in Sources */,
+				F0101FAB29111684009577BC /* AvatarPanelitemCollectionCell.m in Sources */,
+				F0101FA129111684009577BC /* SelectGenderViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		F0101F43291101B9009577BC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F0101F44291101B9009577BC /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		F0101F48291101BA009577BC /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F0101F49291101BA009577BC /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F0101F4E291101BA009577BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		F0101F4F291101BA009577BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F0101F51291101BA009577BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F0D315D6B96FE318F0A13B80 /* Pods-SmartAvatar.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XR2SC2JS9C;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/SmartAvatar/PrefixHeader.pch";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SmartAvatar/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "App需要您的同意,才能访问相机";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "App需要您的同意,才能访问相册";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.fbbc.sups;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = NO;
+			};
+			name = Debug;
+		};
+		F0101F52291101BA009577BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E1B30AE945B5C57DA0404B46 /* Pods-SmartAvatar.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = XR2SC2JS9C;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/SmartAvatar/PrefixHeader.pch";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SmartAvatar/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "App需要您的同意,才能访问相机";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "App需要您的同意,才能访问相册";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.fbbc.sups;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F0101F32291101B9009577BC /* Build configuration list for PBXProject "SmartAvatar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F0101F4E291101BA009577BC /* Debug */,
+				F0101F4F291101BA009577BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F0101F50291101BA009577BC /* Build configuration list for PBXNativeTarget "SmartAvatar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F0101F51291101BA009577BC /* Debug */,
+				F0101F52291101BA009577BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F0101F2F291101B9009577BC /* Project object */;
+}
